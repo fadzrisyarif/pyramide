@@ -1184,7 +1184,7 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "Score",
+          "string": "Score 0",
           "font": "",
           "textAlignment": "left",
           "characterSize": 40,
@@ -1196,6 +1196,22 @@
         }
       ],
       "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "score",
+                "=",
+                "\"Score: \" + VariableString(Score)"
+              ]
+            }
+          ]
+        },
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
@@ -1243,6 +1259,16 @@
               "parameters": [
                 "Koin",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "Score",
+                "+",
+                "10"
               ]
             }
           ]
