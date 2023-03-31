@@ -504,8 +504,8 @@
     {
       "b": 209,
       "disableInputWhenNotFocused": true,
-      "mangledName": "level1",
-      "name": "level1",
+      "mangledName": "level2",
+      "name": "level2",
       "r": 209,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
@@ -563,21 +563,6 @@
           "height": 53,
           "layer": "",
           "name": "NewTiledSprite",
-          "persistentUuid": "5263a73d-4c70-47cf-88d7-96c9ca43f53a",
-          "width": 376,
-          "x": 237,
-          "y": 423,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 53,
-          "layer": "",
-          "name": "NewTiledSprite",
           "persistentUuid": "c52433a9-8ba6-4316-bbf3-d153573e8493",
           "width": 1338,
           "x": -33,
@@ -595,7 +580,7 @@
           "name": "NewTiledSprite",
           "persistentUuid": "7e5ee328-9ba4-4b1a-8047-0e350896fd76",
           "width": 305,
-          "x": 782,
+          "x": 630,
           "y": 426,
           "zOrder": 4,
           "numberProperties": [],
@@ -623,40 +608,10 @@
           "height": 0,
           "layer": "",
           "name": "Koin",
-          "persistentUuid": "499a06fc-a9ed-48a0-9352-f9259ca3d60c",
-          "width": 0,
-          "x": 493,
-          "y": 378,
-          "zOrder": 10,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Koin",
-          "persistentUuid": "a1779260-f15b-4a3b-a171-0a3771755474",
-          "width": 0,
-          "x": 959,
-          "y": 381,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Koin",
           "persistentUuid": "a147a9ca-48e9-45d5-ba9c-01d5d617760e",
           "width": 0,
-          "x": 681,
-          "y": 527,
+          "x": 704,
+          "y": 383,
           "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
@@ -670,8 +625,8 @@
           "name": "Koin",
           "persistentUuid": "101a12dc-26c6-4ade-9ae4-077cf9782d94",
           "width": 0,
-          "x": 1122,
-          "y": 523,
+          "x": 952,
+          "y": 293,
           "zOrder": 13,
           "numberProperties": [],
           "stringProperties": [],
@@ -715,23 +670,8 @@
           "name": "NewTiledSprite",
           "persistentUuid": "5477ddc9-96d7-4c91-9789-9873e889d44d",
           "width": 220,
-          "x": 1062,
-          "y": 278,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 90,
-          "customSize": true,
-          "height": 53,
-          "layer": "",
-          "name": "NewTiledSprite",
-          "persistentUuid": "a24cbcaf-0330-413d-ace1-2ae92a67d9d2",
-          "width": 376,
-          "x": 453,
-          "y": 355,
+          "x": 904,
+          "y": 348,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -745,38 +685,8 @@
           "name": "NewTiledSprite",
           "persistentUuid": "8faa5fec-5b63-4576-9452-be228adb393a",
           "width": 240,
-          "x": 499,
-          "y": 162,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 90,
-          "customSize": true,
-          "height": 42,
-          "layer": "",
-          "name": "NewTiledSprite",
-          "persistentUuid": "2b9785e6-68a0-4156-8c54-958b0457b693",
-          "width": 167,
-          "x": 244,
-          "y": 112,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 90,
-          "customSize": true,
-          "height": 53,
-          "layer": "",
-          "name": "NewTiledSprite",
-          "persistentUuid": "08882260-3fae-4153-af4a-59dd64f1e0ae",
-          "width": 242,
-          "x": 829,
-          "y": 147,
+          "x": 268,
+          "y": 393,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -790,8 +700,8 @@
           "name": "NewTiledSprite",
           "persistentUuid": "c0eed319-4b82-4657-8f1b-d2df957c071d",
           "width": 172,
-          "x": 1065,
-          "y": 406,
+          "x": 755,
+          "y": 139,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -806,7 +716,7 @@
           "persistentUuid": "d3871fb3-ca3f-433b-a504-08a1dd26fad6",
           "width": 145,
           "x": 670,
-          "y": 316,
+          "y": 274,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -838,51 +748,6 @@
           "x": 1175,
           "y": 349,
           "zOrder": 13,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 30,
-          "layer": "",
-          "name": "NewTiledSprite",
-          "persistentUuid": "180830d4-99a5-484e-adeb-492224ac33b3",
-          "width": 255,
-          "x": 357,
-          "y": 309,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 90,
-          "customSize": true,
-          "height": 25,
-          "layer": "",
-          "name": "NewTiledSprite",
-          "persistentUuid": "5d99cf88-0d2d-44e0-b65f-d34c099500ff",
-          "width": 53,
-          "x": 565,
-          "y": 124,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 90,
-          "customSize": true,
-          "height": 25,
-          "layer": "",
-          "name": "NewTiledSprite",
-          "persistentUuid": "7b66ee9b-6746-4a2f-87d9-5108e7f85d58",
-          "width": 72,
-          "x": 673,
-          "y": 74,
-          "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -923,41 +788,11 @@
           "height": 0,
           "layer": "",
           "name": "Koin",
-          "persistentUuid": "d4466cb7-639f-4718-97d1-e6476fed4666",
-          "width": 0,
-          "x": 657,
-          "y": 128,
-          "zOrder": 10,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Koin",
           "persistentUuid": "2b841e09-ccd2-44d5-aca0-2759da966256",
           "width": 0,
-          "x": 701,
-          "y": 266,
+          "x": 350,
+          "y": 337,
           "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 90,
-          "customSize": true,
-          "height": 24,
-          "layer": "",
-          "name": "NewTiledSprite",
-          "persistentUuid": "f6f9c053-3f0a-4fad-ba60-cf7349240a4f",
-          "width": 157,
-          "x": 1113,
-          "y": 183,
-          "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -970,8 +805,8 @@
           "name": "NewTiledSprite",
           "persistentUuid": "195d296b-fd2e-4422-a4db-a35e088536f5",
           "width": 53,
-          "x": 1149,
-          "y": 96,
+          "x": 1015,
+          "y": 278,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -979,30 +814,30 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 535,
           "layer": "",
-          "name": "Koin",
-          "persistentUuid": "62219d67-073d-49e7-a81c-fcb6b9bfc1a0",
-          "width": 0,
-          "x": 1158,
-          "y": 63,
-          "zOrder": 13,
+          "name": "NewTiledSprite",
+          "persistentUuid": "c39605b0-8c59-4d80-b85f-559bab659a38",
+          "width": 32,
+          "x": 1284,
+          "y": 36,
+          "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         },
         {
-          "angle": 90,
+          "angle": 0,
           "customSize": true,
-          "height": 25,
+          "height": 535,
           "layer": "",
           "name": "NewTiledSprite",
-          "persistentUuid": "307da588-1bfa-4889-8dae-90ca9336e349",
-          "width": 128,
-          "x": 53,
-          "y": 337,
-          "zOrder": 4,
+          "persistentUuid": "5add6aca-e57c-46f8-9f93-a3275e0c1af4",
+          "width": 32,
+          "x": -21,
+          "y": 44,
+          "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1399,6 +1234,93 @@
       "events": [
         {
           "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Koin",
+                "RandomInRange(200,1234)",
+                "520",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Koin",
+                "RandomInRange(200,1234)",
+                "520",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Koin",
+                "RandomInRange(200,1234)",
+                "520",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Koin",
+                "RandomInRange(200,1234)",
+                "520",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Koin",
+                "RandomInRange(200,1234)",
+                "520",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Koin",
+                "RandomInRange(200,1234)",
+                "520",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
           "actions": [
             {
@@ -1485,6 +1407,11 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         }
       ],
       "layers": [
@@ -1525,8 +1452,8 @@
     {
       "b": 209,
       "disableInputWhenNotFocused": true,
-      "mangledName": "Untitled_32scene4",
-      "name": "Untitled scene4",
+      "mangledName": "level1",
+      "name": "level1",
       "r": 209,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
@@ -1601,8 +1528,8 @@
           "name": "NewTiledSprite",
           "persistentUuid": "c52433a9-8ba6-4316-bbf3-d153573e8493",
           "width": 1338,
-          "x": -37,
-          "y": -5,
+          "x": -33,
+          "y": -2,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -1628,72 +1555,402 @@
           "customSize": false,
           "height": 0,
           "layer": "",
-          "name": "Coin",
-          "persistentUuid": "4fb670bd-4a0f-4f17-89b2-188592bac54e",
+          "name": "player",
+          "persistentUuid": "574db88b-fd3c-48db-b148-75958eba1d60",
           "width": 0,
-          "x": 392,
-          "y": 363,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Coin",
-          "persistentUuid": "fb722a9c-739a-493d-972b-5f8a96d81742",
-          "width": 0,
-          "x": 917,
-          "y": 367,
-          "zOrder": 6,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Coin",
-          "persistentUuid": "e6b50147-b86e-4ccf-81bb-4adc4e910b20",
-          "width": 0,
-          "x": 695,
-          "y": 504,
-          "zOrder": 7,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Coin",
-          "persistentUuid": "5bf89c6a-4ea3-4d17-8632-83e762e48e69",
-          "width": 0,
-          "x": 1160,
-          "y": 512,
-          "zOrder": 8,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "NewSprite",
-          "persistentUuid": "1528ab54-e1bd-4e77-a74a-9e4690568fb9",
-          "width": 0,
-          "x": 74,
-          "y": 470,
+          "x": 82,
+          "y": 495,
           "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Koin",
+          "persistentUuid": "a147a9ca-48e9-45d5-ba9c-01d5d617760e",
+          "width": 0,
+          "x": 681,
+          "y": 527,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Koin",
+          "persistentUuid": "101a12dc-26c6-4ade-9ae4-077cf9782d94",
+          "width": 0,
+          "x": 1234,
+          "y": 526,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "score",
+          "persistentUuid": "5c1a0fec-fe85-4a9f-8776-a0b7f964dbcd",
+          "width": 0,
+          "x": 21,
+          "y": 3,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 53,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "42c7df54-7ff0-4944-a8a1-52b27a3c937d",
+          "width": 221,
+          "x": 2,
+          "y": 233,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 53,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "5477ddc9-96d7-4c91-9789-9873e889d44d",
+          "width": 220,
+          "x": 1062,
+          "y": 278,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 53,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "a24cbcaf-0330-413d-ace1-2ae92a67d9d2",
+          "width": 376,
+          "x": 453,
+          "y": 355,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 28,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "8faa5fec-5b63-4576-9452-be228adb393a",
+          "width": 240,
+          "x": 499,
+          "y": 162,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 42,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "2b9785e6-68a0-4156-8c54-958b0457b693",
+          "width": 167,
+          "x": 244,
+          "y": 112,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 53,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "08882260-3fae-4153-af4a-59dd64f1e0ae",
+          "width": 242,
+          "x": 829,
+          "y": 147,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 24,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "c0eed319-4b82-4657-8f1b-d2df957c071d",
+          "width": 172,
+          "x": 1065,
+          "y": 406,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 53,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "d3871fb3-ca3f-433b-a504-08a1dd26fad6",
+          "width": 145,
+          "x": 670,
+          "y": 316,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 23,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "884b6052-a535-4070-bd7c-e76a9aa4c34a",
+          "width": 62,
+          "x": 1163,
+          "y": 400,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Koin",
+          "persistentUuid": "dc2f637f-ba68-4ce7-af96-476cc71e3e74",
+          "width": 0,
+          "x": 1175,
+          "y": 349,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 30,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "180830d4-99a5-484e-adeb-492224ac33b3",
+          "width": 255,
+          "x": 357,
+          "y": 309,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 25,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "5d99cf88-0d2d-44e0-b65f-d34c099500ff",
+          "width": 53,
+          "x": 565,
+          "y": 124,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 25,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "7b66ee9b-6746-4a2f-87d9-5108e7f85d58",
+          "width": 72,
+          "x": 673,
+          "y": 74,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 23,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "97fb485b-ac9e-4728-8f53-ce3bb828072e",
+          "width": 62,
+          "x": 351,
+          "y": 118,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Koin",
+          "persistentUuid": "8d4c8112-4d5a-44e1-9f3b-ed7fda223516",
+          "width": 0,
+          "x": 362,
+          "y": 79,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Koin",
+          "persistentUuid": "d4466cb7-639f-4718-97d1-e6476fed4666",
+          "width": 0,
+          "x": 657,
+          "y": 128,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Koin",
+          "persistentUuid": "2b841e09-ccd2-44d5-aca0-2759da966256",
+          "width": 0,
+          "x": 701,
+          "y": 266,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 24,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "f6f9c053-3f0a-4fad-ba60-cf7349240a4f",
+          "width": 157,
+          "x": 1113,
+          "y": 183,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 179,
+          "customSize": true,
+          "height": 25,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "195d296b-fd2e-4422-a4db-a35e088536f5",
+          "width": 53,
+          "x": 1149,
+          "y": 96,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Koin",
+          "persistentUuid": "62219d67-073d-49e7-a81c-fcb6b9bfc1a0",
+          "width": 0,
+          "x": 1158,
+          "y": 63,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 25,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "307da588-1bfa-4889-8dae-90ca9336e349",
+          "width": 128,
+          "x": 53,
+          "y": 337,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 535,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "c39605b0-8c59-4d80-b85f-559bab659a38",
+          "width": 32,
+          "x": 1284,
+          "y": 36,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 535,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "5add6aca-e57c-46f8-9f93-a3275e0c1af4",
+          "width": 32,
+          "x": -21,
+          "y": 44,
+          "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1734,7 +1991,229 @@
         },
         {
           "assetStoreId": "",
-          "name": "Coin",
+          "name": "player",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "acceleration": 1500,
+              "canGoDownFromJumpthru": true,
+              "canGrabPlatforms": false,
+              "canGrabWithoutMoving": true,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": false,
+              "jumpSpeed": 1000,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "slopeMaxAngle": 60,
+              "useLegacyTrajectory": false,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "NewSprite2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2.5339226722717285,
+                            "y": 0.013363487087190151
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 16
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          },
+                          {
+                            "x": 3.126028060913086,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite22",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2.5339226722717285,
+                            "y": 0.013363487087190151
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 16
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          },
+                          {
+                            "x": 3.126028060913086,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite23",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2.5339226722717285,
+                            "y": 0.013363487087190151
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 16
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          },
+                          {
+                            "x": 3.126028060913086,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite24",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2.5339226722717285,
+                            "y": 0.013363487087190151
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 16
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 16,
+                            "y": 32
+                          },
+                          {
+                            "x": 3.126028060913086,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Koin",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -1743,16 +2222,85 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "NewSprite",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Desain_tanpa_judul__2_-removebg-preview.png",
+                      "image": "NewSprite3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite7",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1775,66 +2323,25 @@
         },
         {
           "assetStoreId": "",
-          "name": "NewSprite",
+          "bold": true,
+          "italic": false,
+          "name": "score",
+          "smoothed": true,
           "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
+          "type": "TextObject::Text",
+          "underlined": false,
           "variables": [],
           "effects": [],
-          "behaviors": [
-            {
-              "name": "PlatformerObject",
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
-              "acceleration": 1500,
-              "canGoDownFromJumpthru": true,
-              "canGrabPlatforms": false,
-              "canGrabWithoutMoving": true,
-              "deceleration": 1500,
-              "gravity": 1000,
-              "ignoreDefaultControls": false,
-              "jumpSpeed": 800,
-              "jumpSustainTime": 0.2,
-              "ladderClimbingSpeed": 150,
-              "maxFallingSpeed": 700,
-              "maxSpeed": 250,
-              "slopeMaxAngle": 60,
-              "useLegacyTrajectory": false,
-              "xGrabTolerance": 10,
-              "yGrabOffset": 0
-            }
-          ],
-          "animations": [
-            {
-              "name": "NewSprite",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "NewSprite",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "behaviors": [],
+          "string": "Score 0",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 40,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
         }
       ],
       "events": [
@@ -1853,9 +2360,238 @@
           "actions": [
             {
               "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Koin",
+                "RandomInRange(240,570)",
+                "371",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Koin",
+                "RandomInRange(240,570)",
+                "371",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Koin",
+                "RandomInRange(680,1234)",
+                "527",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Koin",
+                "RandomInRange(680,1234)",
+                "527",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Koin",
+                "RandomInRange(680,1234)",
+                "527",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Koin",
+                "RandomInRange(680,1234)",
+                "527",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Koin",
+                "RandomInRange(790,1050)",
+                "527",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Koin",
+                "RandomInRange(790,1050)",
+                "380",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Koin",
+                "RandomInRange(790,1050)",
+                "380",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Koin",
+                "RandomInRange(790,1050)",
+                "380",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "score",
+                "=",
+                "\"Score: \" + VariableString(Score)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
                 "value": "PlayerAuthentication::DisplayAuthenticationBanner"
               },
               "parameters": [
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "Koin",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Koin",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "Score",
+                "+",
+                "10"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Track 2.mp3",
+                "",
+                "30",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneInstancesCount"
+              },
+              "parameters": [
+                "Koin",
+                "Koin",
+                "=",
+                "0"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"level2\"",
                 ""
               ]
             }
