@@ -197,6 +197,16 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": true
+      },
+      {
+        "file": "Desert Caravan.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Desert Caravan.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2475,6 +2485,18 @@
                 "Koin",
                 "RandomInRange(790,1050)",
                 "380",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "Desert Caravan.mp3",
+                "",
+                "30",
                 ""
               ]
             }
