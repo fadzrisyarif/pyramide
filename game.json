@@ -888,13 +888,13 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 2000,
               "deceleration": 2000,
               "jumpSpeed": 400,
               "ladderClimbingSpeed": 800,
               "maxFallingSpeed": 272,
-              "name": "PlatformerObject",
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "canGoDownFromJumpthru": true,
               "canGrabPlatforms": false,
               "canGrabWithoutMoving": true,
@@ -2078,6 +2078,8 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 2000,
               "deceleration": 2000,
               "gravity": 1000,
@@ -2085,8 +2087,6 @@
               "jumpSustainTime": 0.2,
               "ladderClimbingSpeed": 800,
               "maxFallingSpeed": 272,
-              "name": "PlatformerObject",
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "xGrabTolerance": 53,
               "canGoDownFromJumpthru": true,
               "canGrabPlatforms": false,
@@ -2874,8 +2874,8 @@
     {
       "b": 209,
       "disableInputWhenNotFocused": true,
-      "mangledName": "Untitled_32scene2",
-      "name": "Untitled scene2",
+      "mangledName": "over1",
+      "name": "over1",
       "r": 209,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
@@ -2970,7 +2970,6 @@
       "shortDescription": "Animate a tiled sprite from a sprite sheet.",
       "version": "1.0.0",
       "description": [
-        "",
         "Animate images from a sprite sheet by using a tiled sprite.",
         "",
         "## How to use",
