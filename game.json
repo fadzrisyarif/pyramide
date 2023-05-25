@@ -2363,7 +2363,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5769175655614962,
+        "zoomFactor": 0.06253294811440648,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -2379,13 +2379,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 524,
+          "height": 6693,
           "layer": "",
           "name": "NewTiledSprite2",
           "persistentUuid": "008970c0-46bd-4438-89fa-20209c271469",
-          "width": 1284,
-          "x": 0,
-          "y": 51,
+          "width": 13113,
+          "x": -550,
+          "y": -420,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -2394,11 +2394,11 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 163,
+          "height": 582,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "abe5c8c5-4f7c-4866-9323-c9fb698bf7b9",
-          "width": 1317,
+          "width": 5922,
           "x": 0,
           "y": 566,
           "zOrder": 3,
@@ -2415,7 +2415,7 @@
           "persistentUuid": "5263a73d-4c70-47cf-88d7-96c9ca43f53a",
           "width": 376,
           "x": 256,
-          "y": 448,
+          "y": 462,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -2424,13 +2424,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 53,
+          "height": 333,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "c52433a9-8ba6-4316-bbf3-d153573e8493",
-          "width": 1338,
-          "x": -33,
-          "y": -2,
+          "width": 7157,
+          "x": -128,
+          "y": -282,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -2468,12 +2468,12 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
+          "customSize": true,
+          "height": 299,
+          "layer": "view",
           "name": "score",
           "persistentUuid": "5c1a0fec-fe85-4a9f-8776-a0b7f964dbcd",
-          "width": 0,
+          "width": 581,
           "x": 21,
           "y": 3,
           "zOrder": 14,
@@ -2679,13 +2679,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 570,
+          "height": 982,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "c39605b0-8c59-4d80-b85f-559bab659a38",
-          "width": 32,
-          "x": 1266,
-          "y": 6,
+          "width": 253,
+          "x": 1410,
+          "y": -1228,
           "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
@@ -2694,13 +2694,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 535,
+          "height": 1031,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "5add6aca-e57c-46f8-9f93-a3275e0c1af4",
-          "width": 32,
-          "x": -21,
-          "y": 44,
+          "width": 399,
+          "x": -388,
+          "y": -159,
           "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
@@ -2710,12 +2710,12 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "",
+          "layer": "view",
           "name": "time",
           "persistentUuid": "ce701eda-858b-4d8c-b65d-c2f1d0601f68",
           "width": 0,
-          "x": 1066,
-          "y": 0,
+          "x": 1115,
+          "y": 7,
           "zOrder": 16,
           "numberProperties": [],
           "stringProperties": [],
@@ -2960,6 +2960,216 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Lighting",
+          "name": "NewLight",
+          "persistentUuid": "e2b0ff56-c667-4d5a-ad70-591c203936fd",
+          "width": 0,
+          "x": 99,
+          "y": 508,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "view",
+          "name": "NewTiledSprite2",
+          "persistentUuid": "880c11e7-3bdf-4319-bc51-79b09a5a3a95",
+          "width": 0,
+          "x": 6681,
+          "y": -351,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "view",
+          "name": "NewTiledSprite2",
+          "persistentUuid": "654950cd-82a2-40e4-a855-f66f4f068c1f",
+          "width": 0,
+          "x": 6753,
+          "y": -333,
+          "zOrder": 27,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 5315,
+          "layer": "view",
+          "name": "NewTiledSprite",
+          "persistentUuid": "d7823d9b-c72a-4ba2-a541-ef97cc07560f",
+          "width": 612,
+          "x": 6727,
+          "y": -362,
+          "zOrder": 28,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 465,
+          "layer": "view",
+          "name": "NewTiledSprite",
+          "persistentUuid": "51ae5d67-6503-4eee-a92a-ca6e5ce9730e",
+          "width": 4447,
+          "x": 3093,
+          "y": 1681,
+          "zOrder": 29,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 2284,
+          "layer": "view",
+          "name": "NewTiledSprite",
+          "persistentUuid": "f8b590b7-8161-47b7-9815-fb39e4a05266",
+          "width": 3052,
+          "x": -671,
+          "y": 1143,
+          "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 2405,
+          "layer": "view",
+          "name": "NewTiledSprite",
+          "persistentUuid": "cbab56d1-248d-4666-8011-5019bf7380ea",
+          "width": 3814,
+          "x": 3081,
+          "y": 1873,
+          "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 292,
+          "layer": "view",
+          "name": "NewTiledSprite",
+          "persistentUuid": "ab3e5d9b-b693-429d-b9f6-4a603c8ee509",
+          "width": 1811,
+          "x": 1373,
+          "y": 3986,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1025,
+          "layer": "view",
+          "name": "NewTiledSprite",
+          "persistentUuid": "4a1a2086-2245-48b6-a149-b15ff735ba46",
+          "width": 1811,
+          "x": 20,
+          "y": 3991,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 2247,
+          "layer": "view",
+          "name": "NewTiledSprite",
+          "persistentUuid": "1cfe4632-8056-47bc-93ce-d70b5bba6492",
+          "width": 882,
+          "x": -1281,
+          "y": 3386,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 529,
+          "layer": "view",
+          "name": "NewTiledSprite",
+          "persistentUuid": "55587a4d-b501-4e53-8f37-7abf225473dd",
+          "width": 3650,
+          "x": -1278,
+          "y": 5548,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1043,
+          "layer": "view",
+          "name": "NewTiledSprite",
+          "persistentUuid": "cf7ca245-36f9-4d67-a612-7c19c2b0afc7",
+          "width": 3857,
+          "x": 2340,
+          "y": 4939,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 463,
+          "layer": "view",
+          "name": "NewTiledSprite",
+          "persistentUuid": "6f2754d4-e614-467f-8605-d63e0eeb0e36",
+          "width": 7762,
+          "x": 6101,
+          "y": 5566,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 292,
+          "layer": "view",
+          "name": "NewTiledSprite",
+          "persistentUuid": "ff98ca21-866d-4781-a70c-5ac60b8fe342",
+          "width": 6508,
+          "x": 6710,
+          "y": 4679,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -3048,8 +3258,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 17.5,
+                        "y": 16.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3077,8 +3287,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 17.5,
+                        "y": 16.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3094,8 +3304,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 17.5,
+                        "y": 16.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3111,8 +3321,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 17.5,
+                        "y": 16.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3128,8 +3338,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 17.5,
+                        "y": 16.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3157,8 +3367,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 17.5,
+                        "y": 16.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3174,8 +3384,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 17.5,
+                        "y": 16.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -3318,9 +3528,9 @@
           "textAlignment": "left",
           "characterSize": 40,
           "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
+            "b": 255,
+            "g": 255,
+            "r": 255
           }
         },
         {
@@ -3340,9 +3550,9 @@
           "textAlignment": "left",
           "characterSize": 40,
           "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
+            "b": 255,
+            "g": 255,
+            "r": 255
           }
         },
         {
@@ -3480,6 +3690,21 @@
           "variables": [],
           "effects": [],
           "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewLight",
+          "tags": "",
+          "type": "Lighting::LightObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "radius": 150,
+            "color": "255;255;255",
+            "debugMode": false,
+            "texture": ""
+          }
         }
       ],
       "events": [
@@ -3515,6 +3740,59 @@
               "parameters": [
                 "",
                 "\"timer\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ZoomCamera"
+              },
+              "parameters": [
+                "",
+                "3",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetCameraCenterX"
+              },
+              "parameters": [
+                "",
+                "=",
+                "lerp(CameraCenterX(),player.X(),0.04)",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCameraCenterY"
+              },
+              "parameters": [
+                "",
+                "=",
+                "lerp(CameraCenterY(),player.Y(),0.05)",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCenter"
+              },
+              "parameters": [
+                "NewLight",
+                "=",
+                "player.X()",
+                "=",
+                "player.Y()"
               ]
             }
           ]
@@ -3961,6 +4239,38 @@
               "width": 0
             }
           ],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 12,
+          "ambientLightColorG": 12,
+          "ambientLightColorR": 12,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
+          "followBaseLayerCamera": true,
+          "isLightingLayer": true,
+          "isLocked": false,
+          "name": "Lighting",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 1651340654,
+          "ambientLightColorG": 150995058,
+          "ambientLightColorR": 6071872,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "view",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
           "effects": []
         }
       ],
@@ -16414,6 +16724,926 @@
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "author": "",
+      "category": "",
+      "extensionNamespace": "",
+      "fullName": "Dialog Box",
+      "helpPath": "https://github.com/PANDAKO-GitHub/DialogBoxExtension",
+      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMy4wLjMsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iSWNvbnMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgMzIgMzIiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDMyIDMyOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KCS5zdDB7ZmlsbDpub25lO3N0cm9rZTojMDAwMDAwO3N0cm9rZS13aWR0aDoyO3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDoxMDt9DQo8L3N0eWxlPg0KPGxpbmUgY2xhc3M9InN0MCIgeDE9IjEyIiB5MT0iMTQiIHgyPSIxMiIgeTI9IjE0Ii8+DQo8bGluZSBjbGFzcz0ic3QwIiB4MT0iMTYiIHkxPSIxNCIgeDI9IjE2IiB5Mj0iMTQiLz4NCjxsaW5lIGNsYXNzPSJzdDAiIHgxPSIyMCIgeTE9IjE0IiB4Mj0iMjAiIHkyPSIxNCIvPg0KPHBhdGggY2xhc3M9InN0MCIgZD0iTTExLDRjLTQuNCwwLTgsMy42LTgsOHYxMnY1bDAsMGMzLjctMy4yLDguNC01LDEzLjMtNUgyMWM0LjQsMCw4LTMuNiw4LTh2LTRjMC00LjQtMy42LTgtOC04SDExeiIvPg0KPC9zdmc+DQo=",
+      "name": "DialogBox",
+      "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/Line Hero Pack/Master/SVG/UI Essentials/UI Essentials_chat_message_sms.svg",
+      "shortDescription": "This extension adds Dialog Box functionality that can be used for RPGs, visual novels, and more.",
+      "version": "1.0.0",
+      "description": [
+        "## Summary",
+        "This extension adds Dialog Box functionality that can be used for RPGs, visual novels, and more.",
+        "",
+        "## How to use:",
+        "1. You will need a background **sprite**, a character **sprite**, a **BBText** to display the name, a **BBText** to display the text, and a **sprite** for the icon to prompt the player for action.",
+        "1. Add the \"Dialog Box\" behavior to the background object.",
+        "1. Place each object in the scene.",
+        "1. Execute the \"Setup Dialog Box\" action only once in the event.",
+        "1. After that, execute the \"Open Dialog Box\" action, \"Close Dialog Box\" action, etc.",
+        "",
+        "## This extension add:",
+        "**Dialog Box** - behavior",
+        "**Setup Dialog Box** - action",
+        "**Open Dialog Box** - action",
+        "**Close Dialog Box** - action",
+        "**Change Dialog Box Text** - action",
+        "**Change Dialog Box contents** - action",
+        "**Change Dialog Box typing sound** - action",
+        "**Change Dialog Box typing interval** - action",
+        "**Skip Dialog Box typing** - action",
+        "**Dialog Box is open** - condition",
+        "**Dialog Box is typing** - condition",
+        "**Dialog Box is close** - condition",
+        "**Number of times the Text in Dialog Box has changed** - condition",
+        "**Number of times the Text in Dialog Box has changed** - expression",
+        "",
+        "## Tips",
+        "This Dialog Box has a useful counter function.",
+        "It is zero when the dialog box is opened, and increases by one each time the text changes.",
+        "(However, it will not increase until the frame advances).",
+        "This feature is useful for keeping track of the progress of a conversation.",
+        "",
+        "## Note",
+        "In typing, style tags in BBText OBjects are also counted as characters.",
+        ""
+      ],
+      "origin": {
+        "identifier": "DialogBox",
+        "name": "gdevelop-extension-store"
+      },
+      "tags": [
+        "dialog"
+      ],
+      "authorIds": [
+        "Zu55H5hcb9YmZTltIVOTAFDJQyB2"
+      ],
+      "dependencies": [],
+      "eventsFunctions": [],
+      "eventsBasedBehaviors": [
+        {
+          "description": "This extension adds the functionality of a dialog box to your game.\nAdd this to the sprite object that will be the background of the dialog box.",
+          "fullName": "Dialog Box",
+          "name": "DialogBoxBackGround",
+          "objectType": "Sprite",
+          "eventsFunctions": [
+            {
+              "description": "Setup the Dialog Box.",
+              "fullName": "Setup Dialog Box",
+              "functionType": "Action",
+              "name": "Setup",
+              "sentence": "Setup the Dialog Box _PARAM0_ with _PARAM2_ , _PARAM3_ , _PARAM4_ and _PARAM5_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarObjetTxt"
+                      },
+                      "parameters": [
+                        "Object",
+                        "_DialogBoxBackGround.Se",
+                        "=",
+                        "Object.Behavior::PropertySe()"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "Object",
+                        "_DialogBoxBackGround.Interval",
+                        "=",
+                        "Object.Behavior::PropertyInterval()"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "Object",
+                        "_DialogBoxBackGround.Duration",
+                        "=",
+                        "Object.Behavior::PropertyDuration()"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "let dbbg = objects[0]._DialogBoxBackGround = {};",
+                    "dbbg.Bg = {name:objects[0].name, id:objects[0].id};",
+                    "dbbg.Name = {name:eventsFunctionContext.getObjects(\"Name\")[0].name, id:eventsFunctionContext.getObjects(\"Name\")[0].id};",
+                    "dbbg.Text = {name:eventsFunctionContext.getObjects(\"Text\")[0].name, id:eventsFunctionContext.getObjects(\"Text\")[0].id};",
+                    "dbbg.Img = {name:eventsFunctionContext.getObjects(\"Img\")[0].name, id:eventsFunctionContext.getObjects(\"Img\")[0].id};",
+                    "dbbg.Arrow = {name:eventsFunctionContext.getObjects(\"Arrow\")[0].name, id:eventsFunctionContext.getObjects(\"Arrow\")[0].id};",
+                    "dbbg.SeName = objects[0].getVariables().get(\"_DialogBoxBackGround\").getChild(\"Se\").getAsString();",
+                    "dbbg.Interval = objects[0].getVariables().get(\"_DialogBoxBackGround\").getChild(\"Interval\").getAsNumber();",
+                    "dbbg.Duration = objects[0].getVariables().get(\"_DialogBoxBackGround\").getChild(\"Duration\").getAsNumber();",
+                    "dbbg.State = \"Close\";",
+                    "dbbg.Width = objects[0].getWidth();",
+                    "dbbg.Height = objects[0].getHeight();",
+                    "dbbg.TextBuffer = \"\";",
+                    "dbbg.Cnt = 0;",
+                    "dbbg.CntFlag = false;",
+                    "",
+                    "if (dbbg.SeName != \"\") {",
+                    "    //runtimeScene.getSoundManager().loadAudio(dbbg.SeName, false);",
+                    "    dbbg.Se = runtimeScene.getSoundManager().createHowlerSound(dbbg.SeName, false, 1, false, 1);",
+                    "}",
+                    "",
+                    "objects[0].hide(true);",
+                    "eventsFunctionContext.getObjects(\"Name\")[0].hide(true);",
+                    "eventsFunctionContext.getObjects(\"Text\")[0].hide(true);",
+                    "eventsFunctionContext.getObjects(\"Img\")[0].hide(true);",
+                    "eventsFunctionContext.getObjects(\"Arrow\")[0].hide(true);",
+                    "objects[0].pauseTimer(\"_DialogBoxBackGroundInterval\");",
+                    ""
+                  ],
+                  "parameterObjects": "Object",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "Sprite",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "DialogBox::DialogBoxBackGround",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Name (BB Text)",
+                  "name": "Name",
+                  "supplementaryInformation": "BBText::BBText",
+                  "type": "objectList"
+                },
+                {
+                  "description": "Image (Sprite)",
+                  "name": "Img",
+                  "supplementaryInformation": "Sprite",
+                  "type": "objectList"
+                },
+                {
+                  "description": "Text (BB Text)",
+                  "name": "Text",
+                  "supplementaryInformation": "BBText::BBText",
+                  "type": "objectList"
+                },
+                {
+                  "description": "Arrow (Sprite)",
+                  "name": "Arrow",
+                  "supplementaryInformation": "Sprite",
+                  "type": "objectList"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "doStepPreEvents",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "let dbbg = eventsFunctionContext.getObjects(\"Object\")[0]._DialogBoxBackGround;\r",
+                    "if (!dbbg) {return}\r",
+                    "const BgIndex = runtimeScene.getObjects(dbbg.Bg.name).findIndex(v => v.id === dbbg.Bg.id);\r",
+                    "const NameIndex = runtimeScene.getObjects(dbbg.Name.name).findIndex(v => v.id === dbbg.Name.id);\r",
+                    "const TextIndex = runtimeScene.getObjects(dbbg.Text.name).findIndex(v => v.id === dbbg.Text.id);\r",
+                    "const ImgIndex = runtimeScene.getObjects(dbbg.Img.name).findIndex(v => v.id === dbbg.Img.id);\r",
+                    "const ArrowIndex = runtimeScene.getObjects(dbbg.Arrow.name).findIndex(v => v.id === dbbg.Arrow.id);\r",
+                    "if (BgIndex === -1) {console.warn(\"Background not found.\");return;}\r",
+                    "if (NameIndex === -1) {console.warn(\"Name not found.\");return;}\r",
+                    "if (TextIndex === -1) {console.warn(\"Text not found.\");return;}\r",
+                    "if (ImgIndex === -1) {console.warn(\"Image not found.\");return;}\r",
+                    "if (ArrowIndex === -1) {console.warn(\"Arrow not found.\");return;}\r",
+                    "const Bg = runtimeScene.getObjects(dbbg.Bg.name)[BgIndex];\r",
+                    "const Name = runtimeScene.getObjects(dbbg.Name.name)[NameIndex];\r",
+                    "const Text = runtimeScene.getObjects(dbbg.Text.name)[TextIndex];\r",
+                    "const Img = runtimeScene.getObjects(dbbg.Img.name)[ImgIndex];\r",
+                    "const Arrow = runtimeScene.getObjects(dbbg.Arrow.name)[ArrowIndex];\r",
+                    "\r",
+                    "if (Bg.getBehavior(\"Tween\").hasFinished(\"_DialogBoxBackGround.OpeningWidth\")) {\r",
+                    "    Name.hide(false);\r",
+                    "    Text.hide(false);\r",
+                    "    Img.hide(false);\r",
+                    "    dbbg.State = \"Typing\";\r",
+                    "    Bg.resetTimer(\"_DialogBoxBackGroundInterval\");\r",
+                    "    Bg.unpauseTimer(\"_DialogBoxBackGroundInterval\");\r",
+                    "    Bg.getBehavior(\"Tween\").removeTween(\"_DialogBoxBackGround.OpeningWidth\");\r",
+                    "    Bg.getBehavior(\"Tween\").removeTween(\"_DialogBoxBackGround.OpeningHeight\");\r",
+                    "    Bg.getBehavior(\"Tween\").removeTween(\"_DialogBoxBackGround.OpeningOpacity\");\r",
+                    "}\r",
+                    "if (Bg.getBehavior(\"Tween\").hasFinished(\"_DialogBoxBackGround.ClosingWidth\")) {\r",
+                    "    Bg.hide(true);\r",
+                    "    dbbg.State = \"Close\";\r",
+                    "    Bg.getBehavior(\"Tween\").removeTween(\"_DialogBoxBackGround.ClosingWidth\");\r",
+                    "    Bg.getBehavior(\"Tween\").removeTween(\"_DialogBoxBackGround.ClosingHeight\");\r",
+                    "    Bg.getBehavior(\"Tween\").removeTween(\"_DialogBoxBackGround.ClosingOpacity\");\r",
+                    "}\r",
+                    "\r",
+                    "if (dbbg.State == \"Typing\") {\r",
+                    "    if (Bg.timerElapsedTime(\"_DialogBoxBackGroundInterval\", dbbg.Interval)){\r",
+                    "        Text.setBBText(dbbg.TextBuffer.substring(0, Text.getBBText().length + 1));\r",
+                    "        Bg.resetTimer(\"_DialogBoxBackGroundInterval\");\r",
+                    "        if (dbbg.Se) {\r",
+                    "            dbbg.Se.play();\r",
+                    "        }\r",
+                    "        if (dbbg.TextBuffer.length <= Text.getBBText().length) {\r",
+                    "            Bg.pauseTimer(\"_DialogBoxBackGroundInterval\");\r",
+                    "            Arrow.hide(false);\r",
+                    "            dbbg.State = \"Open\";\r",
+                    "        }\r",
+                    "    }\r",
+                    "}\r",
+                    "\r",
+                    "if (dbbg.CntFlag) {\r",
+                    "    dbbg.Cnt++;\r",
+                    "    dbbg.CntFlag = false;\r",
+                    "}"
+                  ],
+                  "parameterObjects": "",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "Sprite",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "DialogBox::DialogBoxBackGround",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Open the Dialog Box.",
+              "fullName": "Open Dialog Box",
+              "functionType": "Action",
+              "name": "Open",
+              "sentence": "Open the Dialog Box _PARAM0_ with _PARAM2_ , _PARAM3_ and _PARAM4_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "let dbbg = eventsFunctionContext.getObjects(\"Object\")[0]._DialogBoxBackGround;",
+                    "if (!dbbg) {console.warn(\"Must be setup first.\");return;}",
+                    "if (dbbg.State != \"Close\") {return}",
+                    "const BgIndex = runtimeScene.getObjects(dbbg.Bg.name).findIndex(v => v.id === dbbg.Bg.id);",
+                    "const NameIndex = runtimeScene.getObjects(dbbg.Name.name).findIndex(v => v.id === dbbg.Name.id);",
+                    "const TextIndex = runtimeScene.getObjects(dbbg.Text.name).findIndex(v => v.id === dbbg.Text.id);",
+                    "const ImgIndex = runtimeScene.getObjects(dbbg.Img.name).findIndex(v => v.id === dbbg.Img.id);",
+                    "const ArrowIndex = runtimeScene.getObjects(dbbg.Arrow.name).findIndex(v => v.id === dbbg.Arrow.id);",
+                    "if (BgIndex === -1) {console.warn(\"Background not found.\");return;}",
+                    "if (NameIndex === -1) {console.warn(\"Name not found.\");return;}",
+                    "if (TextIndex === -1) {console.warn(\"Text not found.\");return;}",
+                    "if (ImgIndex === -1) {console.warn(\"Image not found.\");return;}",
+                    "if (ArrowIndex === -1) {console.warn(\"Arrow not found.\");return;}",
+                    "const Bg = runtimeScene.getObjects(dbbg.Bg.name)[BgIndex];",
+                    "const Name = runtimeScene.getObjects(dbbg.Name.name)[NameIndex];",
+                    "const Text = runtimeScene.getObjects(dbbg.Text.name)[TextIndex];",
+                    "const Img = runtimeScene.getObjects(dbbg.Img.name)[ImgIndex];",
+                    "const Arrow = runtimeScene.getObjects(dbbg.Arrow.name)[ArrowIndex];",
+                    "",
+                    "Name.setBBText(eventsFunctionContext.getArgument(\"Name\"));",
+                    "Text.setBBText(\"\");",
+                    "Img.setAnimationName(eventsFunctionContext.getArgument(\"Img\"));",
+                    "dbbg.TextBuffer = eventsFunctionContext.getArgument(\"Text\");",
+                    "",
+                    "Bg.hide(false);",
+                    "",
+                    "Bg.setWidth(1);",
+                    "Bg.setHeight(1);",
+                    "Bg.setOpacity(0);",
+                    "Bg.getBehavior(\"Tween\").addObjectWidthTween(\"_DialogBoxBackGround.OpeningWidth\", dbbg.Width, \"easeOutCubic\", dbbg.Duration, false);",
+                    "Bg.getBehavior(\"Tween\").addObjectHeightTween(\"_DialogBoxBackGround.OpeningHeight\", dbbg.Height, \"easeOutCubic\", dbbg.Duration, false);",
+                    "Bg.getBehavior(\"Tween\").addObjectOpacityTween(\"_DialogBoxBackGround.OpeningOpacity\", 255, \"linear\", dbbg.Duration, false);",
+                    "dbbg.State = \"Opening\";",
+                    "dbbg.Cnt = 0;",
+                    "dbbg.CntFlag = false;"
+                  ],
+                  "parameterObjects": "",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "Sprite",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "DialogBox::DialogBoxBackGround",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Name",
+                  "name": "Name",
+                  "type": "string"
+                },
+                {
+                  "description": "Image animation name",
+                  "name": "Img",
+                  "type": "objectAnimationName"
+                },
+                {
+                  "description": "Text",
+                  "name": "Text",
+                  "type": "string"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Close the Dialog Box.",
+              "fullName": "Close Dialog Box",
+              "functionType": "Action",
+              "name": "Close",
+              "sentence": "Close the Dialog Box _PARAM0_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "let dbbg = eventsFunctionContext.getObjects(\"Object\")[0]._DialogBoxBackGround;",
+                    "if (!dbbg) {console.warn(\"Must be setup first.\");return;}",
+                    "if (dbbg.State != \"Open\") {return}",
+                    "const BgIndex = runtimeScene.getObjects(dbbg.Bg.name).findIndex(v => v.id === dbbg.Bg.id);",
+                    "const NameIndex = runtimeScene.getObjects(dbbg.Name.name).findIndex(v => v.id === dbbg.Name.id);",
+                    "const TextIndex = runtimeScene.getObjects(dbbg.Text.name).findIndex(v => v.id === dbbg.Text.id);",
+                    "const ImgIndex = runtimeScene.getObjects(dbbg.Img.name).findIndex(v => v.id === dbbg.Img.id);",
+                    "const ArrowIndex = runtimeScene.getObjects(dbbg.Arrow.name).findIndex(v => v.id === dbbg.Arrow.id);",
+                    "if (BgIndex === -1) {console.warn(\"Background not found.\");return;}",
+                    "if (NameIndex === -1) {console.warn(\"Name not found.\");return;}",
+                    "if (TextIndex === -1) {console.warn(\"Text not found.\");return;}",
+                    "if (ImgIndex === -1) {console.warn(\"Image not found.\");return;}",
+                    "if (ArrowIndex === -1) {console.warn(\"Arrow not found.\");return;}",
+                    "const Bg = runtimeScene.getObjects(dbbg.Bg.name)[BgIndex];",
+                    "const Name = runtimeScene.getObjects(dbbg.Name.name)[NameIndex];",
+                    "const Text = runtimeScene.getObjects(dbbg.Text.name)[TextIndex];",
+                    "const Img = runtimeScene.getObjects(dbbg.Img.name)[ImgIndex];",
+                    "const Arrow = runtimeScene.getObjects(dbbg.Arrow.name)[ArrowIndex];",
+                    "",
+                    "Name.hide(true);",
+                    "Text.hide(true);",
+                    "Img.hide(true);",
+                    "Arrow.hide(true);",
+                    "",
+                    "Bg.getBehavior(\"Tween\").addObjectWidthTween(\"_DialogBoxBackGround.ClosingWidth\", 1, \"easeInCubic\", dbbg.Duration, false);",
+                    "Bg.getBehavior(\"Tween\").addObjectHeightTween(\"_DialogBoxBackGround.ClosingHeight\", 1, \"easeInCubic\", dbbg.Duration, false);",
+                    "Bg.getBehavior(\"Tween\").addObjectOpacityTween(\"_DialogBoxBackGround.ClosingOpacity\", 0, \"linear\", dbbg.Duration, false);",
+                    "dbbg.State = \"Closing\";"
+                  ],
+                  "parameterObjects": "",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "Sprite",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "DialogBox::DialogBoxBackGround",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Change the Dialog Box Text.",
+              "fullName": "Change Dialog Box Text",
+              "functionType": "Action",
+              "name": "ChangeText",
+              "sentence": "Change the Text in the Dialog Box _PARAM0_ to _PARAM2_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "let dbbg = eventsFunctionContext.getObjects(\"Object\")[0]._DialogBoxBackGround;",
+                    "if (!dbbg) {console.warn(\"Must be setup first.\");return;}",
+                    "if (dbbg.State != \"Open\") {return}",
+                    "const BgIndex = runtimeScene.getObjects(dbbg.Bg.name).findIndex(v => v.id === dbbg.Bg.id);",
+                    "const TextIndex = runtimeScene.getObjects(dbbg.Text.name).findIndex(v => v.id === dbbg.Text.id);",
+                    "if (BgIndex === -1) {console.warn(\"Background not found.\");return;}",
+                    "if (TextIndex === -1) {console.warn(\"Text not found.\");return;}",
+                    "const Bg = runtimeScene.getObjects(dbbg.Bg.name)[BgIndex];",
+                    "const Text = runtimeScene.getObjects(dbbg.Text.name)[TextIndex];",
+                    "",
+                    "const ArrowIndex = runtimeScene.getObjects(dbbg.Arrow.name).findIndex(v => v.id === dbbg.Arrow.id);",
+                    "if (ArrowIndex === -1) {console.warn(\"Arrow not found.\");return;}",
+                    "const Arrow = runtimeScene.getObjects(dbbg.Arrow.name)[ArrowIndex];",
+                    "Arrow.hide(true);",
+                    "",
+                    "Text.setBBText(\"\");",
+                    "dbbg.TextBuffer = eventsFunctionContext.getArgument(\"Text\");",
+                    "dbbg.State = \"Typing\";",
+                    "Bg.resetTimer(\"_DialogBoxBackGroundInterval\");",
+                    "Bg.unpauseTimer(\"_DialogBoxBackGroundInterval\");",
+                    "dbbg.CntFlag = true;"
+                  ],
+                  "parameterObjects": "",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "Sprite",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "DialogBox::DialogBoxBackGround",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Text",
+                  "name": "Text",
+                  "type": "string"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Change the Name, Image, and Text in the Dialog Box.",
+              "fullName": "Change Dialog Box contents",
+              "functionType": "Action",
+              "name": "ChangeNameImageText",
+              "sentence": "Change the contents in the Dialog Box _PARAM0_ to _PARAM2_ , _PARAM3_ and _PARAM4_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "let dbbg = eventsFunctionContext.getObjects(\"Object\")[0]._DialogBoxBackGround;",
+                    "if (!dbbg) {console.warn(\"Must be setup first.\");return;}",
+                    "if (dbbg.State != \"Open\") {return}",
+                    "const BgIndex = runtimeScene.getObjects(dbbg.Bg.name).findIndex(v => v.id === dbbg.Bg.id);",
+                    "const NameIndex = runtimeScene.getObjects(dbbg.Name.name).findIndex(v => v.id === dbbg.Name.id);",
+                    "const TextIndex = runtimeScene.getObjects(dbbg.Text.name).findIndex(v => v.id === dbbg.Text.id);",
+                    "const ImgIndex = runtimeScene.getObjects(dbbg.Img.name).findIndex(v => v.id === dbbg.Img.id);",
+                    "if (BgIndex === -1) {console.warn(\"Background not found.\");return;}",
+                    "if (NameIndex === -1) {console.warn(\"Name not found.\");return;}",
+                    "if (TextIndex === -1) {console.warn(\"Text not found.\");return;}",
+                    "if (ImgIndex === -1) {console.warn(\"Image not found.\");return;}",
+                    "const Bg = runtimeScene.getObjects(dbbg.Bg.name)[BgIndex];",
+                    "const Name = runtimeScene.getObjects(dbbg.Name.name)[NameIndex];",
+                    "const Text = runtimeScene.getObjects(dbbg.Text.name)[TextIndex];",
+                    "const Img = runtimeScene.getObjects(dbbg.Img.name)[ImgIndex];",
+                    "",
+                    "const ArrowIndex = runtimeScene.getObjects(dbbg.Arrow.name).findIndex(v => v.id === dbbg.Arrow.id);",
+                    "if (ArrowIndex === -1) {console.warn(\"Arrow not found.\");return;}",
+                    "const Arrow = runtimeScene.getObjects(dbbg.Arrow.name)[ArrowIndex];",
+                    "Arrow.hide(true);",
+                    "",
+                    "Name.setBBText(eventsFunctionContext.getArgument(\"Name\"));",
+                    "Text.setBBText(\"\");",
+                    "Img.setAnimationName(eventsFunctionContext.getArgument(\"Img\"));",
+                    "dbbg.TextBuffer = eventsFunctionContext.getArgument(\"Text\");",
+                    "dbbg.State = \"Typing\";",
+                    "Bg.resetTimer(\"_DialogBoxBackGroundInterval\");",
+                    "Bg.unpauseTimer(\"_DialogBoxBackGroundInterval\");",
+                    "dbbg.CntFlag = true;"
+                  ],
+                  "parameterObjects": "",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "Sprite",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "DialogBox::DialogBoxBackGround",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Name",
+                  "name": "Name",
+                  "type": "string"
+                },
+                {
+                  "description": "Image animation name",
+                  "name": "Img",
+                  "type": "objectAnimationName"
+                },
+                {
+                  "description": "Text",
+                  "name": "Text",
+                  "type": "string"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Changes the typing sound effect of the Dialog Box (File name) (The audio file must be registered as a resource!).",
+              "fullName": "Change Dialog Box typing sound",
+              "functionType": "Action",
+              "name": "ChangeTypingSound",
+              "sentence": "Change the typing sound effect of the Dialog Box _PARAM0_ to _PARAM2_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "let dbbg = eventsFunctionContext.getObjects(\"Object\")[0]._DialogBoxBackGround;",
+                    "if (!dbbg) {console.warn(\"Must be setup first.\");return;}",
+                    "//runtimeScene.getSoundManager().unloadAudio()",
+                    "dbbg.Se = undefined;",
+                    "if (eventsFunctionContext.getArgument(\"Se\") != \"\") {",
+                    "    dbbg.Se = runtimeScene.getSoundManager().createHowlerSound(eventsFunctionContext.getArgument(\"Se\"), false, 1, false, 1);",
+                    "}"
+                  ],
+                  "parameterObjects": "",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "Sprite",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "DialogBox::DialogBoxBackGround",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Audio file name (The audio file must be registered as a resource!)",
+                  "name": "Se",
+                  "type": "string"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Changes the typing interval of the Dialog Box (in seconds).",
+              "fullName": "Change Dialog Box typing interval",
+              "functionType": "Action",
+              "name": "ChangeTypingInterval",
+              "sentence": "Change the typing interval of the Dialog Box _PARAM0_ to _PARAM2_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "let dbbg = eventsFunctionContext.getObjects(\"Object\")[0]._DialogBoxBackGround;",
+                    "if (!dbbg) {console.warn(\"Must be setup first.\");return;}",
+                    "dbbg.Interval = eventsFunctionContext.getArgument(\"Interval\");"
+                  ],
+                  "parameterObjects": "",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "Sprite",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "DialogBox::DialogBoxBackGround",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Typing interval (in seconds)",
+                  "name": "Interval",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Skip typing in the Dialog Box.",
+              "fullName": "Skip Dialog Box typing",
+              "functionType": "Action",
+              "name": "SkipTyping",
+              "sentence": "Skip typing in the Dialog Box _PARAM0_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "let dbbg = eventsFunctionContext.getObjects(\"Object\")[0]._DialogBoxBackGround;",
+                    "if (!dbbg) {console.warn(\"Must be setup first.\");return;}",
+                    "if (dbbg.State != \"Typing\") {return}",
+                    "const TextIndex = runtimeScene.getObjects(dbbg.Text.name).findIndex(v => v.id === dbbg.Text.id);",
+                    "const ArrowIndex = runtimeScene.getObjects(dbbg.Arrow.name).findIndex(v => v.id === dbbg.Arrow.id);",
+                    "if (TextIndex === -1) {console.warn(\"Text not found.\");return;}",
+                    "if (ArrowIndex === -1) {console.warn(\"Arrow not found.\");return;}",
+                    "const Text = runtimeScene.getObjects(dbbg.Text.name)[TextIndex];",
+                    "const Arrow = runtimeScene.getObjects(dbbg.Arrow.name)[ArrowIndex];",
+                    "",
+                    "Arrow.hide(true);",
+                    "",
+                    "Text.setBBText(dbbg.TextBuffer);"
+                  ],
+                  "parameterObjects": "",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "Sprite",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "DialogBox::DialogBoxBackGround",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Dialog Box is open.",
+              "fullName": "Dialog Box is open",
+              "functionType": "Condition",
+              "name": "IsOpen",
+              "sentence": "The Dialog Box _PARAM0_ is open",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "let dbbg = eventsFunctionContext.getObjects(\"Object\")[0]._DialogBoxBackGround;",
+                    "if (!dbbg) {eventsFunctionContext.returnValue = false;return;}",
+                    "eventsFunctionContext.returnValue = dbbg.State == \"Open\";"
+                  ],
+                  "parameterObjects": "",
+                  "useStrict": true,
+                  "eventsSheetExpanded": false
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "Sprite",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "DialogBox::DialogBoxBackGround",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Text in the Dialog Box is typing.",
+              "fullName": "Dialog Box is typing",
+              "functionType": "Condition",
+              "name": "IsTyping",
+              "sentence": "Text in the Dialog Box _PARAM0_ is typing",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "let dbbg = eventsFunctionContext.getObjects(\"Object\")[0]._DialogBoxBackGround;",
+                    "if (!dbbg) {eventsFunctionContext.returnValue = false;return;}",
+                    "eventsFunctionContext.returnValue = dbbg.State == \"Typing\";"
+                  ],
+                  "parameterObjects": "",
+                  "useStrict": true,
+                  "eventsSheetExpanded": false
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "Sprite",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "DialogBox::DialogBoxBackGround",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Dialog Box is close.",
+              "fullName": "Dialog Box is close",
+              "functionType": "Condition",
+              "name": "IsClose",
+              "sentence": "The Dialog Box _PARAM0_ is close",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "let dbbg = eventsFunctionContext.getObjects(\"Object\")[0]._DialogBoxBackGround;",
+                    "if (!dbbg) {eventsFunctionContext.returnValue = false;return;}",
+                    "eventsFunctionContext.returnValue = dbbg.State == \"Close\";"
+                  ],
+                  "parameterObjects": "",
+                  "useStrict": true,
+                  "eventsSheetExpanded": false
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "Sprite",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "DialogBox::DialogBoxBackGround",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Compare the number of times the Text in the Dialog Box has changed.",
+              "fullName": "Number of times the Text in Dialog Box has changed",
+              "functionType": "Condition",
+              "name": "CompareChangeCounter",
+              "sentence": "The Text in the Dialog Box _PARAM0_ has changed _PARAM2_ times",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "let dbbg = eventsFunctionContext.getObjects(\"Object\")[0]._DialogBoxBackGround;",
+                    "if (!dbbg) {eventsFunctionContext.returnValue = false;return;}",
+                    "eventsFunctionContext.returnValue = dbbg.Cnt == eventsFunctionContext.getArgument(\"Num\");"
+                  ],
+                  "parameterObjects": "",
+                  "useStrict": true,
+                  "eventsSheetExpanded": false
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "Sprite",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "DialogBox::DialogBoxBackGround",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Number (0-based)",
+                  "name": "Num",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Return the number of times the Text in the Dialog Box has changed.",
+              "fullName": "Number of times the Text in Dialog Box has changed",
+              "functionType": "Expression",
+              "name": "ChangeCounter",
+              "sentence": "the Change counter of _PARAM0_ is _PARAM2_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "let dbbg = eventsFunctionContext.getObjects(\"Object\")[0]._DialogBoxBackGround;",
+                    "if (!dbbg) {eventsFunctionContext.returnValue = 0;return;}",
+                    "eventsFunctionContext.returnValue = dbbg.Cnt;"
+                  ],
+                  "parameterObjects": "",
+                  "useStrict": true,
+                  "eventsSheetExpanded": false
+                }
+              ],
+              "expressionType": {
+                "type": "expression"
+              },
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "Sprite",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "DialogBox::DialogBoxBackGround",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Number (0-based)",
+                  "name": "Num",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            }
+          ],
+          "propertyDescriptors": [
+            {
+              "value": "0.05",
+              "type": "Number",
+              "label": "Typing interval. (in seconds)",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "hidden": false,
+              "name": "Interval"
+            },
+            {
+              "value": "",
+              "type": "String",
+              "label": "Typing sound effect. (File name) (The audio file must be registered as a resource!)",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "hidden": false,
+              "name": "Se"
+            },
+            {
+              "value": "",
+              "type": "Behavior",
+              "label": "Tween Behavior.",
+              "description": "",
+              "group": "",
+              "extraInformation": [
+                "Tween::TweenBehavior"
+              ],
+              "hidden": true,
+              "name": "Tween"
+            },
+            {
+              "value": "250",
+              "type": "Number",
+              "label": "Tween Duration. (in milliseconds)",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "hidden": false,
+              "name": "Duration"
+            }
+          ],
+          "sharedPropertyDescriptors": []
+        }
+      ],
+      "eventsBasedObjects": []
+    },
     {
       "author": "",
       "category": "Camera",
