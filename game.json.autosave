@@ -2034,13 +2034,769 @@
         "name": "assets\\NewSprite24.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/e9603a49186ca546adbd22049218a8ad1904a00eb03de273e1c4603ac73954f6_Checkpoint_Flag Idle_1.png",
+          "name": "Checkpoint_Flag Idle_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Idle_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Idle_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/da7f14e2f61de0a31589cc01088297544eb04e0755ff073f39033b588b9c4ce7_Checkpoint_Flag Idle_10.png",
+          "name": "Checkpoint_Flag Idle_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/ac49399c818106490a7c7798873a869c498526bed411177a93c0b9b98eea6e8c_Checkpoint_Flag Idle_2.png",
+          "name": "Checkpoint_Flag Idle_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Idle_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/7ee7d4dab7349c54f93a0b00e38ba3d2750a2526578ea954ee12b9b62e4f4a8d_Checkpoint_Flag Idle_3.png",
+          "name": "Checkpoint_Flag Idle_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Idle_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/7ee7d4dab7349c54f93a0b00e38ba3d2750a2526578ea954ee12b9b62e4f4a8d_Checkpoint_Flag Idle_4.png",
+          "name": "Checkpoint_Flag Idle_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Idle_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Idle_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/7a227de1baea3b5560bc92293742f97589895698913710ab9bd96ccda295a8b6_Checkpoint_Flag Idle_5.png",
+          "name": "Checkpoint_Flag Idle_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Idle_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Idle_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/7a227de1baea3b5560bc92293742f97589895698913710ab9bd96ccda295a8b6_Checkpoint_Flag Idle_6.png",
+          "name": "Checkpoint_Flag Idle_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Idle_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Idle_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/b47cdb8cadece4bb70574fedc267f2956b9742e43cefa54d6ba68e4ea5721ebe_Checkpoint_Flag Idle_7.png",
+          "name": "Checkpoint_Flag Idle_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Idle_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Idle_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/b47cdb8cadece4bb70574fedc267f2956b9742e43cefa54d6ba68e4ea5721ebe_Checkpoint_Flag Idle_8.png",
+          "name": "Checkpoint_Flag Idle_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Idle_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Idle_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/da7f14e2f61de0a31589cc01088297544eb04e0755ff073f39033b588b9c4ce7_Checkpoint_Flag Idle_9.png",
+          "name": "Checkpoint_Flag Idle_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Out_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Out_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/c0850ce27c762a34cee3f329cac9c253b42fed395a352fe9be2f31fc28b7d25b_Checkpoint_Flag Out_1.png",
+          "name": "Checkpoint_Flag Out_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Out_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Out_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/c0850ce27c762a34cee3f329cac9c253b42fed395a352fe9be2f31fc28b7d25b_Checkpoint_Flag Out_10.png",
+          "name": "Checkpoint_Flag Out_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Out_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Out_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/e34199760b2901778a270df8daeb245ad2f40d380c5b708e0c7abc2114f1dafe_Checkpoint_Flag Out_11.png",
+          "name": "Checkpoint_Flag Out_11.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Out_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Out_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/e34199760b2901778a270df8daeb245ad2f40d380c5b708e0c7abc2114f1dafe_Checkpoint_Flag Out_12.png",
+          "name": "Checkpoint_Flag Out_12.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Out_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Out_13.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/15dba1449262cffa514d1f26e1ca199e69c6da4636e27865899b77d917312b2f_Checkpoint_Flag Out_13.png",
+          "name": "Checkpoint_Flag Out_13.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Out_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Out_14.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/15dba1449262cffa514d1f26e1ca199e69c6da4636e27865899b77d917312b2f_Checkpoint_Flag Out_14.png",
+          "name": "Checkpoint_Flag Out_14.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Out_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Out_15.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/e45a5553098dbfee398f70f9ef822490476651ecc2c8f56af3de1fd57ac5fdce_Checkpoint_Flag Out_15.png",
+          "name": "Checkpoint_Flag Out_15.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Out_16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Out_16.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/e45a5553098dbfee398f70f9ef822490476651ecc2c8f56af3de1fd57ac5fdce_Checkpoint_Flag Out_16.png",
+          "name": "Checkpoint_Flag Out_16.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Out_17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Out_17.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/181e101a1926dfd7367c14dbd923fd0706b0b55e9fb6a8f947846592340eb488_Checkpoint_Flag Out_17.png",
+          "name": "Checkpoint_Flag Out_17.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Out_18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Out_18.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/181e101a1926dfd7367c14dbd923fd0706b0b55e9fb6a8f947846592340eb488_Checkpoint_Flag Out_18.png",
+          "name": "Checkpoint_Flag Out_18.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Out_19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Out_19.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/cf7d69c7fe9070d9eb3b61c89384a42a470091be187192d5352ce9ed3f5fde03_Checkpoint_Flag Out_19.png",
+          "name": "Checkpoint_Flag Out_19.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Out_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Out_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/302ef991c429d82eafa051d6d62cd20009e9daf9390ea9fc9003fa2e24225149_Checkpoint_Flag Out_2.png",
+          "name": "Checkpoint_Flag Out_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Out_20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Out_20.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/cf7d69c7fe9070d9eb3b61c89384a42a470091be187192d5352ce9ed3f5fde03_Checkpoint_Flag Out_20.png",
+          "name": "Checkpoint_Flag Out_20.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Out_21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Out_21.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/55297964644d08bbc87e319d32592e5a04c4a6a541e1ae5fe68e40b04579a7b4_Checkpoint_Flag Out_21.png",
+          "name": "Checkpoint_Flag Out_21.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Out_22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Out_22.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/55297964644d08bbc87e319d32592e5a04c4a6a541e1ae5fe68e40b04579a7b4_Checkpoint_Flag Out_22.png",
+          "name": "Checkpoint_Flag Out_22.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Out_23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Out_23.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/a0605a20dd75d914b5920dd382fd514e95221e84b8bbb1f33ecd296bf8233bcf_Checkpoint_Flag Out_23.png",
+          "name": "Checkpoint_Flag Out_23.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Out_24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Out_24.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/a0605a20dd75d914b5920dd382fd514e95221e84b8bbb1f33ecd296bf8233bcf_Checkpoint_Flag Out_24.png",
+          "name": "Checkpoint_Flag Out_24.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Out_25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Out_25.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/e899447558fdf60dee9fc709f95b963a447f51ece64375d0e97803ec5c3b1c82_Checkpoint_Flag Out_25.png",
+          "name": "Checkpoint_Flag Out_25.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Out_26.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Out_26.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/e899447558fdf60dee9fc709f95b963a447f51ece64375d0e97803ec5c3b1c82_Checkpoint_Flag Out_26.png",
+          "name": "Checkpoint_Flag Out_26.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Out_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Out_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/302ef991c429d82eafa051d6d62cd20009e9daf9390ea9fc9003fa2e24225149_Checkpoint_Flag Out_3.png",
+          "name": "Checkpoint_Flag Out_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Out_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Out_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/302ef991c429d82eafa051d6d62cd20009e9daf9390ea9fc9003fa2e24225149_Checkpoint_Flag Out_4.png",
+          "name": "Checkpoint_Flag Out_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Out_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Out_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/c0850ce27c762a34cee3f329cac9c253b42fed395a352fe9be2f31fc28b7d25b_Checkpoint_Flag Out_5.png",
+          "name": "Checkpoint_Flag Out_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Out_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Out_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/2e88e1202d60f8f535a27221be5afdd993d4189e399a2fec798f9033a5bf6de8_Checkpoint_Flag Out_6.png",
+          "name": "Checkpoint_Flag Out_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Out_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Out_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/2e88e1202d60f8f535a27221be5afdd993d4189e399a2fec798f9033a5bf6de8_Checkpoint_Flag Out_7.png",
+          "name": "Checkpoint_Flag Out_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Out_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Out_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/4bc4bb15d64f71d991a50ff1d55b337c9d73312b7f5348c94d67ba4b876e40c5_Checkpoint_Flag Out_8.png",
+          "name": "Checkpoint_Flag Out_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_Flag Out_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_Flag Out_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/c0850ce27c762a34cee3f329cac9c253b42fed395a352fe9be2f31fc28b7d25b_Checkpoint_Flag Out_9.png",
+          "name": "Checkpoint_Flag Out_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Checkpoint_No Flag.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Checkpoint_No Flag.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Checkpoints/4bc4bb15d64f71d991a50ff1d55b337c9d73312b7f5348c94d67ba4b876e40c5_Checkpoint_No Flag.png",
+          "name": "Checkpoint_No Flag.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Twitching Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Skeleton_Twitching Idle_3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Chain_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Chain_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Big Chain/95b1531ecafae6cb1d071d9925f236125f82294cc71935285914e1800a602413_Big Chain_1.png",
+          "name": "Big Chain_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Chain_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Chain_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Big Chain/1d5888c3dee8b8ada6ec97003ec89161a8ff6023fd769c318125a235e344d57c_Big Chain_10.png",
+          "name": "Big Chain_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Chain_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Chain_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Big Chain/95b1531ecafae6cb1d071d9925f236125f82294cc71935285914e1800a602413_Big Chain_2.png",
+          "name": "Big Chain_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Chain_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Chain_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Big Chain/2d291774b69890fa8f3b4962eaf2354e4f8b655b2d8dc6f690c339fa56ab45f9_Big Chain_3.png",
+          "name": "Big Chain_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Chain_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Chain_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Big Chain/2d291774b69890fa8f3b4962eaf2354e4f8b655b2d8dc6f690c339fa56ab45f9_Big Chain_4.png",
+          "name": "Big Chain_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Chain_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Chain_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Big Chain/e58e03bc8f78d293efcb9554056ee20f93eb4a69ae2f841053437597db0fd8bf_Big Chain_5.png",
+          "name": "Big Chain_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Chain_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Chain_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Big Chain/e58e03bc8f78d293efcb9554056ee20f93eb4a69ae2f841053437597db0fd8bf_Big Chain_6.png",
+          "name": "Big Chain_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Chain_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Chain_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Big Chain/2f11eda68fad54b1ce4e8bd727aba85741f480d19a4f8f771650c8c6de89d192_Big Chain_7.png",
+          "name": "Big Chain_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Chain_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Chain_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Big Chain/2f11eda68fad54b1ce4e8bd727aba85741f480d19a4f8f771650c8c6de89d192_Big Chain_8.png",
+          "name": "Big Chain_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Chain_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big Chain_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Big Chain/bea5dd095105762fb520967ee21bde95668d036aa3261f1415815bcea845b0c1_Big Chain_9.png",
+          "name": "Big Chain_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Chain_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Big Chain_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Chain_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Big Chain_2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Chain_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Big Chain_3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Chain_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Big Chain_4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Chain_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Big Chain_5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Chain_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Big Chain_6.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Chain_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Big Chain_7.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Chain_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Big Chain_8.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Chain_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Big Chain_9.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big Chain_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Big Chain_10.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Floor_Clean.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "fdbaad501362790bd57187ff43d62c521f0a58b98697dcb2d058ed359b1dffa8_Floor_Clean.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Floor/fdbaad501362790bd57187ff43d62c521f0a58b98697dcb2d058ed359b1dffa8_Floor_Clean.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/footstep.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets\\footstep.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/footsteps.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets\\footsteps.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
   },
   "objects": [],
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "folded": true,
+      "name": "doubleJump",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "folded": true,
+      "name": "footSound",
+      "type": "number",
+      "value": 0
+    }
+  ],
   "layouts": [
     {
       "b": 209,
@@ -11370,7 +12126,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.87002328598575,
+        "zoomFactor": 0.814188120371042,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -11385,8 +12141,8 @@
           "persistentUuid": "d432a93c-aac5-47fd-9e77-e15b6d668ea2",
           "width": 1280,
           "x": 1,
-          "y": -1,
-          "zOrder": 0,
+          "y": -2,
+          "zOrder": -6,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -11413,8 +12169,8 @@
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "7d7b2392-156f-4de9-a78f-c219d1c8df75",
-          "width": 1184,
-          "x": 96,
+          "width": 1171,
+          "x": 109,
           "y": 672,
           "zOrder": 1,
           "numberProperties": [],
@@ -11458,7 +12214,7 @@
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "81e90cdf-0036-49f4-8ac9-fe44012c781a",
-          "width": 128,
+          "width": 106,
           "x": 32,
           "y": 352,
           "zOrder": 2,
@@ -11473,8 +12229,8 @@
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "91320837-2101-4a94-83a3-ce20e852ee83",
-          "width": 151,
-          "x": 233,
+          "width": 145,
+          "x": 239,
           "y": 448,
           "zOrder": 2,
           "numberProperties": [],
@@ -11489,24 +12245,9 @@
           "name": "NewTiledSprite",
           "persistentUuid": "f81287f3-883d-4df4-804a-ac7fdadfa11c",
           "width": 32,
-          "x": 160,
+          "x": 139,
           "y": 288,
           "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 23,
-          "layer": "",
-          "name": "player",
-          "persistentUuid": "a2787b06-af2b-4351-9aed-7eb9334c6e35",
-          "width": 21,
-          "x": 874,
-          "y": 168,
-          "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -11519,7 +12260,7 @@
           "name": "NewTiledSprite",
           "persistentUuid": "445107f3-a342-4ec8-9552-8bf4683ac0de",
           "width": 32,
-          "x": 256,
+          "x": 261,
           "y": 192,
           "zOrder": 3,
           "numberProperties": [],
@@ -11529,13 +12270,13 @@
         {
           "angle": 90,
           "customSize": true,
-          "height": 352,
+          "height": 325,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "fbd8a792-a31c-48db-90d4-67b105f0b5c3",
           "width": 32,
-          "x": 256,
-          "y": -64,
+          "x": 243,
+          "y": -50,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -11548,9 +12289,9 @@
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "c7988519-344a-4c89-a5c3-a044cf788772",
-          "width": 32,
-          "x": 96,
-          "y": 128,
+          "width": 16,
+          "x": 105,
+          "y": 120,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -11559,7 +12300,7 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 96,
+          "height": 20,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "4ad3ae24-d593-4877-bb1b-69bf8b6be71d",
@@ -11574,13 +12315,13 @@
         {
           "angle": 90,
           "customSize": true,
-          "height": 128,
+          "height": 86,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "042c4634-f573-4e06-beb4-26497c6e68c4",
           "width": 32,
-          "x": 112,
-          "y": 240,
+          "x": 118,
+          "y": 261,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -11608,8 +12349,8 @@
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "fd126e92-1d4d-47e4-a7ea-02579385baef",
-          "width": 32,
-          "x": 480,
+          "width": 97,
+          "x": 415,
           "y": 416,
           "zOrder": 3,
           "numberProperties": [],
@@ -11619,13 +12360,13 @@
         {
           "angle": 90,
           "customSize": true,
-          "height": 352,
+          "height": 311,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "88b600f4-6caf-43ea-bde3-39fa630d9333",
           "width": 32,
-          "x": 192,
-          "y": 416,
+          "x": 213,
+          "y": 437,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -11638,9 +12379,9 @@
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "1fc70782-071f-4ee6-bb8e-c401bf857430",
-          "width": 32,
-          "x": 560,
-          "y": 560,
+          "width": 30,
+          "x": 561,
+          "y": 562,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -11679,14 +12420,14 @@
         {
           "angle": 90,
           "customSize": true,
-          "height": 160,
+          "height": 243,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "df649715-082e-4c2d-b19d-a6fddbfe3819",
           "width": 32,
-          "x": 672,
-          "y": 448,
-          "zOrder": 3,
+          "x": 715,
+          "y": 407,
+          "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -11709,13 +12450,13 @@
         {
           "angle": 90,
           "customSize": true,
-          "height": 192,
+          "height": 158,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "293a4d7a-9486-4a28-9472-fa3c19f7875b",
           "width": 32,
-          "x": 912,
-          "y": 400,
+          "x": 945,
+          "y": 417,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -11724,12 +12465,12 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 160,
+          "height": 64,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "96956b93-89bf-4139-ae69-c6c84c4bb2e9",
-          "width": 32,
-          "x": 832,
+          "width": 28,
+          "x": 854,
           "y": 416,
           "zOrder": 3,
           "numberProperties": [],
@@ -11737,30 +12478,15 @@
           "initialVariables": []
         },
         {
-          "angle": 0,
-          "customSize": true,
-          "height": 160,
-          "layer": "",
-          "name": "NewTiledSprite",
-          "persistentUuid": "5a8c39b6-159f-46f8-a9ea-e4648ac3197a",
-          "width": 32,
-          "x": 736,
-          "y": 352,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
           "angle": 90,
           "customSize": true,
-          "height": 160,
+          "height": 158,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "e22e9a28-703f-4105-b94d-b4c4f47b74bd",
-          "width": 32,
-          "x": 672,
-          "y": 256,
+          "width": 28,
+          "x": 670,
+          "y": 254,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -11769,13 +12495,13 @@
         {
           "angle": 90,
           "customSize": true,
-          "height": 160,
+          "height": 138,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "af0bfde1-b0b0-45bf-8bee-8e2b91558c8d",
           "width": 32,
-          "x": 896,
-          "y": 320,
+          "x": 907,
+          "y": 331,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -11784,7 +12510,7 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 128,
+          "height": 144,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "4d91b3db-c35a-480a-aba4-2739a9eceb7b",
@@ -11799,13 +12525,13 @@
         {
           "angle": 90,
           "customSize": true,
-          "height": 128,
+          "height": 96,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "253f349f-9aed-449d-8b27-70d5846ec508",
           "width": 32,
-          "x": 624,
-          "y": 144,
+          "x": 608,
+          "y": 160,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -11814,7 +12540,7 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 224,
+          "height": 192,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "1cf2b738-55e6-4bb1-830f-57519e6e7d3c",
@@ -11829,14 +12555,14 @@
         {
           "angle": 90,
           "customSize": true,
-          "height": 224,
+          "height": 234,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "979e3a45-5b8d-4301-a4fa-15a62e8caddf",
           "width": 32,
-          "x": 576,
-          "y": 320,
-          "zOrder": 3,
+          "x": 613,
+          "y": 316,
+          "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -11844,13 +12570,13 @@
         {
           "angle": 90,
           "customSize": true,
-          "height": 64,
+          "height": 33,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "bcf47411-83fb-4a89-a46a-aca3eeb53df5",
           "width": 32,
-          "x": 496,
-          "y": 528,
+          "x": 512,
+          "y": 544,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -11859,13 +12585,13 @@
         {
           "angle": 90,
           "customSize": true,
-          "height": 96,
+          "height": 56,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "fcb8bb5d-d683-44f8-b7d4-31064ed5e112",
           "width": 32,
-          "x": 288,
-          "y": 160,
+          "x": 272,
+          "y": 180,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -11902,30 +12628,15 @@
           "initialVariables": []
         },
         {
-          "angle": 0,
-          "customSize": true,
-          "height": 96,
-          "layer": "",
-          "name": "NewTiledSprite",
-          "persistentUuid": "e7ffa389-9a09-4c8d-8663-22b6b9d2f4b0",
-          "width": 32,
-          "x": 480,
-          "y": 256,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
           "angle": 90,
           "customSize": true,
-          "height": 224,
+          "height": 219,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "576d54a7-6b88-440c-b80c-d09fded8f9f0",
           "width": 32,
-          "x": 384,
-          "y": 224,
+          "x": 382,
+          "y": 248,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -11949,13 +12660,13 @@
         {
           "angle": 90,
           "customSize": true,
-          "height": 64,
+          "height": 41,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "0f3aadfa-f9e0-4103-816b-aea4baace029",
-          "width": 32,
-          "x": 688,
-          "y": 624,
+          "width": 36,
+          "x": 666,
+          "y": 634,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -12007,21 +12718,6 @@
           "initialVariables": []
         },
         {
-          "angle": 90,
-          "customSize": true,
-          "height": 192,
-          "layer": "",
-          "name": "NewTiledSprite",
-          "persistentUuid": "83c30ed2-d98f-4e3f-9f4c-0e14ea680fdf",
-          "width": 32,
-          "x": 880,
-          "y": 112,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
           "angle": 0,
           "customSize": true,
           "height": 32,
@@ -12054,13 +12750,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 64,
+          "height": 30,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "fc318dad-eb3b-4c73-a648-610ba3f8db59",
           "width": 32,
           "x": 480,
-          "y": 128,
+          "y": 132,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -12099,13 +12795,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 64,
+          "height": 62,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "d1c173e9-8012-4fb6-b827-3b26d0eba244",
           "width": 32,
           "x": 928,
-          "y": 128,
+          "y": 160,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -12204,7 +12900,7 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 32,
+          "height": 14,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "2ebb3ea9-bea3-40d2-aed8-c2cc23671098",
@@ -12219,13 +12915,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 160,
+          "height": 103,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "550212fb-41f3-4091-a620-d6ac9f7447c9",
           "width": 32,
           "x": 1088,
-          "y": 384,
+          "y": 441,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -12234,13 +12930,13 @@
         {
           "angle": 90,
           "customSize": true,
-          "height": 96,
+          "height": 64,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "946f9411-c7a3-40d1-9753-0973d7c3efc5",
           "width": 32,
-          "x": 1120,
-          "y": 320,
+          "x": 1104,
+          "y": 394,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -12249,13 +12945,13 @@
         {
           "angle": 90,
           "customSize": true,
-          "height": 96,
+          "height": 68,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "78a0a040-9b5e-4da2-b021-62d022164045",
           "width": 32,
-          "x": 1024,
-          "y": 256,
+          "x": 1042,
+          "y": 293,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -12279,13 +12975,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 128,
+          "height": 101,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "bc66fec9-7a0d-49ff-8d9f-8c62b0866569",
           "width": 32,
           "x": 1152,
-          "y": 384,
+          "y": 411,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -12337,21 +13033,6 @@
           "initialVariables": []
         },
         {
-          "angle": 90,
-          "customSize": true,
-          "height": 128,
-          "layer": "",
-          "name": "NewTiledSprite",
-          "persistentUuid": "6971d036-c387-4c6f-bac3-3d25ce1467d0",
-          "width": 32,
-          "x": 816,
-          "y": 48,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
           "angle": 0,
           "customSize": true,
           "height": 32,
@@ -12384,28 +13065,13 @@
         {
           "angle": 359,
           "customSize": true,
-          "height": 63,
+          "height": 39,
           "layer": "",
           "name": "Saw",
           "persistentUuid": "e81b78a9-5e54-4769-bbcd-fac1cf0cf496",
-          "width": 63,
-          "x": 1185,
-          "y": 273,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 181,
-          "customSize": true,
-          "height": 32,
-          "layer": "",
-          "name": "Saw",
-          "persistentUuid": "22741a55-ec6d-4895-8a9c-d4036f2046d0",
-          "width": 32,
-          "x": 768,
-          "y": 448,
+          "width": 39,
+          "x": 1208,
+          "y": 289,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -12427,15 +13093,15 @@
           "initialVariables": []
         },
         {
-          "angle": 91,
+          "angle": 90,
           "customSize": true,
-          "height": 61,
+          "height": 32,
           "layer": "",
           "name": "Saw",
           "persistentUuid": "17a9a503-a83e-43b4-afbd-2c648b239466",
-          "width": 61,
-          "x": 321,
-          "y": 386,
+          "width": 33,
+          "x": 352,
+          "y": 415,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -12458,14 +13124,14 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 32,
           "layer": "",
           "name": "Saw2",
           "persistentUuid": "b0e29293-f237-4ccf-945b-3a7f4cd2e122",
-          "width": 0,
-          "x": 698,
-          "y": 250,
+          "width": 32,
+          "x": 640,
+          "y": 256,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -12502,75 +13168,15 @@
           "initialVariables": []
         },
         {
-          "angle": 90,
-          "customSize": true,
-          "height": 256,
-          "layer": "",
-          "name": "NewTiledSprite",
-          "persistentUuid": "4ce10d70-2c8c-4437-9a0e-ca56b967f460",
-          "width": 16,
-          "x": 312,
-          "y": 504,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 90,
-          "customSize": true,
-          "height": 56,
-          "layer": "",
-          "name": "NewTiledSprite",
-          "persistentUuid": "7dd5d295-5101-4282-8e47-c48f009e56e6",
-          "width": 16,
-          "x": 468,
-          "y": 558,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 90,
-          "customSize": true,
-          "height": 56,
-          "layer": "",
-          "name": "NewTiledSprite",
-          "persistentUuid": "7e4c8bba-491c-4e82-be14-ab370ab8c9af",
-          "width": 20,
-          "x": 412,
-          "y": 504,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 90,
-          "customSize": true,
-          "height": 56,
-          "layer": "",
-          "name": "NewTiledSprite",
-          "persistentUuid": "cb637d57-7e93-4485-9208-eb3d56b54cbb",
-          "width": 20,
-          "x": 467,
-          "y": 456,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
           "angle": 0,
           "customSize": true,
-          "height": 45,
+          "height": 31,
           "layer": "",
           "name": "Crate",
           "persistentUuid": "8ef5f43e-058f-4e7f-b535-1a42e9e1ac5b",
-          "width": 61,
-          "x": 192,
-          "y": 531,
+          "width": 52,
+          "x": 186,
+          "y": 545,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
@@ -12579,13 +13185,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 32,
+          "height": 27,
           "layer": "",
           "name": "Crate",
           "persistentUuid": "c37f0b18-2908-4ec7-a37d-280460fd2281",
-          "width": 32,
-          "x": 192,
-          "y": 64,
+          "width": 27,
+          "x": 293,
+          "y": 314,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
@@ -12609,13 +13215,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 32,
+          "height": 28,
           "layer": "",
           "name": "Crate",
           "persistentUuid": "c90a8196-7b30-4213-b28c-b9966e0aec67",
-          "width": 32,
-          "x": 864,
-          "y": 544,
+          "width": 27,
+          "x": 883,
+          "y": 549,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
@@ -12642,21 +13248,6 @@
           "height": 32,
           "layer": "",
           "name": "Crate",
-          "persistentUuid": "46836dec-cd77-43b1-93cf-5de2b06b229e",
-          "width": 32,
-          "x": 896,
-          "y": 160,
-          "zOrder": 8,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 32,
-          "layer": "",
-          "name": "Crate",
           "persistentUuid": "968bd58f-b1ea-4214-9571-a56b5d2bf1b5",
           "width": 64,
           "x": 800,
@@ -12669,13 +13260,13 @@
         {
           "angle": 90,
           "customSize": true,
-          "height": 128,
+          "height": 1279,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "873520b3-01f2-4c07-a21a-57d1f40d9d0b",
           "width": 16,
-          "x": 56,
-          "y": 648,
+          "x": 632,
+          "y": 73,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -12692,6 +13283,411 @@
           "x": 33,
           "y": 474,
           "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 1,
+          "customSize": true,
+          "height": 66,
+          "layer": "",
+          "name": "Checkpoint",
+          "persistentUuid": "11443d7d-9801-427e-83bd-b66726f7dc6a",
+          "width": 55,
+          "x": 1089,
+          "y": 158,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Skull",
+          "persistentUuid": "5c6364d9-aa90-43fe-bdd0-f8ef1e6bbfef",
+          "width": 0,
+          "x": 31,
+          "y": 690,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 22,
+          "layer": "",
+          "name": "Crate",
+          "persistentUuid": "25d669f8-9548-4d33-88dc-6bc0aba757ed",
+          "width": 21,
+          "x": 684,
+          "y": 613,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 31,
+          "layer": "",
+          "name": "player",
+          "persistentUuid": "ef2e78e3-8bc8-4b6f-884e-0da9a8ffa619",
+          "width": 29,
+          "x": 990,
+          "y": 446,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 114,
+          "layer": "",
+          "name": "Chain",
+          "persistentUuid": "34351377-72cb-45d4-aa6f-51b1e1e6343e",
+          "width": 9,
+          "x": 219,
+          "y": 129,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 114,
+          "layer": "",
+          "name": "Chain",
+          "persistentUuid": "8e760fc6-fbde-4fcc-b60f-4315c177af35",
+          "width": 9,
+          "x": 220,
+          "y": 224,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 90,
+          "layer": "",
+          "name": "Chain",
+          "persistentUuid": "c9df41af-c85c-4710-9f81-5747ef71fcb5",
+          "width": 9,
+          "x": 222,
+          "y": 322,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Chain",
+          "persistentUuid": "0d3ded0b-83e9-4e98-b511-f3606dd2a8ca",
+          "width": 0,
+          "x": 813,
+          "y": 225,
+          "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Chain",
+          "persistentUuid": "10d4ed7b-a2be-4ff7-b1c1-b27e27ea35a3",
+          "width": 0,
+          "x": 814,
+          "y": 309,
+          "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 86,
+          "layer": "",
+          "name": "Chain",
+          "persistentUuid": "52d22b9d-dfdb-4d9b-bd49-ea6068a589ea",
+          "width": 9,
+          "x": 814,
+          "y": 382,
+          "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "name": "Crate",
+          "persistentUuid": "a0c486f0-0dbf-4db8-bc02-e7a5984c369d",
+          "width": 36,
+          "x": 688,
+          "y": 286,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "name": "NewTiledSprite3",
+          "persistentUuid": "eeb86024-1955-437d-80b2-4e0e4fde72d5",
+          "width": 129,
+          "x": 799,
+          "y": 191,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "name": "NewTiledSprite3",
+          "persistentUuid": "3b03b07a-5fbc-4f10-a6b0-d73666768fe7",
+          "width": 155,
+          "x": 609,
+          "y": 318,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "height": 133,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "1626add3-10f4-4d25-bf32-82ac8532649c",
+          "width": 32,
+          "x": 850,
+          "y": 141,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "name": "NewTiledSprite3",
+          "persistentUuid": "fd3aae5f-1044-47aa-97a0-212f34c166e5",
+          "width": 234,
+          "x": 512,
+          "y": 416,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "name": "NewTiledSprite3",
+          "persistentUuid": "9fe7d084-336f-4aba-a4bb-bfd767b076fb",
+          "width": 138,
+          "x": 854,
+          "y": 383,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "name": "NewTiledSprite3",
+          "persistentUuid": "c5fb5483-51c3-405a-989b-608a238c446a",
+          "width": 242,
+          "x": 609,
+          "y": 511,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "name": "NewTiledSprite3",
+          "persistentUuid": "94584fa0-03d1-4460-af21-3d74f90da97c",
+          "width": 288,
+          "x": 705,
+          "y": 575,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "name": "NewTiledSprite3",
+          "persistentUuid": "b025307b-c5cc-4fcf-803b-03d5f2c0aac3",
+          "width": 147,
+          "x": 492,
+          "y": 609,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "name": "NewTiledSprite3",
+          "persistentUuid": "04e0378d-5527-4f18-9b8d-330a6a18e944",
+          "width": 221,
+          "x": 288,
+          "y": 339,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 35,
+          "layer": "",
+          "name": "NewTiledSprite3",
+          "persistentUuid": "a3cf3fca-e922-4495-81c2-f6e59689a679",
+          "width": 158,
+          "x": 354,
+          "y": 255,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 20,
+          "layer": "",
+          "name": "NewTiledSprite3",
+          "persistentUuid": "f9f41f01-4f14-4511-9fdc-cc32142c2c78",
+          "width": 162,
+          "x": 32,
+          "y": 188,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 20,
+          "layer": "",
+          "name": "NewTiledSprite3",
+          "persistentUuid": "8aa57b8f-0c94-4def-858f-d48783e4c06b",
+          "width": 324,
+          "x": 96,
+          "y": 94,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 20,
+          "layer": "",
+          "name": "NewTiledSprite3",
+          "persistentUuid": "a3506e99-8350-4be8-a503-8a4f8e0f111b",
+          "width": 87,
+          "x": 89,
+          "y": 286,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "name": "Crate",
+          "persistentUuid": "f3437af1-d17e-4e02-b0d1-fcdd267ca5b6",
+          "width": 32,
+          "x": 31,
+          "y": 156,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "name": "NewTiledSprite3",
+          "persistentUuid": "d7146db7-7431-4339-9b99-6362a9b2365a",
+          "width": 155,
+          "x": 886,
+          "y": 478,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "name": "NewTiledSprite3",
+          "persistentUuid": "8241d41b-de28-458e-9c10-1475ae6171ab",
+          "width": 97,
+          "x": 1087,
+          "y": 408,
+          "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -12723,9 +13719,9 @@
           "behaviors": [
             {
               "name": "Platform",
+              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
               "canBeGrabbed": true,
-              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -12751,47 +13747,6 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "Door.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "4cb75ec3ebee3b17814aca99a2059a94633c2449dc75445765426ec367cb3bc6",
-          "name": "OpenDoorTop",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Open door top.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -13098,22 +14053,22 @@
           "effects": [],
           "behaviors": [
             {
+              "acceleration": 500,
+              "deceleration": 1500,
+              "gravity": 700,
+              "jumpSpeed": 260,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 500,
+              "maxSpeed": 253,
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
-              "acceleration": 1500,
+              "useLegacyTrajectory": false,
               "canGoDownFromJumpthru": true,
               "canGrabPlatforms": false,
               "canGrabWithoutMoving": true,
-              "deceleration": 1500,
-              "gravity": 1000,
               "ignoreDefaultControls": false,
-              "jumpSpeed": 600,
-              "jumpSustainTime": 0.2,
-              "ladderClimbingSpeed": 150,
-              "maxFallingSpeed": 700,
-              "maxSpeed": 250,
               "slopeMaxAngle": 60,
-              "useLegacyTrajectory": false,
               "xGrabTolerance": 10,
               "yGrabOffset": 0
             },
@@ -13206,7 +14161,7 @@
               "directions": [
                 {
                   "looping": true,
-                  "timeBetweenFrames": 0.2,
+                  "timeBetweenFrames": 0.07,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
@@ -13286,25 +14241,8 @@
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.2,
                   "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\lompat1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
                     {
                       "hasCustomCollisionMask": false,
                       "image": "assets\\lompat2.png",
@@ -13323,6 +14261,17 @@
                       "customCollisionMask": []
                     }
                   ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": []
                 }
               ]
             }
@@ -15328,10 +16277,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
@@ -15364,6 +16313,905 @@
                   ]
                 }
               ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "73443fbaaf8f9ec5dc1c2371421426c37c179a2aa094efa39ed49f7eec0d9648",
+          "name": "Checkpoint",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Flag Idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Idle_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Idle_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Idle_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Idle_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Idle_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Idle_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Idle_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Idle_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Idle_9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Idle_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Flag Out",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.0385,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Out_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Out_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Out_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Out_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Out_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Out_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Out_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Out_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Out_9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Out_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Out_11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Out_12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Out_13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Out_14.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Out_15.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Out_16.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Out_17.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Out_18.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Out_19.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Out_20.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Out_21.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Out_22.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Out_23.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Out_24.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Out_25.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_Flag Out_26.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "No Flag",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Checkpoint_No Flag.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Chain",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "Ladder",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Big Chain_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Big Chain_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Big Chain_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Big Chain_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Big Chain_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Big Chain_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Big Chain_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Big Chain_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Big Chain_9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Big Chain_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "NewTiledSprite3",
+          "tags": "",
+          "texture": "fdbaad501362790bd57187ff43d62c521f0a58b98697dcb2d058ed359b1dffa8_Floor_Clean.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
             }
           ]
         }
@@ -15817,6 +17665,148 @@
                 "no"
               ]
             }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Sprite"
+                  },
+                  "parameters": [
+                    "player",
+                    "=",
+                    "2"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "footSound",
+                    "=",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Sprite"
+                  },
+                  "parameters": [
+                    "player",
+                    "=",
+                    "4"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "footSound",
+                    "=",
+                    "2"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "footSound",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "assets\\footstep.mp3",
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "footSound",
+                "=",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "assets\\footsteps.mp3",
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "footSound",
+                "=",
+                "0"
+              ]
+            }
           ]
         },
         {
@@ -15861,6 +17851,160 @@
                 "yes"
               ]
             }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "footsteps sound"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Sprite"
+                  },
+                  "parameters": [
+                    "player",
+                    "=",
+                    "2"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "footSound",
+                    "=",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Sprite"
+                  },
+                  "parameters": [
+                    "player",
+                    "=",
+                    "4"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "footSound",
+                    "=",
+                    "2"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "footSound",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "assets\\footstep.mp3",
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "footSound",
+                "=",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "assets\\footsteps.mp3",
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "footSound",
+                "=",
+                "0"
+              ]
+            }
           ]
         },
         {
@@ -15889,6 +18033,44 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::IsJumping"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "player",
+                "=",
+                "2"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "double jump"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -15930,18 +18112,7 @@
               ]
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "value": "ChangeAnimation"
-              },
-              "parameters": [
-                "player",
-                "=",
-                "2"
-              ]
-            }
-          ],
+          "actions": [],
           "events": [
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -16078,6 +18249,146 @@
           "ambientLightColorB": 8929152,
           "ambientLightColorG": 150995054,
           "ambientLightColorR": 1869182049,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": []
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Untitled_32scene4",
+      "name": "Untitled scene4",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.546875,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 41,
+          "layer": "",
+          "name": "NewSprite",
+          "persistentUuid": "602aeed8-0b5e-4d14-9844-5e95aea6dc8a",
+          "width": 56,
+          "x": -3,
+          "y": 1,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "name": "NewSprite",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Desain tanpa judul (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewSprite2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "NewTiledSprite",
+          "tags": "",
+          "texture": "",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        }
+      ],
+      "events": [],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
           "camera3DFarPlaneDistance": 10000,
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 0.1,
