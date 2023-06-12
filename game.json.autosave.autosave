@@ -3859,6 +3859,177 @@
         "name": "Spinning16",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_player.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\player",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_player5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\player5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_player52.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\player52",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_player53.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\player53",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_player54.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\player54",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_lompat2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\lompat2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_player2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\player2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_player55.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\player55",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_player56.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\player56",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_player57.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\player57",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_player58.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\player58",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_lompat22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\lompat22",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_player3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\player3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_player59.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\player59",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_player510.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\player510",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_player511.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\player511",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_player512.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\player512",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_lompat23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\lompat23",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "2830.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "2830.jpg",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -3893,14 +4064,14 @@
       "uiSettings": {
         "grid": false,
         "gridType": "rectangular",
-        "gridWidth": 32,
-        "gridHeight": 32,
+        "gridWidth": 16,
+        "gridHeight": 16,
         "gridOffsetX": 0,
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.546875,
+        "zoomFactor": 0.7370816317994029,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -3914,8 +4085,8 @@
           "name": "StartButton",
           "persistentUuid": "8c278fd6-5df0-40e0-9aea-38171b4d8e02",
           "width": 0,
-          "x": 600,
-          "y": 96,
+          "x": 592,
+          "y": 257,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -3929,8 +4100,8 @@
           "name": "OptionButton",
           "persistentUuid": "d69cba61-6888-433f-a635-4cc6381ec522",
           "width": 0,
-          "x": 581,
-          "y": 224,
+          "x": 573,
+          "y": 368,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -3944,8 +4115,8 @@
           "name": "ExitButton",
           "persistentUuid": "6bcf1e21-ca9e-41e9-ad9f-d89ccf32fc52",
           "width": 0,
-          "x": 614,
-          "y": 352,
+          "x": 608,
+          "y": 480,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -3962,6 +4133,21 @@
           "x": -2,
           "y": -2,
           "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "NewText",
+          "persistentUuid": "aa511f01-b9a0-443c-a8ce-2c91e781b7e5",
+          "width": 0,
+          "x": 434,
+          "y": 76,
+          "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4091,6 +4277,28 @@
           "variables": [],
           "effects": [],
           "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "NewText",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "PYRAMID LUX",
+          "font": "f66c77b4a9335111fb8db2dc84354aeb1fc92eb0db7c7302e849c4d421eec02c_CaesarDressing-Regular.ttf",
+          "textAlignment": "center",
+          "characterSize": 80,
+          "color": {
+            "b": 145,
+            "g": 66,
+            "r": 0
+          }
         }
       ],
       "events": [
@@ -4201,8 +4409,8 @@
     {
       "b": 209,
       "disableInputWhenNotFocused": true,
-      "mangledName": "level1",
-      "name": "level1",
+      "mangledName": "level1_95old",
+      "name": "level1_old",
       "r": 209,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
@@ -5412,7 +5620,7 @@
               },
               "parameters": [
                 "",
-                "\"over1\"",
+                "\"over\"",
                 ""
               ]
             }
@@ -5541,7 +5749,7 @@
               },
               "parameters": [
                 "",
-                "\"level1\"",
+                "\"level1_old\"",
                 ""
               ]
             }
@@ -5833,8 +6041,8 @@
     {
       "b": 209,
       "disableInputWhenNotFocused": true,
-      "mangledName": "over1",
-      "name": "over1",
+      "mangledName": "over",
+      "name": "over",
       "r": 209,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
@@ -5858,14 +6066,14 @@
       "instances": [
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 738,
           "layer": "",
-          "name": "Bg_bl",
-          "persistentUuid": "4be856a1-bfba-4cd5-9535-cc49b12e1748",
-          "width": 0,
-          "x": -296,
-          "y": -173,
+          "name": "NewPanelSprite",
+          "persistentUuid": "1bfe988c-14be-4f7c-a0f2-82f9a7e80b19",
+          "width": 1352,
+          "x": -8,
+          "y": -10,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -5876,27 +6084,12 @@
           "customSize": false,
           "height": 0,
           "layer": "",
-          "name": "over",
-          "persistentUuid": "3ac56bb5-f1a8-4507-8fd0-ef0127ba7d73",
-          "width": 0,
-          "x": 450,
-          "y": -70,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 128,
-          "layer": "",
           "name": "retry",
-          "persistentUuid": "74c02c02-4967-4332-80ff-7f75ef538141",
-          "width": 113,
-          "x": 500,
-          "y": 316,
-          "zOrder": 3,
+          "persistentUuid": "8ee3ec2e-2389-4a58-8418-66ced15ee9a0",
+          "width": 0,
+          "x": 495,
+          "y": 320,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5907,11 +6100,11 @@
           "height": 0,
           "layer": "",
           "name": "exit",
-          "persistentUuid": "9367f7d3-4452-4fda-8bd6-e024362b8840",
+          "persistentUuid": "6cd02cff-4386-4229-9307-dbc71a62aa60",
           "width": 0,
-          "x": 670,
-          "y": 309,
-          "zOrder": 4,
+          "x": 704,
+          "y": 320,
+          "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5923,10 +6116,10 @@
           "bottomMargin": 0,
           "height": 1080,
           "leftMargin": 0,
-          "name": "Bg_bl",
+          "name": "NewPanelSprite",
           "rightMargin": 0,
           "tags": "",
-          "texture": "background_bl.jpg",
+          "texture": "2830.jpg",
           "tiled": false,
           "topMargin": 0,
           "type": "PanelSpriteObject::PanelSprite",
@@ -5937,98 +6130,47 @@
         },
         {
           "assetStoreId": "",
-          "bottomMargin": 0,
-          "height": 400,
-          "leftMargin": 0,
-          "name": "over",
-          "rightMargin": 0,
+          "bold": true,
+          "italic": false,
+          "name": "retry",
+          "smoothed": true,
           "tags": "",
-          "texture": "over.png",
-          "tiled": false,
-          "topMargin": 0,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 400,
+          "type": "TextObject::Text",
+          "underlined": false,
           "variables": [],
           "effects": [],
-          "behaviors": []
+          "behaviors": [],
+          "string": "RETRY",
+          "font": "f66c77b4a9335111fb8db2dc84354aeb1fc92eb0db7c7302e849c4d421eec02c_CaesarDressing-Regular.ttf",
+          "textAlignment": "left",
+          "characterSize": 60,
+          "color": {
+            "b": 40,
+            "g": 230,
+            "r": 135
+          }
         },
         {
           "assetStoreId": "",
           "bold": true,
           "italic": false,
-          "name": "score",
-          "smoothed": true,
-          "tags": "",
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "string": "SCORE: ",
-          "font": "",
-          "textAlignment": "left",
-          "characterSize": 50,
-          "color": {
-            "b": 35,
-            "g": 166,
-            "r": 245
-          }
-        },
-        {
-          "assetStoreId": "",
-          "bottomMargin": 0,
-          "height": 90,
-          "leftMargin": 0,
-          "name": "retry",
-          "rightMargin": 0,
-          "tags": "",
-          "texture": "retry.png",
-          "tiled": false,
-          "topMargin": 0,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 90,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "bold": false,
-          "italic": false,
-          "name": "NewText",
-          "smoothed": true,
-          "tags": "",
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "string": "Text",
-          "font": "561d75b195f4dfcbdf0c38511984c83680574032d6b8c3c6a436a4fd32094320_DotGothic16-Regular.ttf",
-          "textAlignment": "left",
-          "characterSize": 20,
-          "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
-          }
-        },
-        {
-          "assetStoreId": "",
-          "bottomMargin": 0,
-          "height": 150,
-          "leftMargin": 0,
           "name": "exit",
-          "rightMargin": 0,
+          "smoothed": true,
           "tags": "",
-          "texture": "exit.png",
-          "tiled": false,
-          "topMargin": 0,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 150,
+          "type": "TextObject::Text",
+          "underlined": false,
           "variables": [],
           "effects": [],
-          "behaviors": []
+          "behaviors": [],
+          "string": "EXIT",
+          "font": "f66c77b4a9335111fb8db2dc84354aeb1fc92eb0db7c7302e849c4d421eec02c_CaesarDressing-Regular.ttf",
+          "textAlignment": "center",
+          "characterSize": 60,
+          "color": {
+            "b": 27,
+            "g": 2,
+            "r": 208
+          }
         }
       ],
       "events": [
@@ -6139,8 +6281,8 @@
     {
       "b": 209,
       "disableInputWhenNotFocused": true,
-      "mangledName": "level2",
-      "name": "level2",
+      "mangledName": "level2_95old",
+      "name": "level2_old",
       "r": 209,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
@@ -7237,312 +7379,6 @@
           "type": "PlatformBehavior::PlatformerObjectBehavior"
         }
       ]
-    },
-    {
-      "b": 209,
-      "disableInputWhenNotFocused": true,
-      "mangledName": "over2",
-      "name": "over2",
-      "r": 209,
-      "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
-      "title": "",
-      "v": 209,
-      "uiSettings": {
-        "grid": false,
-        "gridType": "rectangular",
-        "gridWidth": 32,
-        "gridHeight": 32,
-        "gridOffsetX": 0,
-        "gridOffsetY": 0,
-        "gridColor": 10401023,
-        "gridAlpha": 0.8,
-        "snap": false,
-        "zoomFactor": 0.546875,
-        "windowMask": false
-      },
-      "objectsGroups": [],
-      "variables": [],
-      "instances": [
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Bg_bl",
-          "persistentUuid": "4be856a1-bfba-4cd5-9535-cc49b12e1748",
-          "width": 0,
-          "x": -296,
-          "y": -173,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "over",
-          "persistentUuid": "3ac56bb5-f1a8-4507-8fd0-ef0127ba7d73",
-          "width": 0,
-          "x": 450,
-          "y": -70,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 128,
-          "layer": "",
-          "name": "retry",
-          "persistentUuid": "74c02c02-4967-4332-80ff-7f75ef538141",
-          "width": 113,
-          "x": 500,
-          "y": 316,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "exit",
-          "persistentUuid": "9367f7d3-4452-4fda-8bd6-e024362b8840",
-          "width": 0,
-          "x": 670,
-          "y": 309,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        }
-      ],
-      "objects": [
-        {
-          "assetStoreId": "",
-          "bottomMargin": 0,
-          "height": 1080,
-          "leftMargin": 0,
-          "name": "Bg_bl",
-          "rightMargin": 0,
-          "tags": "",
-          "texture": "background_bl.jpg",
-          "tiled": false,
-          "topMargin": 0,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 1920,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "bottomMargin": 0,
-          "height": 400,
-          "leftMargin": 0,
-          "name": "over",
-          "rightMargin": 0,
-          "tags": "",
-          "texture": "over.png",
-          "tiled": false,
-          "topMargin": 0,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 400,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "bold": true,
-          "italic": false,
-          "name": "score",
-          "smoothed": true,
-          "tags": "",
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "string": "SCORE: ",
-          "font": "",
-          "textAlignment": "left",
-          "characterSize": 50,
-          "color": {
-            "b": 35,
-            "g": 166,
-            "r": 245
-          }
-        },
-        {
-          "assetStoreId": "",
-          "bottomMargin": 0,
-          "height": 90,
-          "leftMargin": 0,
-          "name": "retry",
-          "rightMargin": 0,
-          "tags": "",
-          "texture": "retry.png",
-          "tiled": false,
-          "topMargin": 0,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 90,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "bold": false,
-          "italic": false,
-          "name": "NewText",
-          "smoothed": true,
-          "tags": "",
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "string": "Text",
-          "font": "561d75b195f4dfcbdf0c38511984c83680574032d6b8c3c6a436a4fd32094320_DotGothic16-Regular.ttf",
-          "textAlignment": "left",
-          "characterSize": 20,
-          "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
-          }
-        },
-        {
-          "assetStoreId": "",
-          "bottomMargin": 0,
-          "height": 150,
-          "leftMargin": 0,
-          "name": "exit",
-          "rightMargin": 0,
-          "tags": "",
-          "texture": "exit.png",
-          "tiled": false,
-          "topMargin": 0,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 150,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        }
-      ],
-      "events": [
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "retry",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonReleased"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Scene"
-              },
-              "parameters": [
-                "",
-                "\"level2\"",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "exit",
-                "",
-                "",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "MouseButtonReleased"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Quit"
-              },
-              "parameters": [
-                ""
-              ]
-            }
-          ]
-        }
-      ],
-      "layers": [
-        {
-          "ambientLightColorB": 7760248,
-          "ambientLightColorG": 7760248,
-          "ambientLightColorR": 0,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 0.1,
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ],
-      "behaviorsSharedData": []
     },
     {
       "b": 209,
@@ -14341,8 +14177,8 @@
     {
       "b": 209,
       "disableInputWhenNotFocused": true,
-      "mangledName": "Untitled_32scene",
-      "name": "Untitled scene",
+      "mangledName": "level1",
+      "name": "level1",
       "r": 209,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
@@ -14358,7 +14194,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7619362677197941,
+        "zoomFactor": 1.2121641972174213,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -14763,7 +14599,7 @@
           "persistentUuid": "253f349f-9aed-449d-8b27-70d5846ec508",
           "width": 32,
           "x": 608,
-          "y": 160,
+          "y": 166,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -15371,14 +15207,14 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 64,
           "layer": "",
           "name": "Saw2",
           "persistentUuid": "cfbb2b6a-f364-4baf-8148-259348b91de4",
-          "width": 0,
-          "x": 901,
-          "y": 290,
+          "width": 65,
+          "x": 888,
+          "y": 260,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -15560,21 +15396,6 @@
           "x": 684,
           "y": 613,
           "zOrder": 8,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 31,
-          "layer": "",
-          "name": "player",
-          "persistentUuid": "ef2e78e3-8bc8-4b6f-884e-0da9a8ffa619",
-          "width": 29,
-          "x": 990,
-          "y": 446,
-          "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -16106,14 +15927,14 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 49,
           "layer": "",
           "name": "Saw2",
           "persistentUuid": "b0efe0fd-782a-4a25-bc80-4d74c27e23fa",
-          "width": 0,
-          "x": 38,
-          "y": 235,
+          "width": 51,
+          "x": 45,
+          "y": 216,
           "zOrder": 30,
           "numberProperties": [],
           "stringProperties": [],
@@ -16181,14 +16002,44 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 59,
           "layer": "",
           "name": "Saw2",
           "persistentUuid": "8e27e1c2-416d-416b-8755-78cc6b614d1d",
-          "width": 0,
-          "x": 48,
-          "y": 640,
+          "width": 60,
+          "x": 43,
+          "y": 638,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 48,
+          "layer": "",
+          "name": "Saw2",
+          "persistentUuid": "d7c39c29-b9dd-4cbb-aab6-63c3ca99386a",
+          "width": 51,
+          "x": 838,
+          "y": 106,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "name": "Saw2",
+          "persistentUuid": "f464bf0a-a953-499d-a4e3-e3ab057279a6",
+          "width": 32,
+          "x": 740,
+          "y": 213,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -16199,12 +16050,12 @@
           "customSize": false,
           "height": 0,
           "layer": "",
-          "name": "Saw2",
-          "persistentUuid": "d7c39c29-b9dd-4cbb-aab6-63c3ca99386a",
+          "name": "player",
+          "persistentUuid": "2549baa3-917f-4900-a5ec-500482caece8",
           "width": 0,
-          "x": 849,
-          "y": 106,
-          "zOrder": 7,
+          "x": 989,
+          "y": 450,
+          "zOrder": 31,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -16647,16 +16498,17 @@
           ],
           "animations": [
             {
-              "name": "",
+              "name": "assets\\player",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.5,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\player.png",
+                      "image": "assets\\player3",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -16676,16 +16528,17 @@
               ]
             },
             {
-              "name": "",
+              "name": "assets\\player5",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": true,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.07,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\player5.png",
+                      "image": "assets\\player59",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -16702,7 +16555,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\player22.png",
+                      "image": "assets\\player510",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -16719,7 +16572,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\player42.png",
+                      "image": "assets\\player511",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -16736,7 +16589,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\player32.png",
+                      "image": "assets\\player512",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -16756,16 +16609,17 @@
               ]
             },
             {
-              "name": "",
+              "name": "assets\\lompat2",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.2,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\lompat2.png",
+                      "image": "assets\\lompat23",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -19158,7 +19012,7 @@
                   "timeBetweenFrames": 0.1111,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Saw_Activate_1.png",
                       "points": [],
                       "originPoint": {
@@ -19172,10 +19026,33 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8.5,
+                            "y": 16
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 2.5
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 20,
+                            "y": 32
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Saw_Activate_2.png",
                       "points": [],
                       "originPoint": {
@@ -19189,10 +19066,33 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8.5,
+                            "y": 16
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 2.5
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 20,
+                            "y": 32
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Saw_Activate_3.png",
                       "points": [],
                       "originPoint": {
@@ -19206,10 +19106,33 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8.5,
+                            "y": 16
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 2.5
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 20,
+                            "y": 32
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Saw_Activate_4.png",
                       "points": [],
                       "originPoint": {
@@ -19223,10 +19146,33 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8.5,
+                            "y": 16
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 2.5
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 20,
+                            "y": 32
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Saw_Activate_5.png",
                       "points": [],
                       "originPoint": {
@@ -19240,10 +19186,33 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8.5,
+                            "y": 16
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 2.5
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 20,
+                            "y": 32
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Saw_Activate_6.png",
                       "points": [],
                       "originPoint": {
@@ -19257,10 +19226,33 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8.5,
+                            "y": 16
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 2.5
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 20,
+                            "y": 32
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Saw_Activate_7.png",
                       "points": [],
                       "originPoint": {
@@ -19274,109 +19266,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Saw_Activate_8.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Saw_Activate_9.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Saw_Activate_10.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Saw_Activate_11.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Saw_Activate_12.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Saw_Activate_13.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8.5,
+                            "y": 16
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 2.5
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 20,
+                            "y": 32
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -20710,7 +20623,7 @@
               },
               "parameters": [
                 "",
-                "\"Main Menu\"",
+                "\"over\"",
                 ""
               ]
             }
@@ -20894,8 +20807,8 @@
               "parameters": [
                 "",
                 "player",
-                "68",
-                "188",
+                "990",
+                "446",
                 ""
               ]
             },
@@ -20944,8 +20857,8 @@
               "parameters": [
                 "",
                 "player",
-                "68",
-                "188",
+                "990",
+                "446",
                 ""
               ]
             },
@@ -20975,6 +20888,15 @@
                 "",
                 "no"
               ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+              ]
             }
           ],
           "actions": [
@@ -20994,8 +20916,8 @@
               "parameters": [
                 "",
                 "player",
-                "68",
-                "188",
+                "990",
+                "446",
                 ""
               ]
             },
@@ -21674,181 +21596,6 @@
           "type": "SmoothCamera::SmoothCamera"
         }
       ]
-    },
-    {
-      "b": 209,
-      "disableInputWhenNotFocused": true,
-      "mangledName": "Untitled_32scene2",
-      "name": "Untitled scene2",
-      "r": 209,
-      "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
-      "title": "",
-      "v": 209,
-      "uiSettings": {},
-      "objectsGroups": [],
-      "variables": [],
-      "instances": [],
-      "objects": [],
-      "events": [],
-      "layers": [
-        {
-          "ambientLightColorB": 8929152,
-          "ambientLightColorG": 150995054,
-          "ambientLightColorR": 1869182049,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 0.1,
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ],
-      "behaviorsSharedData": []
-    },
-    {
-      "b": 209,
-      "disableInputWhenNotFocused": true,
-      "mangledName": "Untitled_32scene4",
-      "name": "Untitled scene4",
-      "r": 209,
-      "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
-      "title": "",
-      "v": 209,
-      "uiSettings": {},
-      "objectsGroups": [],
-      "variables": [],
-      "instances": [
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 41,
-          "layer": "",
-          "name": "NewSprite",
-          "persistentUuid": "602aeed8-0b5e-4d14-9844-5e95aea6dc8a",
-          "width": 56,
-          "x": -3,
-          "y": 1,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        }
-      ],
-      "objects": [
-        {
-          "assetStoreId": "",
-          "name": "NewSprite",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Desain tanpa judul (1).png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "NewSprite2",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": []
-        },
-        {
-          "assetStoreId": "",
-          "height": 32,
-          "name": "NewTiledSprite",
-          "tags": "",
-          "texture": "",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        }
-      ],
-      "events": [],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 0.1,
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ],
-      "behaviorsSharedData": []
     }
   ],
   "externalEvents": [],
