@@ -15332,8 +15332,8 @@
           "name": "Saw",
           "persistentUuid": "17a9a503-a83e-43b4-afbd-2c648b239466",
           "width": 33,
-          "x": 352,
-          "y": 415,
+          "x": 354,
+          "y": 416,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -16100,6 +16100,111 @@
           "x": 586,
           "y": 474,
           "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Saw2",
+          "persistentUuid": "b0efe0fd-782a-4a25-bc80-4d74c27e23fa",
+          "width": 0,
+          "x": 38,
+          "y": 235,
+          "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 38,
+          "layer": "",
+          "name": "Skeleton",
+          "persistentUuid": "28053572-3823-4b3f-bce7-9f7a11e2adc5",
+          "width": 34,
+          "x": 87,
+          "y": 432,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 35,
+          "layer": "",
+          "name": "kiri",
+          "persistentUuid": "f4c32dd4-d961-454c-afa1-8212559640b1",
+          "width": 37,
+          "x": 171,
+          "y": 435,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 37,
+          "layer": "",
+          "name": "kanan",
+          "persistentUuid": "c176d674-a7cf-4733-8bfb-3ddd71a49803",
+          "width": 32,
+          "x": 5,
+          "y": 435,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 360,
+          "customSize": true,
+          "height": 63,
+          "layer": "",
+          "name": "Saw",
+          "persistentUuid": "9da00326-0d1b-495b-97ef-4baeca17f590",
+          "width": 63,
+          "x": 321,
+          "y": 495,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Saw2",
+          "persistentUuid": "8e27e1c2-416d-416b-8755-78cc6b614d1d",
+          "width": 0,
+          "x": 48,
+          "y": 640,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Saw2",
+          "persistentUuid": "d7c39c29-b9dd-4cbb-aab6-63c3ca99386a",
+          "width": 0,
+          "x": 849,
+          "y": 106,
+          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -20482,7 +20587,24 @@
               ]
             }
           ],
-          "actions": []
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "kanan"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "kiri"
+              ]
+            }
+          ]
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
