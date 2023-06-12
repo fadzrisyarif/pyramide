@@ -2410,6 +2410,78 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Hud/Bar/e6e666707e06c429f6dd475d85d575a5b69a1dc27369a8f1d06a747afa2f1264_Health Bar Box.png",
           "name": "Health Bar Box.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Limping Movement_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Skeleton_Limping Movement_1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Limping Movement_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Skeleton_Limping Movement_2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Limping Movement_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Skeleton_Limping Movement_3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Limping Movement_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Skeleton_Limping Movement_4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Limping Movement_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Skeleton_Limping Movement_5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skeleton_Limping Movement_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Skeleton_Limping Movement_6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/New image2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "New image2",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2752,7 +2824,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7039342684632951,
+        "zoomFactor": 0.37486424046716754,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -2802,8 +2874,8 @@
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "5263a73d-4c70-47cf-88d7-96c9ca43f53a",
-          "width": 376,
-          "x": 256,
+          "width": 378,
+          "x": 254,
           "y": 506,
           "zOrder": 4,
           "numberProperties": [],
@@ -2888,13 +2960,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 53,
+          "height": 59,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "5477ddc9-96d7-4c91-9789-9873e889d44d",
-          "width": 621,
-          "x": 1062,
-          "y": 278,
+          "width": 237,
+          "x": 924,
+          "y": 272,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -2952,9 +3024,9 @@
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "08882260-3fae-4153-af4a-59dd64f1e0ae",
-          "width": 105,
-          "x": 898,
-          "y": 156,
+          "width": 146,
+          "x": 878,
+          "y": 177,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -3278,11 +3350,11 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 23,
+          "height": 67,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "519bbf9f-7e29-4fcf-ba54-db32ff45f254",
-          "width": 169,
+          "width": 1357,
           "x": 976,
           "y": 133,
           "zOrder": 4,
@@ -3735,7 +3807,7 @@
           "customSize": false,
           "height": 0,
           "layer": "",
-          "name": "saw2",
+          "name": "saw_right",
           "persistentUuid": "40fc7409-8672-47ee-8461-928e007eaca2",
           "width": 0,
           "x": 893,
@@ -3771,6 +3843,81 @@
           "x": 1024,
           "y": 17,
           "zOrder": 46,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "batas",
+          "persistentUuid": "a8360a13-1806-4703-8452-4b6f1e96a87c",
+          "width": 0,
+          "x": 614,
+          "y": 474,
+          "zOrder": 48,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "batas",
+          "persistentUuid": "f43ece05-35a8-441b-9171-b9f363f6548b",
+          "width": 0,
+          "x": 226,
+          "y": 474,
+          "zOrder": 49,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 35,
+          "layer": "",
+          "name": "tengkorak",
+          "persistentUuid": "a6e0974a-9722-4b9b-8d59-ea4fbd0ab948",
+          "width": 36,
+          "x": 275,
+          "y": 468,
+          "zOrder": 50,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 98,
+          "layer": "",
+          "name": "checkpoint_box",
+          "persistentUuid": "f0e3042b-f611-477c-abec-7bd5e7753034",
+          "width": 32,
+          "x": 485,
+          "y": 221,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 69,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "cbda9ffa-3555-4ab6-8b82-c65cce6f8c8b",
+          "width": 1420,
+          "x": 1223,
+          "y": 272,
+          "zOrder": 52,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3834,11 +3981,24 @@
               "name": "maxhealth",
               "type": "number",
               "value": 25
+            },
+            {
+              "folded": true,
+              "name": "checkX",
+              "type": "number",
+              "value": 88
+            },
+            {
+              "folded": true,
+              "name": "checkY",
+              "type": "number",
+              "value": 550
             }
           ],
           "effects": [],
           "behaviors": [
             {
+              "maxSpeed": 150,
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 1000,
@@ -3853,7 +4013,6 @@
               "canGrabPlatforms": false,
               "canGrabWithoutMoving": true,
               "ignoreDefaultControls": false,
-              "maxSpeed": 250,
               "slopeMaxAngle": 60,
               "useLegacyTrajectory": false,
               "yGrabOffset": 0
@@ -4803,7 +4962,134 @@
         },
         {
           "assetStoreId": "",
-          "name": "saw2",
+          "name": "saw_right",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "assets/Saw_Activate_1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/Saw_Activate_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/Saw_Activate_9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/Saw_Activate_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/Saw_Activate_11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/Saw_Activate_12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/Saw_Activate_13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "saw_left",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -5054,6 +5340,213 @@
           "variables": [],
           "effects": [],
           "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "name": "tengkorak",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "acceleration": 200,
+              "canGoDownFromJumpthru": true,
+              "canGrabPlatforms": false,
+              "canGrabWithoutMoving": true,
+              "deceleration": 200,
+              "gravity": 1000,
+              "ignoreDefaultControls": true,
+              "jumpSpeed": 600,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 50,
+              "name": "PlatformerObject",
+              "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "useLegacyTrajectory": false,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "walk",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/Skeleton_Limping Movement_1.png",
+                      "points": [
+                        {
+                          "name": "btsCheck",
+                          "x": 32.5,
+                          "y": 16.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/Skeleton_Limping Movement_2.png",
+                      "points": [
+                        {
+                          "name": "btsCheck",
+                          "x": 32.5,
+                          "y": 16.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/Skeleton_Limping Movement_3.png",
+                      "points": [
+                        {
+                          "name": "btsCheck",
+                          "x": 32.5,
+                          "y": 16.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/Skeleton_Limping Movement_4.png",
+                      "points": [
+                        {
+                          "name": "btsCheck",
+                          "x": 32.5,
+                          "y": 16.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/Skeleton_Limping Movement_5.png",
+                      "points": [
+                        {
+                          "name": "btsCheck",
+                          "x": 32.5,
+                          "y": 16.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets/Skeleton_Limping Movement_6.png",
+                      "points": [
+                        {
+                          "name": "btsCheck",
+                          "x": 32.5,
+                          "y": 16.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "batas",
+          "tags": "",
+          "texture": "New image",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "checkpoint_box",
+          "tags": "",
+          "texture": "New image2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
         }
       ],
       "events": [
@@ -5229,6 +5722,22 @@
               "parameters": [
                 "",
                 "New dialogue tree"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "batas"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "checkpoint_box"
               ]
             }
           ]
@@ -5953,6 +6462,370 @@
                 "HealthBar",
                 "=",
                 "clamp(player.Variable(health)/player.Variable(maxhealth)*250,0,250)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "AnimationName"
+              },
+              "parameters": [
+                "tengkorak",
+                "\"walk\""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "FlippedX"
+                  },
+                  "parameters": [
+                    "tengkorak"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::SimulateControl"
+                  },
+                  "parameters": [
+                    "tengkorak",
+                    "PlatformerObject",
+                    "\"Right\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "FlippedX"
+                  },
+                  "parameters": [
+                    "tengkorak"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::SimulateControl"
+                  },
+                  "parameters": [
+                    "tengkorak",
+                    "PlatformerObject",
+                    "\"Left\""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionPoint"
+              },
+              "parameters": [
+                "batas",
+                "tengkorak.PointX(\"btsCheck\")",
+                "tengkorak.PointY(\"btsCheck\")"
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "FlippedX"
+                  },
+                  "parameters": [
+                    "tengkorak"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "FlipX"
+                  },
+                  "parameters": [
+                    "tengkorak",
+                    "yes"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionPoint"
+              },
+              "parameters": [
+                "batas",
+                "tengkorak.PointX(\"btsCheck\")",
+                "tengkorak.PointY(\"btsCheck\")"
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "FlippedX"
+                  },
+                  "parameters": [
+                    "tengkorak"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "FlipX"
+                  },
+                  "parameters": [
+                    "tengkorak",
+                    "no"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteObject::Width"
+              },
+              "parameters": [
+                "HealthBar",
+                "<",
+                "1"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "player",
+                "=",
+                "player.Variable(checkX)",
+                "=",
+                "player.Variable(checkY)"
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteObject::Width"
+              },
+              "parameters": [
+                "HealthBar",
+                "=",
+                "250"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "player",
+                "health",
+                "=",
+                "25"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "tengkorak",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "player",
+                "<",
+                "tengkorak.X()"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreX"
+              },
+              "parameters": [
+                "player",
+                "=",
+                "player.X()-30"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "player",
+                "health",
+                "-",
+                "2.5"
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteObject::Width"
+              },
+              "parameters": [
+                "HealthBar",
+                "=",
+                "clamp(player.Variable(health)/player.Variable(maxhealth)*250,0,250)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "tengkorak",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "player",
+                ">",
+                "tengkorak.X()"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreX"
+              },
+              "parameters": [
+                "player",
+                "=",
+                "player.X()+30"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "player",
+                "health",
+                "-",
+                "2.5"
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteObject::Width"
+              },
+              "parameters": [
+                "HealthBar",
+                "=",
+                "clamp(player.Variable(health)/player.Variable(maxhealth)*250,0,250)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "checkpoint_box",
+                "",
+                "",
+                "yes"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "player",
+                "checkX",
+                "=",
+                "checkpoint_box.X()"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "player",
+                "checkY",
+                "=",
+                "checkpoint_box.Y()+50"
               ]
             }
           ]
