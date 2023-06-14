@@ -4340,6 +4340,376 @@
         "name": "attack36",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Guard_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "6587c902de7bb18a414846ba62750ac2c7355e6ee92a81bc80f67c205fb92960_Guard_Idle_1.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Chierit/Lively NPC/Medieval/6587c902de7bb18a414846ba62750ac2c7355e6ee92a81bc80f67c205fb92960_Guard_Idle_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Guard_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "6587c902de7bb18a414846ba62750ac2c7355e6ee92a81bc80f67c205fb92960_Guard_Idle_2.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Chierit/Lively NPC/Medieval/6587c902de7bb18a414846ba62750ac2c7355e6ee92a81bc80f67c205fb92960_Guard_Idle_2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Guard_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "484753f40f6c72c64626ca96a437eb40eb66b84d8c41df075d900a62d5a4c955_Guard_Idle_3.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Chierit/Lively NPC/Medieval/484753f40f6c72c64626ca96a437eb40eb66b84d8c41df075d900a62d5a4c955_Guard_Idle_3.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Guard_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "fc7c7cad9bae32091b4d74ca8cc3df553acb3a0aaf02d934a5091f783af4b342_Guard_Idle_4.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Chierit/Lively NPC/Medieval/fc7c7cad9bae32091b4d74ca8cc3df553acb3a0aaf02d934a5091f783af4b342_Guard_Idle_4.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Isometric Voxel Cactus_Stem.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "f18cdf77c023006a99beaf4b25826521dadc905d64f6858d3158e8fa57dfb6c1_Isometric Voxel Cactus_Stem.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Pack/Voxel tiles/Foliage/f18cdf77c023006a99beaf4b25826521dadc905d64f6858d3158e8fa57dfb6c1_Isometric Voxel Cactus_Stem.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Open door top2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "e4aa6d39011105e74883d0502b45677ce48dbeee0fea0ab2bc846deed9de1d50_Open door top.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Abstract Platformer Pack (370 assets)/PNG/Other/e4aa6d39011105e74883d0502b45677ce48dbeee0fea0ab2bc846deed9de1d50_Open door top.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Box3_Hit_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "f937266e8797a1b5f6381dc4f23bf3f2b0fe871b99fb2e0f96ba8cb30b0f258e_Box3_Hit_1.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Items/Boxes/f937266e8797a1b5f6381dc4f23bf3f2b0fe871b99fb2e0f96ba8cb30b0f258e_Box3_Hit_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "door_anim_opening_f0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "door_anim_opening_f0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "door_anim_opening_f1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "door_anim_opening_f1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "door_anim_opening_f2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "door_anim_opening_f2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "door_anim_opening_f3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "door_anim_opening_f3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "door_anim_opening_f4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "door_anim_opening_f4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "door_anim_opening_f5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "door_anim_opening_f5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "door_anim_opening_f6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "door_anim_opening_f6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "door_anim_opening_f7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "door_anim_opening_f7.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "door_anim_opening_f8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "door_anim_opening_f8.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "door_anim_opening_f9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "door_anim_opening_f9.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "door_anim_opening_f10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "door_anim_opening_f10.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "door_anim_opening_f11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "door_anim_opening_f11.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "door_anim_opening_f12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "door_anim_opening_f12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "door_anim_opening_f13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "door_anim_opening_f13.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "door_fullyopen.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "door_fullyopen.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "door_spritesheet.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "door_spritesheet.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/door_anim_opening_f0.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "door_anim_opening_f0",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/door_anim_opening_f02.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "door_anim_opening_f02",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/door_anim_opening_f03.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "door_anim_opening_f03",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/door_anim_opening_f04.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "door_anim_opening_f04",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/door_anim_opening_f05.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "door_anim_opening_f05",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/door_anim_opening_f06.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "door_anim_opening_f06",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/door_anim_opening_f07.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "door_anim_opening_f07",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/door_anim_opening_f08.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "door_anim_opening_f08",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/door_anim_opening_f09.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "door_anim_opening_f09",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/door_anim_opening_f010.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "door_anim_opening_f010",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/door_anim_opening_f011.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "door_anim_opening_f011",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/door_anim_opening_f012.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "door_anim_opening_f012",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/door_anim_opening_f013.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "door_anim_opening_f013",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/door_anim_opening_f014.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "door_anim_opening_f014",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/door_anim_opening_f015.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "door_anim_opening_f015",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -4626,7 +4996,7 @@
               },
               "parameters": [
                 "",
-                "\"level1\"",
+                "\"Intro\"",
                 ""
               ]
             }
@@ -4719,7 +5089,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.0695262128039253,
+        "zoomFactor": 0.6949469999795413,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -24800,6 +25170,4821 @@
         }
       ],
       "behaviorsSharedData": []
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Intro",
+      "name": "Intro",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 64,
+        "gridHeight": 64,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.645510570331148,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "f433b0ac-fa1c-4f3f-b991-d7e0ee13991d",
+          "width": 64,
+          "x": 0,
+          "y": 0,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "c0ed91cf-c2b6-4e6c-80ae-87c28b64d801",
+          "width": 64,
+          "x": 64,
+          "y": 0,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "e5da2de5-f9f2-488f-95f7-ed12fac3f43b",
+          "width": 64,
+          "x": 128,
+          "y": 0,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "12d85c82-3914-4679-8ebd-09ac990e9678",
+          "width": 64,
+          "x": 192,
+          "y": 0,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "42c5db0d-03fd-4415-a221-72b75afe2b5a",
+          "width": 64,
+          "x": 256,
+          "y": 0,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "5d731001-cf25-43aa-a0fc-15bf5a26fac5",
+          "width": 64,
+          "x": 320,
+          "y": 0,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "24993c15-b2bc-4e79-b764-ba1a18415365",
+          "width": 64,
+          "x": 384,
+          "y": 0,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "344f680d-15e3-44d9-9e46-9e2671f841ca",
+          "width": 64,
+          "x": 448,
+          "y": 0,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "ae200e81-2812-4e54-82f1-3964801489ba",
+          "width": 64,
+          "x": 512,
+          "y": 0,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "1e0d2044-e1df-449d-b538-5e3ca3fcd45a",
+          "width": 64,
+          "x": 576,
+          "y": 0,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "68bddfa3-3370-479f-bc85-2b5fb248460d",
+          "width": 64,
+          "x": 640,
+          "y": 0,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "8623acf4-a25e-4b0e-93a9-df4adc467153",
+          "width": 64,
+          "x": 704,
+          "y": 0,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "d15edf39-0897-413a-aee5-f3031821088e",
+          "width": 64,
+          "x": 768,
+          "y": 0,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "ebf461e0-f13b-4b8d-b8b1-4f7d054dc728",
+          "width": 64,
+          "x": 832,
+          "y": 0,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "27fada44-66f1-4dfb-b355-43d63470c86d",
+          "width": 64,
+          "x": 896,
+          "y": 0,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "447bd409-5b0d-4704-9132-b63237abc05d",
+          "width": 64,
+          "x": 960,
+          "y": 0,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "869c575b-c640-4cab-b152-9ff4c6d73bb6",
+          "width": 64,
+          "x": 1024,
+          "y": 0,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "c16e8a70-d625-4cf0-825d-cca8221569c9",
+          "width": 64,
+          "x": 1088,
+          "y": 0,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "3466f113-0785-4370-a356-7db3621a8165",
+          "width": 64,
+          "x": 1152,
+          "y": 0,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "c6fdf81a-38a5-4f06-b9be-578e3c83580a",
+          "width": 64,
+          "x": 1216,
+          "y": 0,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "8f079d35-2ec1-426d-858f-a76e099969a6",
+          "width": 64,
+          "x": 0,
+          "y": 640,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "2dc087c6-c94d-4a98-8fc0-3e35ddb4750c",
+          "width": 64,
+          "x": 64,
+          "y": 640,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "e02245b0-71c9-4dac-8b64-5a3d255fae36",
+          "width": 64,
+          "x": 128,
+          "y": 640,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "fcb0ae04-fc4b-4da8-8be4-50219fa2ba9a",
+          "width": 64,
+          "x": 192,
+          "y": 640,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "ca91d5bb-9748-4840-8bc8-05f084a0540a",
+          "width": 64,
+          "x": 256,
+          "y": 640,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "f2accd3f-ecf2-49d7-b971-73f74954909b",
+          "width": 64,
+          "x": 320,
+          "y": 640,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "7b853fd5-5ccd-496a-b212-a7208caf4667",
+          "width": 64,
+          "x": 384,
+          "y": 640,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "f83816f9-aadb-4d7d-bc94-99f808c2456b",
+          "width": 64,
+          "x": 448,
+          "y": 640,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "77fd47cc-9d09-41f8-904b-cd2e6b21105e",
+          "width": 64,
+          "x": 512,
+          "y": 640,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "384bb00d-b6fc-446b-83fd-0094163021cc",
+          "width": 64,
+          "x": 576,
+          "y": 640,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "65fdd282-6afa-4e03-812d-feb65b3555d4",
+          "width": 64,
+          "x": 640,
+          "y": 640,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "8dc6092f-5f55-4691-ba09-2aecb85e6493",
+          "width": 64,
+          "x": 704,
+          "y": 640,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "6d8bd8b2-cab7-4a8c-8877-86d0d73ed6ad",
+          "width": 64,
+          "x": 768,
+          "y": 640,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "2a52f191-c1fe-4b5a-aa15-94a823acf881",
+          "width": 64,
+          "x": 832,
+          "y": 640,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "d77f62ed-a71d-4044-8309-6cb0d549a961",
+          "width": 64,
+          "x": 896,
+          "y": 640,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "ebca5253-040d-46ef-b96a-a61d7753652a",
+          "width": 64,
+          "x": 960,
+          "y": 640,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "6eb73c80-f410-4062-8b93-1c68d0029e4a",
+          "width": 64,
+          "x": 1024,
+          "y": 640,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "1716742e-34c8-4340-b241-503dfa8ed7ae",
+          "width": 64,
+          "x": 1088,
+          "y": 640,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "8fdac6b6-b696-4dd1-8ae0-84a2f0351232",
+          "width": 64,
+          "x": 1152,
+          "y": 640,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "0dc8580c-ea32-4066-8315-2c1d04f9fdce",
+          "width": 64,
+          "x": 1216,
+          "y": 640,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "1c08970b-5831-490b-b169-a05afde55c67",
+          "width": 64,
+          "x": 0,
+          "y": 576,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "f6a2aae4-53f1-4ab1-b5c7-b97d19571b11",
+          "width": 64,
+          "x": 64,
+          "y": 576,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "8c967014-0274-4a89-868e-2903f6882b9b",
+          "width": 64,
+          "x": 128,
+          "y": 576,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "6ae9d546-0ce5-458b-b7c6-ca4c6481f9de",
+          "width": 64,
+          "x": 192,
+          "y": 576,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "83042010-c31b-4b49-91ff-eb4c5b80c5b9",
+          "width": 64,
+          "x": 256,
+          "y": 576,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "75b8a4e1-b2ac-4566-99ed-b3a1249e555f",
+          "width": 64,
+          "x": 320,
+          "y": 576,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "c8520fc9-a037-4399-a267-dfb9d89bfd1d",
+          "width": 64,
+          "x": 384,
+          "y": 576,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "f7f8c584-78fa-47a0-b48c-cbb6c1f484bf",
+          "width": 64,
+          "x": 448,
+          "y": 576,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "8ed9c2b2-f9a1-448a-b7a3-d2cd081e0a27",
+          "width": 64,
+          "x": 512,
+          "y": 576,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "362a9024-24df-4c1e-9557-d9f1476a3a05",
+          "width": 64,
+          "x": 576,
+          "y": 576,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "dd27cc3f-9823-468c-8ba9-5bbaac4d69d7",
+          "width": 64,
+          "x": 640,
+          "y": 576,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "fb4c3b96-7dc4-4e92-a5e8-27ceb8c9c525",
+          "width": 64,
+          "x": 704,
+          "y": 576,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "69874e49-ed85-4a94-84bb-baacff592d1e",
+          "width": 64,
+          "x": 768,
+          "y": 576,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "86f51a86-31b4-48d0-af74-b390fea8123c",
+          "width": 64,
+          "x": 832,
+          "y": 576,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "31750f36-2718-4a7f-a72a-86a12d6e95e7",
+          "width": 64,
+          "x": 896,
+          "y": 576,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "6b8d6d7f-66e5-4990-b7d2-5867a7569c46",
+          "width": 64,
+          "x": 960,
+          "y": 576,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "bc2e0326-2f17-4165-aa70-7b70c8746391",
+          "width": 64,
+          "x": 1024,
+          "y": 576,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "448c03b5-8360-441e-a86a-7eef1e5c9d66",
+          "width": 64,
+          "x": 1088,
+          "y": 576,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "e14610f0-ab67-4393-833f-df8b01aacf1b",
+          "width": 64,
+          "x": 1152,
+          "y": 576,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "4d5ee3cd-20db-45aa-9f2f-38b7c4ac6579",
+          "width": 64,
+          "x": 1216,
+          "y": 576,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "2c5b7736-a1c0-49e4-b10d-b337179304c5",
+          "width": 64,
+          "x": 0,
+          "y": 512,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "984cdbf3-ae6b-4cc9-ac4e-58acaaa60760",
+          "width": 64,
+          "x": 64,
+          "y": 512,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "797e60b1-a95b-4e1a-abe2-4468a04be14f",
+          "width": 64,
+          "x": 128,
+          "y": 512,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "990ee35c-9f81-4453-883b-378c20ba30bc",
+          "width": 64,
+          "x": 192,
+          "y": 512,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "7e1230a4-dbde-4684-a5ee-2d24769d26bd",
+          "width": 64,
+          "x": 256,
+          "y": 512,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "2d5df146-b908-42aa-a933-f3e2a20a36ba",
+          "width": 64,
+          "x": 320,
+          "y": 512,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "dd000322-15c3-4f6b-b8b3-2912c13eac66",
+          "width": 64,
+          "x": 384,
+          "y": 512,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "7d9ea938-1cb0-4e0e-b2a6-26b191a4783e",
+          "width": 64,
+          "x": 448,
+          "y": 512,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "631cdd52-9ece-4eb3-a5d9-220557b632e0",
+          "width": 64,
+          "x": 512,
+          "y": 512,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "c3028387-b193-4981-a3a3-c5db52cbd275",
+          "width": 64,
+          "x": 576,
+          "y": 512,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "1468e585-c678-4385-9aa7-c57cc3c03c44",
+          "width": 64,
+          "x": 640,
+          "y": 512,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "23fa882d-7ec4-49f3-bd43-60ca0ca26034",
+          "width": 64,
+          "x": 704,
+          "y": 512,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "f8befbf6-3895-4786-9d26-950ba565efbf",
+          "width": 64,
+          "x": 768,
+          "y": 512,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "6aa0afe9-f677-45ae-aaf0-3bee935248d8",
+          "width": 64,
+          "x": 832,
+          "y": 512,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "e16c79d2-ae0e-43f7-85fd-7cc43dc415c0",
+          "width": 64,
+          "x": 896,
+          "y": 512,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "c718be49-303b-45a0-9ab9-4aa8c2d84a08",
+          "width": 64,
+          "x": 960,
+          "y": 512,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "1c2cb9f2-5bfe-4684-9047-b2ee89e6260b",
+          "width": 64,
+          "x": 1024,
+          "y": 512,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "ec135e1d-b998-4829-b4b5-f49391fd1231",
+          "width": 64,
+          "x": 1088,
+          "y": 512,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "5a7fd9fc-fc00-4bcc-8e66-67271d2a6df2",
+          "width": 64,
+          "x": 1152,
+          "y": 512,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "e0833ce9-1c0b-4dc1-980d-fa12dcd7a158",
+          "width": 64,
+          "x": 1216,
+          "y": 512,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "0349f06b-b43e-4387-bb5b-0aef8f202cef",
+          "width": 64,
+          "x": 0,
+          "y": 448,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "cdfd80fb-d2f2-49af-bae0-2bc7f7c6cd26",
+          "width": 64,
+          "x": 64,
+          "y": 448,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "e4eee2ca-830c-4c86-bd8b-60a2c9974cfc",
+          "width": 64,
+          "x": 128,
+          "y": 448,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "88c0f508-8167-4ebe-88ca-e113df9dddd6",
+          "width": 64,
+          "x": 192,
+          "y": 448,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "fd2d6be3-085d-4a06-b3e8-59205daae8c4",
+          "width": 64,
+          "x": 256,
+          "y": 448,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "7522f22b-7062-48fb-9066-57f361d8dd16",
+          "width": 64,
+          "x": 320,
+          "y": 448,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "16c95853-9d1f-4f2e-a2aa-940d67de67ca",
+          "width": 64,
+          "x": 384,
+          "y": 448,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "ede3385c-be4f-432a-bf8c-520091f77933",
+          "width": 64,
+          "x": 448,
+          "y": 448,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "2340d1e6-49c7-4c87-b19c-96364a7ade2b",
+          "width": 64,
+          "x": 512,
+          "y": 448,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "73ed90bc-4ce1-4bf6-8f8f-c7d738d31ae0",
+          "width": 64,
+          "x": 576,
+          "y": 448,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "e78fa759-6b69-4914-a57d-7586ea6eccc2",
+          "width": 64,
+          "x": 640,
+          "y": 448,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "88788243-2408-48b7-a96b-8716f6ac713a",
+          "width": 64,
+          "x": 704,
+          "y": 448,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "08e2969d-b357-44c0-a7a7-3260c38f4cbe",
+          "width": 64,
+          "x": 768,
+          "y": 448,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "ac0009b0-d3a7-4ad8-ab5f-3aa785d2a4cd",
+          "width": 64,
+          "x": 832,
+          "y": 448,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "63bce76a-da65-4243-bcf1-6614d1d02bca",
+          "width": 64,
+          "x": 896,
+          "y": 448,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "e4c883d9-3e30-46c2-ae98-2294bea7a2a0",
+          "width": 64,
+          "x": 960,
+          "y": 448,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "f4676b50-fc85-4a35-8db5-13bc790aa990",
+          "width": 64,
+          "x": 1024,
+          "y": 448,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "6bb04e15-d6b4-4fdf-ad5f-940d6203e4dd",
+          "width": 64,
+          "x": 1088,
+          "y": 448,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "f0dc3868-8b15-4bd8-8605-ffd04af17dcc",
+          "width": 64,
+          "x": 1152,
+          "y": 448,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "b142e3e2-3694-4886-b11b-bd4e1cab9b3f",
+          "width": 64,
+          "x": 1216,
+          "y": 448,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "1b3f039e-54da-404a-90f9-6bee8af22706",
+          "width": 64,
+          "x": 0,
+          "y": 384,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "9b3f0b12-a1fe-490d-921c-0ff03a953ecc",
+          "width": 64,
+          "x": 64,
+          "y": 384,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "03a7f4d1-30dd-493d-8268-e283007c5e3d",
+          "width": 64,
+          "x": 128,
+          "y": 384,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "10d8fb78-1228-4996-b052-c04d8991490e",
+          "width": 64,
+          "x": 192,
+          "y": 384,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "88d56b66-b352-48ad-97bb-92455e4d3c61",
+          "width": 64,
+          "x": 256,
+          "y": 384,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "3054b65b-cd10-4d2b-b5d8-c1fa580d3c17",
+          "width": 64,
+          "x": 320,
+          "y": 384,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "57357cde-db35-4843-81c3-0ad838fd517a",
+          "width": 64,
+          "x": 384,
+          "y": 384,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "7d467bbe-a0d9-4a76-83e9-677dc14b2e3d",
+          "width": 64,
+          "x": 448,
+          "y": 384,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "0127216f-831f-46c1-9535-ae36caaecd63",
+          "width": 64,
+          "x": 512,
+          "y": 384,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "4960fea1-1072-4819-a303-235d42d46c5c",
+          "width": 64,
+          "x": 576,
+          "y": 384,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "c0adbe43-eaca-44f3-9669-1054eda33fbc",
+          "width": 64,
+          "x": 640,
+          "y": 384,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "3a33d0dd-a664-4785-907f-82f53e5b5a65",
+          "width": 64,
+          "x": 704,
+          "y": 384,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "60556369-80f6-43b6-82b8-04938560958a",
+          "width": 64,
+          "x": 768,
+          "y": 384,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "d891e3b2-5d9d-4415-b4e8-bb027da7143e",
+          "width": 64,
+          "x": 832,
+          "y": 384,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "7925ef90-a8a6-46a0-8210-283035ad9dae",
+          "width": 64,
+          "x": 896,
+          "y": 384,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "c21c663c-0c20-4c8d-a3df-556601734ebc",
+          "width": 64,
+          "x": 960,
+          "y": 384,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "63814305-7299-4120-8093-d47d42534e8c",
+          "width": 64,
+          "x": 1024,
+          "y": 384,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "78e239dc-430a-46c0-8b14-c7d889aabbe4",
+          "width": 64,
+          "x": 1088,
+          "y": 384,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "3b7d6a49-b2b3-4b01-be43-d66ed523ba21",
+          "width": 64,
+          "x": 1152,
+          "y": 384,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "36a238b8-2469-4484-801c-5f93dd1249c4",
+          "width": 64,
+          "x": 1216,
+          "y": 384,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "6abad4ae-fa63-4da8-8353-2b54c083f64f",
+          "width": 64,
+          "x": 0,
+          "y": 320,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "070ff8a7-bd25-4ea8-9dc6-01fa87a1bb9c",
+          "width": 64,
+          "x": 64,
+          "y": 320,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "d9ed5f58-e8bc-4af9-8156-72e2a3eed6fa",
+          "width": 64,
+          "x": 128,
+          "y": 320,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "e0883d49-48b1-4009-9dcb-b7a458687196",
+          "width": 64,
+          "x": 192,
+          "y": 320,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "f7c1bd2e-7798-4dbb-bc22-13f2d7865286",
+          "width": 64,
+          "x": 256,
+          "y": 320,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "12e7ca18-b912-44b1-96dc-954100a94427",
+          "width": 64,
+          "x": 320,
+          "y": 320,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "3aa6cf3f-dd1c-403b-b679-296cc04569b9",
+          "width": 64,
+          "x": 384,
+          "y": 320,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "5b3bc198-0c6e-433a-8940-14384dee9e00",
+          "width": 64,
+          "x": 448,
+          "y": 320,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "630d2e3c-ad66-4ab7-9e95-53742cfbd954",
+          "width": 64,
+          "x": 512,
+          "y": 320,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "664a3433-14de-4f9c-aa99-5a10e066a6a7",
+          "width": 64,
+          "x": 576,
+          "y": 320,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "1dbeffd9-8288-4df7-bb09-9f58dfcb81f2",
+          "width": 64,
+          "x": 640,
+          "y": 320,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "ca86473f-7cf7-40a0-b709-c0b5d0190785",
+          "width": 64,
+          "x": 704,
+          "y": 320,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "8d5b9cde-a712-4846-ac86-43a3d65c6913",
+          "width": 64,
+          "x": 768,
+          "y": 320,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "e4d766e2-e1b6-4b58-bc26-3001bcdd201d",
+          "width": 64,
+          "x": 832,
+          "y": 320,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "c7782de5-5a56-4ee1-901a-d118d32573e6",
+          "width": 64,
+          "x": 896,
+          "y": 320,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "3968c479-c204-41ed-81f7-0db5a5c3c820",
+          "width": 64,
+          "x": 960,
+          "y": 320,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "928d32e3-6752-4087-9e54-3232ac553a87",
+          "width": 64,
+          "x": 1024,
+          "y": 320,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "d61a8e2d-320c-4601-a3e5-f86472f53ce0",
+          "width": 64,
+          "x": 1088,
+          "y": 320,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "00ab00c0-9588-4f37-8be0-1382234d9293",
+          "width": 64,
+          "x": 1152,
+          "y": 320,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "4b19aebe-fbcc-4802-9b7e-8cf79c7930dd",
+          "width": 64,
+          "x": 1216,
+          "y": 320,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "2ba2fac9-25ad-4ce0-bfc6-f456497433ee",
+          "width": 64,
+          "x": 0,
+          "y": 256,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "8c2fca85-d2e0-4cf3-998b-e7a2be62c58e",
+          "width": 64,
+          "x": 64,
+          "y": 256,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "097e3447-8eaa-46c3-9f04-cf576ec6d6b5",
+          "width": 64,
+          "x": 128,
+          "y": 256,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "9b2a8e60-08ab-4162-a7c3-d256a832a7f4",
+          "width": 64,
+          "x": 192,
+          "y": 256,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "45b1dee0-119f-48ef-81e4-d2d5176fafd8",
+          "width": 64,
+          "x": 256,
+          "y": 256,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "4edb2fc6-4bd6-4f19-97f1-902d4a7bcd2f",
+          "width": 64,
+          "x": 320,
+          "y": 256,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "320ee78c-0283-4fa3-807b-3897d06d9cfb",
+          "width": 64,
+          "x": 384,
+          "y": 256,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "5d0715ae-71b2-44e1-80ad-b7af8a72db2a",
+          "width": 64,
+          "x": 448,
+          "y": 256,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "fec64837-4c9b-4ee1-886e-8d795659bafb",
+          "width": 64,
+          "x": 512,
+          "y": 256,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "9997482f-3691-4fe7-a5d9-9b2a766f9579",
+          "width": 64,
+          "x": 576,
+          "y": 256,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "27dcf962-19b7-47e0-8f01-47409c402c63",
+          "width": 64,
+          "x": 640,
+          "y": 256,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "6b2462ed-bfb3-4d82-9fb2-227e6eeedadb",
+          "width": 64,
+          "x": 704,
+          "y": 256,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "ba364b65-bf08-4999-be9f-d43e8226df53",
+          "width": 64,
+          "x": 768,
+          "y": 256,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "9a4b14bc-866e-49d0-a059-48f83e241370",
+          "width": 64,
+          "x": 832,
+          "y": 256,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "fe9e49f3-3a1a-4694-ae25-7eff9126fdcc",
+          "width": 64,
+          "x": 896,
+          "y": 256,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "43931194-29dd-4d44-b3a5-cdabb253e5c2",
+          "width": 64,
+          "x": 960,
+          "y": 256,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "3b8e940a-66ec-42c3-880e-952dc1ec9bf5",
+          "width": 64,
+          "x": 1024,
+          "y": 256,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "8340d001-0b7b-48fb-aac5-c7755bd809ee",
+          "width": 64,
+          "x": 1088,
+          "y": 256,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "bf2f0841-f1e1-4d92-a2c5-37beee11e43f",
+          "width": 64,
+          "x": 1152,
+          "y": 256,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "12963955-d07d-4696-938f-f4d298a9cbc0",
+          "width": 64,
+          "x": 1216,
+          "y": 256,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "70d633a5-3f0c-4d77-a2c4-2db6dcb6fde7",
+          "width": 64,
+          "x": 0,
+          "y": 192,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "15397547-adb4-48aa-991e-b9e2d37015b9",
+          "width": 64,
+          "x": 64,
+          "y": 192,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "8f9533ff-754d-4398-99e7-aa5b93562cb4",
+          "width": 64,
+          "x": 128,
+          "y": 192,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "4801e86c-5551-4925-84d9-30c082529ed1",
+          "width": 64,
+          "x": 192,
+          "y": 192,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "0b62d3b3-a17c-4dab-9dfc-f6bee0d9aef0",
+          "width": 64,
+          "x": 256,
+          "y": 192,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "f1a98216-3cd3-4c7b-bfdc-c9458f250f26",
+          "width": 64,
+          "x": 320,
+          "y": 192,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "45210754-2645-4489-ac09-26e69519d9cf",
+          "width": 64,
+          "x": 384,
+          "y": 192,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "e68d6763-badc-449e-a30f-4ded6305fc48",
+          "width": 64,
+          "x": 448,
+          "y": 192,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "a5e05ba4-87c0-43c1-91d5-746c7bdc132d",
+          "width": 64,
+          "x": 512,
+          "y": 192,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "4741e380-4c46-4aad-a1ed-4edd12c74343",
+          "width": 64,
+          "x": 576,
+          "y": 192,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "a7865541-3a83-4a3f-a2fc-068408224252",
+          "width": 64,
+          "x": 640,
+          "y": 192,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "a5d4c7e6-a3dd-414d-acc3-3a07e0227528",
+          "width": 64,
+          "x": 704,
+          "y": 192,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "1dbaadbc-f086-455b-8a34-61cfbe2e6da6",
+          "width": 64,
+          "x": 768,
+          "y": 192,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "ea8555b9-23ae-41d9-8e56-61c666ecfaf9",
+          "width": 64,
+          "x": 832,
+          "y": 192,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "6132ece2-ab99-4056-972c-4fac59013073",
+          "width": 64,
+          "x": 896,
+          "y": 192,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "7728902d-33b1-4a55-bd9f-d8ac70a03515",
+          "width": 64,
+          "x": 960,
+          "y": 192,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "c4dc2df7-e9c3-4506-ae6e-1e7ae253d276",
+          "width": 64,
+          "x": 1024,
+          "y": 192,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "afd082ff-e94a-41ff-bde2-64c00a0509aa",
+          "width": 64,
+          "x": 1088,
+          "y": 192,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "d3716654-24a5-438b-9cf8-eabfa49ca8eb",
+          "width": 64,
+          "x": 1152,
+          "y": 192,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "b80e612c-b9c6-4b1e-8d32-1515171a1919",
+          "width": 64,
+          "x": 1216,
+          "y": 192,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "da1c325a-abf2-4025-8e6b-31f83f9a392f",
+          "width": 64,
+          "x": 0,
+          "y": 128,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "3e0b6d4c-bd28-4f65-882b-d642c3ecaeda",
+          "width": 64,
+          "x": 64,
+          "y": 128,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "21e2b150-e86e-4e9d-8075-d82d6221a4f1",
+          "width": 64,
+          "x": 128,
+          "y": 128,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "38b28170-9b11-4b7a-a863-7d79ae71f4ee",
+          "width": 64,
+          "x": 192,
+          "y": 128,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "0dc0327d-898f-48c4-9acb-631893f9fe47",
+          "width": 64,
+          "x": 256,
+          "y": 128,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "81a79559-43d0-4c4d-92ac-77dfe364a4dd",
+          "width": 64,
+          "x": 320,
+          "y": 128,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "c5e63a18-35f1-4098-9603-022d313867c4",
+          "width": 64,
+          "x": 384,
+          "y": 128,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "a61f3cc4-2f49-430a-8ae8-84a81d3298e1",
+          "width": 64,
+          "x": 448,
+          "y": 128,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "33f1b2fd-5b6d-4ca5-9cf0-88fb734908ab",
+          "width": 64,
+          "x": 512,
+          "y": 128,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "bda5a14d-af1f-494c-9ac9-31073aad4501",
+          "width": 64,
+          "x": 576,
+          "y": 128,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "eaf8909e-2b05-452b-abd5-808e3e19e49f",
+          "width": 64,
+          "x": 640,
+          "y": 128,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "78db11b1-8d3f-40fb-bc44-cf3f7a149de4",
+          "width": 64,
+          "x": 704,
+          "y": 128,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "399d0193-be6a-4641-8970-a2269bbeb695",
+          "width": 64,
+          "x": 768,
+          "y": 128,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "0d6107b7-0113-44b2-b3ea-4f2a13b9e9d3",
+          "width": 64,
+          "x": 832,
+          "y": 128,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "64b5b747-582d-40ff-b644-1ed90e5c2645",
+          "width": 64,
+          "x": 896,
+          "y": 128,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "db42e053-8e6d-4fc2-8b78-c4e9fd218ac7",
+          "width": 64,
+          "x": 960,
+          "y": 128,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "d3c362f5-e8c8-4508-9c50-bca40ea67a76",
+          "width": 64,
+          "x": 1024,
+          "y": 128,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "7cc6fc5e-846a-4d47-b839-fd31039b1972",
+          "width": 64,
+          "x": 1088,
+          "y": 128,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "9ff61d83-c1e6-4ebf-a3b7-6c4ab0d85124",
+          "width": 64,
+          "x": 1152,
+          "y": 128,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "6b290cba-d67c-4732-9e45-d8705ea6dbee",
+          "width": 64,
+          "x": 1216,
+          "y": 128,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "29193af4-ea52-4dd0-8d84-36a0cb1453f6",
+          "width": 64,
+          "x": 0,
+          "y": 64,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "e638b8a1-e5a3-49b4-96af-2c4b35754cb8",
+          "width": 64,
+          "x": 64,
+          "y": 64,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "1aba9c23-434c-4498-a2c3-c4ea029b3ef7",
+          "width": 64,
+          "x": 128,
+          "y": 64,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "3aa3ce7e-dbaf-4a37-a75b-a1afca2a6f52",
+          "width": 64,
+          "x": 192,
+          "y": 64,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "6614a014-3c5f-4fa5-afac-4288ca669f7f",
+          "width": 64,
+          "x": 256,
+          "y": 64,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "ba9f7d6e-e940-44ee-9da4-1afbd165458a",
+          "width": 64,
+          "x": 320,
+          "y": 64,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "79314bff-ae82-4415-b89e-9b5c1f176450",
+          "width": 64,
+          "x": 384,
+          "y": 64,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "f0ac2595-9aab-4e13-a2b4-b7fb96620c14",
+          "width": 64,
+          "x": 448,
+          "y": 64,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "d79777e6-092b-4fcc-8a57-8c0951fa218f",
+          "width": 64,
+          "x": 512,
+          "y": 64,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "56508926-f9d3-4fda-88fe-208dea03fc9f",
+          "width": 64,
+          "x": 576,
+          "y": 64,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "fa5dad6c-70e6-48bd-8e8a-8fd3c63e4a6d",
+          "width": 64,
+          "x": 640,
+          "y": 64,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "e7173c72-62ce-48ed-9cd2-31f190a58996",
+          "width": 64,
+          "x": 704,
+          "y": 64,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "3b1866c5-3266-4108-b0d6-c077a293cab6",
+          "width": 64,
+          "x": 768,
+          "y": 64,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "e25866bd-ea36-4fd1-9c3e-d70954f66918",
+          "width": 64,
+          "x": 832,
+          "y": 64,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "9a7739bd-18aa-4ffd-9396-b25b642b8330",
+          "width": 64,
+          "x": 896,
+          "y": 64,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "218ccae5-286e-45e8-b52e-303049f9d378",
+          "width": 64,
+          "x": 960,
+          "y": 64,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "3b228dea-715f-40cb-8749-27a05ab0642b",
+          "width": 64,
+          "x": 1024,
+          "y": 64,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "bc8788a2-83b6-4f11-a8d7-057a6d43e52a",
+          "width": 64,
+          "x": 1088,
+          "y": 64,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "7379a4bc-10a9-4f4f-b664-1d965f6cd540",
+          "width": 64,
+          "x": 1152,
+          "y": 64,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "b8bb0ba6-55d9-456b-9098-b8cd821d54d8",
+          "width": 64,
+          "x": 1216,
+          "y": 64,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite2",
+          "persistentUuid": "c99f8344-9c0b-4970-b887-0897049f9fe5",
+          "width": 128,
+          "x": 0,
+          "y": 384,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite2",
+          "persistentUuid": "8c4033c3-eaeb-46dc-ace5-0a79f15ba0bc",
+          "width": 128,
+          "x": 128,
+          "y": 384,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite2",
+          "persistentUuid": "9d9ce20b-25fc-4e56-8f15-d827f08af193",
+          "width": 128,
+          "x": 256,
+          "y": 384,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite2",
+          "persistentUuid": "32a8b9a5-dc05-471f-8226-ad87c935e5e3",
+          "width": 128,
+          "x": 384,
+          "y": 384,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite2",
+          "persistentUuid": "6e9750e7-31bf-4a0e-adf3-d52a83932ce2",
+          "width": 768,
+          "x": 512,
+          "y": 384,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite2",
+          "persistentUuid": "49915511-4e82-4b9a-9140-4347ad9bc53e",
+          "width": 768,
+          "x": 0,
+          "y": 448,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite2",
+          "persistentUuid": "e39105d1-81ba-4d3c-a39c-bde2ee1ad7c5",
+          "width": 768,
+          "x": 0,
+          "y": 512,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite2",
+          "persistentUuid": "ef1c5623-ac63-4093-8e9b-8956da7186b6",
+          "width": 768,
+          "x": 0,
+          "y": 576,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite2",
+          "persistentUuid": "8fb805e2-0ab1-4cae-aef6-c82b19239dce",
+          "width": 768,
+          "x": 0,
+          "y": 640,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite2",
+          "persistentUuid": "4bf84116-9dc6-42b6-b436-b15ac860c285",
+          "width": 704,
+          "x": 576,
+          "y": 448,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite2",
+          "persistentUuid": "cdda9e00-92ac-4b70-bf96-c48626e9ce00",
+          "width": 704,
+          "x": 576,
+          "y": 512,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite2",
+          "persistentUuid": "748e4cfd-22de-469c-a795-1e87f95cdde4",
+          "width": 704,
+          "x": 576,
+          "y": 576,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite2",
+          "persistentUuid": "3aea460c-fb04-4c58-ac70-0f178edb46b4",
+          "width": 704,
+          "x": 576,
+          "y": 640,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite2",
+          "persistentUuid": "367bca5e-bbe9-44de-8416-6513a8e17f10",
+          "width": 64,
+          "x": 0,
+          "y": 320,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite2",
+          "persistentUuid": "bbe2cc3d-a650-4f81-b3f8-b4c0ee851c5a",
+          "width": 64,
+          "x": 0,
+          "y": 256,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite2",
+          "persistentUuid": "ce55ce9b-d772-4605-b464-fe6350c7f7ee",
+          "width": 64,
+          "x": 0,
+          "y": 192,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite2",
+          "persistentUuid": "0d58d4d9-aed9-4d04-995f-ba41e75fdb95",
+          "width": 64,
+          "x": 0,
+          "y": 128,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "NewTiledSprite2",
+          "persistentUuid": "4606f569-1601-443a-bec9-d1720645bd8c",
+          "width": 64,
+          "x": 0,
+          "y": 64,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 320,
+          "layer": "",
+          "name": "NewTiledSprite2",
+          "persistentUuid": "f70b474f-b8c4-4445-a9c9-4c4a1fe8f8ca",
+          "width": 1216,
+          "x": 0,
+          "y": -256,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 384,
+          "layer": "",
+          "name": "NewTiledSprite2",
+          "persistentUuid": "797639cc-3ce4-4535-8ae6-3d2e5bf0d84f",
+          "width": 64,
+          "x": 1216,
+          "y": 0,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "name": "player",
+          "persistentUuid": "fc07f3dc-1667-4225-99f6-d3dc63610bc5",
+          "width": 64,
+          "x": 128,
+          "y": 320,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 95,
+          "layer": "",
+          "name": "guard",
+          "persistentUuid": "d0d446cb-8e25-412c-bd27-6d459e485746",
+          "width": 99,
+          "x": 541,
+          "y": 289,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Lighting",
+          "name": "NewLight",
+          "persistentUuid": "4f5f2e87-df7f-4559-9605-18605f9c7f49",
+          "width": 0,
+          "x": 166,
+          "y": 345,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 896,
+          "layer": "",
+          "name": "NewTiledSprite2",
+          "persistentUuid": "7418c1e6-512b-4ae6-8961-02267a1e67ac",
+          "width": 576,
+          "x": -576,
+          "y": -192,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 144,
+          "layer": "",
+          "name": "door",
+          "persistentUuid": "3b333fd3-2797-4082-a13e-510ee99c80a8",
+          "width": 128,
+          "x": 1024,
+          "y": 240,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "NewTiledSprite",
+          "tags": "",
+          "texture": "Desain tanpa judul (1).png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "NewTiledSprite2",
+          "tags": "",
+          "texture": "Desain tanpa judul.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "player",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "acceleration": 1000,
+              "canGoDownFromJumpthru": true,
+              "canGrabPlatforms": false,
+              "canGrabWithoutMoving": true,
+              "deceleration": 1000,
+              "gravity": 1500,
+              "ignoreDefaultControls": false,
+              "jumpSpeed": 400,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 200,
+              "maxFallingSpeed": 272,
+              "maxSpeed": 150,
+              "slopeMaxAngle": 60,
+              "useLegacyTrajectory": false,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\player.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.165,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\player2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\player3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\lompat2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "guard",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "DialogBoxBackGround",
+              "type": "DialogBox::DialogBoxBackGround",
+              "Interval": 0.05,
+              "Se": "",
+              "Tween": "Tween",
+              "Duration": 250
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.1667,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "6587c902de7bb18a414846ba62750ac2c7355e6ee92a81bc80f67c205fb92960_Guard_Idle_1.png",
+                      "points": [
+                        {
+                          "name": "helloPoint",
+                          "x": -6,
+                          "y": -12.5
+                        },
+                        {
+                          "name": "questPoint",
+                          "x": -14.5,
+                          "y": -36
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "6587c902de7bb18a414846ba62750ac2c7355e6ee92a81bc80f67c205fb92960_Guard_Idle_2.png",
+                      "points": [
+                        {
+                          "name": "helloPoint",
+                          "x": -6,
+                          "y": -12.5
+                        },
+                        {
+                          "name": "questPoint",
+                          "x": -14.5,
+                          "y": -36
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "484753f40f6c72c64626ca96a437eb40eb66b84d8c41df075d900a62d5a4c955_Guard_Idle_3.png",
+                      "points": [
+                        {
+                          "name": "helloPoint",
+                          "x": -6,
+                          "y": -12.5
+                        },
+                        {
+                          "name": "questPoint",
+                          "x": -14.5,
+                          "y": -36
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "fc7c7cad9bae32091b4d74ca8cc3df553acb3a0aaf02d934a5091f783af4b342_Guard_Idle_4.png",
+                      "points": [
+                        {
+                          "name": "helloPoint",
+                          "x": -6,
+                          "y": -12.5
+                        },
+                        {
+                          "name": "questPoint",
+                          "x": -14.5,
+                          "y": -36
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "hello",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Hello,apakah kamu tersesat ?",
+          "font": "",
+          "textAlignment": "center",
+          "characterSize": 20,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "misi",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Pergi ke pintu itu dan \nkalah kan musuh musuh\nuntuk mendapatkan \nkoin yang banyak",
+          "font": "",
+          "textAlignment": "center",
+          "characterSize": 20,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewLight",
+          "tags": "",
+          "type": "Lighting::LightObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "radius": 200,
+            "color": "253;214;214",
+            "debugMode": false,
+            "texture": ""
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "door",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "door_anim_opening_f0",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "door_anim_opening_f0",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "door_anim_opening_f02",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "door_anim_opening_f03",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "door_anim_opening_f04",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "door_anim_opening_f05",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "door_anim_opening_f06",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "door_anim_opening_f07",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "door_anim_opening_f08",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "door_anim_opening_f09",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "door_anim_opening_f010",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "door_anim_opening_f011",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "door_anim_opening_f012",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "door_anim_opening_f013",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "door_anim_opening_f014",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "door_anim_opening_f015",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Desert Caravan.mp3",
+                "",
+                "20",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "guard",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "misi",
+                "guard.X(\"questPoint\")",
+                "guard.Y(\"questPoint\")",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "movement"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "player",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "FlipX"
+              },
+              "parameters": [
+                "player",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Right"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "player",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "FlipX"
+              },
+              "parameters": [
+                "player",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "player",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Or"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsJumping"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": {
+                "value": "VarScene"
+              },
+              "parameters": [
+                "doubleJump",
+                "<",
+                "2"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "player",
+                "=",
+                "2"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "Space"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::SetCanJump"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "doubleJump",
+                    "+",
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "doubleJump",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetCameraCenterX"
+              },
+              "parameters": [
+                "",
+                "=",
+                "lerp(CameraCenterX(),player.X(),0.04)",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCameraCenterY"
+              },
+              "parameters": [
+                "",
+                "=",
+                "lerp(CameraCenterY(),player.Y(),0.05)",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCenter"
+              },
+              "parameters": [
+                "NewLight",
+                "=",
+                "player.X()",
+                "=",
+                "player.Y()"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "door",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"level1\"",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 128,
+          "ambientLightColorG": 128,
+          "ambientLightColorR": 128,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
+          "followBaseLayerCamera": true,
+          "isLightingLayer": true,
+          "isLocked": false,
+          "name": "Lighting",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "DialogBoxBackGround",
+          "type": "DialogBox::DialogBoxBackGround"
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior"
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ]
     }
   ],
   "externalEvents": [],
@@ -28433,7 +33618,7 @@
                   "inlineCode": [
                     "let dbbg = eventsFunctionContext.getObjects(\"Object\")[0]._DialogBoxBackGround;",
                     "if (!dbbg) {eventsFunctionContext.returnValue = false;return;}",
-                    "eventsFunctionContext.returnValue = dbbg.State == \"Typing\";"
+                    "eventsFunctionContext.returnValue = dbbg.State == \"Hello\";"
                   ],
                   "parameterObjects": "",
                   "useStrict": true,
