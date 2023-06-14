@@ -2891,6 +2891,231 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_000.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/000",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_0002.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/0002",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_0003.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/0003",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_0004.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/0004",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_0005.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/0005",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_0006.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/0006",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_0007.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/0007",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_0008.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/0008",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_0009.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/0009",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_00010.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/00010",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_00011.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/00011",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_00012.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/00012",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_00013.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/00013",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_00014.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/00014",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_00015.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/00015",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_00016.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/00016",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_00017.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/00017",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_00018.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/00018",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_00019.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/00019",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_00020.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/00020",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_00021.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/00021",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_00022.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/00022",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_00023.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/00023",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_00024.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets/00024",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "2830.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "2830.jpg",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -3270,7 +3495,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.0695262128039182,
+        "zoomFactor": 0.40879235292913935,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -4610,21 +4835,6 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "height": 429,
-          "layer": "view",
-          "name": "windowBuy",
-          "persistentUuid": "aa69fb8a-dfef-4e0c-91bc-42dea867c67d",
-          "width": 1121,
-          "x": 81,
-          "y": 93,
-          "zOrder": 74,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 0,
           "layer": "",
@@ -4679,6 +4889,111 @@
           "x": 2091,
           "y": 413,
           "zOrder": 62,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "saw",
+          "persistentUuid": "98507a48-4bd5-4400-8390-8e927f0de518",
+          "width": 0,
+          "x": 202,
+          "y": 403,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "saw_left",
+          "persistentUuid": "819f7fb6-8dc7-4583-a3cb-d9c1a64a7fa4",
+          "width": 0,
+          "x": 699,
+          "y": 459,
+          "zOrder": 75,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 180,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "saw_right",
+          "persistentUuid": "175282c9-9f4e-455a-b1b0-df718ad014b7",
+          "width": 0,
+          "x": -20,
+          "y": 309,
+          "zOrder": 76,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "saw_left",
+          "persistentUuid": "1275e060-02b3-476f-9957-a4961452ff78",
+          "width": 0,
+          "x": 664,
+          "y": 111,
+          "zOrder": 77,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "tengkorak",
+          "persistentUuid": "80cbea8e-f7d1-489d-b245-6632e6b4a979",
+          "width": 0,
+          "x": 2081,
+          "y": 243,
+          "zOrder": 56,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 179,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "saw_right",
+          "persistentUuid": "0018629b-1ea5-495f-850f-c4a84641a7a3",
+          "width": 0,
+          "x": 2334,
+          "y": 153,
+          "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 429,
+          "layer": "view",
+          "name": "windowBuy",
+          "persistentUuid": "c7b0e8fa-326c-4486-bf9b-93b0e54a4d79",
+          "width": 1121,
+          "x": 80,
+          "y": 93,
+          "zOrder": 79,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5555,7 +5870,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets/Saw_On_1.png",
+                      "image": "assets/00017",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5572,7 +5887,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets/Saw_On_2.png",
+                      "image": "assets/00018",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5589,7 +5904,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets/Saw_On_3.png",
+                      "image": "assets/00019",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5606,7 +5921,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets/Saw_On_4.png",
+                      "image": "assets/00020",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5623,7 +5938,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets/Saw_On_5.png",
+                      "image": "assets/00021",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5640,7 +5955,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets/Saw_On_6.png",
+                      "image": "assets/00022",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5657,7 +5972,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets/Saw_On_7.png",
+                      "image": "assets/00023",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5674,7 +5989,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets/Saw_On_8.png",
+                      "image": "assets/00024",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5715,7 +6030,7 @@
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/Saw_Activate_8.png",
                       "points": [],
                       "originPoint": {
@@ -5729,10 +6044,33 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11.5,
+                            "y": 15.5
+                          },
+                          {
+                            "x": 21,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 22,
+                            "y": 32
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/Saw_Activate_9.png",
                       "points": [],
                       "originPoint": {
@@ -5746,10 +6084,33 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11.5,
+                            "y": 15.5
+                          },
+                          {
+                            "x": 21,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 22,
+                            "y": 32
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/Saw_Activate_10.png",
                       "points": [],
                       "originPoint": {
@@ -5763,10 +6124,33 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11.5,
+                            "y": 15.5
+                          },
+                          {
+                            "x": 21,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 22,
+                            "y": 32
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/Saw_Activate_11.png",
                       "points": [],
                       "originPoint": {
@@ -5780,10 +6164,33 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11.5,
+                            "y": 15.5
+                          },
+                          {
+                            "x": 21,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 22,
+                            "y": 32
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/Saw_Activate_12.png",
                       "points": [],
                       "originPoint": {
@@ -5797,10 +6204,33 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11.5,
+                            "y": 15.5
+                          },
+                          {
+                            "x": 21,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 22,
+                            "y": 32
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/Saw_Activate_13.png",
                       "points": [],
                       "originPoint": {
@@ -5814,7 +6244,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11.5,
+                            "y": 15.5
+                          },
+                          {
+                            "x": 21,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 22,
+                            "y": 32
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -5842,7 +6295,7 @@
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/Saw_Activate_8.png",
                       "points": [],
                       "originPoint": {
@@ -5856,10 +6309,33 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 15
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 20,
+                            "y": 32
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/Saw_Activate_9.png",
                       "points": [],
                       "originPoint": {
@@ -5873,10 +6349,33 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 15
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 20,
+                            "y": 32
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/Saw_Activate_10.png",
                       "points": [],
                       "originPoint": {
@@ -5890,10 +6389,33 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 15
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 20,
+                            "y": 32
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/Saw_Activate_11.png",
                       "points": [],
                       "originPoint": {
@@ -5907,10 +6429,33 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 15
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 20,
+                            "y": 32
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/Saw_Activate_12.png",
                       "points": [],
                       "originPoint": {
@@ -5924,10 +6469,33 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 15
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 20,
+                            "y": 32
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets/Saw_Activate_13.png",
                       "points": [],
                       "originPoint": {
@@ -5941,7 +6509,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 15
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 20,
+                            "y": 32
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -7400,6 +7991,43 @@
                 "",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "life",
+                "=",
+                "\"0\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarScene"
+              },
+              "parameters": [
+                "life",
+                "=",
+                "3"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"over1\"",
+                ""
+              ]
             }
           ]
         },
@@ -8251,6 +8879,246 @@
               },
               "parameters": [
                 "player",
+                "saw_right",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "player",
+                "<",
+                "saw.X()"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreX"
+              },
+              "parameters": [
+                "player",
+                "=",
+                "player.X()+30"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "player",
+                "health",
+                "-",
+                "5"
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteObject::Width"
+              },
+              "parameters": [
+                "HealthBar",
+                "=",
+                "clamp(player.Variable(health)/player.Variable(maxhealth)*250,0,250)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "saw_right",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "player",
+                ">",
+                "saw.X()"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreX"
+              },
+              "parameters": [
+                "player",
+                "=",
+                "player.X()+30"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "player",
+                "health",
+                "-",
+                "5"
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteObject::Width"
+              },
+              "parameters": [
+                "HealthBar",
+                "=",
+                "clamp(player.Variable(health)/player.Variable(maxhealth)*250,0,250)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "saw_left",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "player",
+                "<",
+                "saw.X()"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreX"
+              },
+              "parameters": [
+                "player",
+                "=",
+                "player.X()-30"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "player",
+                "health",
+                "-",
+                "5"
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteObject::Width"
+              },
+              "parameters": [
+                "HealthBar",
+                "=",
+                "clamp(player.Variable(health)/player.Variable(maxhealth)*250,0,250)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "saw_left",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "player",
+                ">",
+                "saw.X()"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreX"
+              },
+              "parameters": [
+                "player",
+                "=",
+                "player.X()-30"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "player",
+                "health",
+                "-",
+                "5"
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteObject::Width"
+              },
+              "parameters": [
+                "HealthBar",
+                "=",
+                "clamp(player.Variable(health)/player.Variable(maxhealth)*250,0,250)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
                 "saw",
                 "",
                 "",
@@ -8561,6 +9429,16 @@
                 "health",
                 "=",
                 "25"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "life",
+                "+",
+                "1"
               ]
             }
           ]
@@ -9169,14 +10047,14 @@
       "uiSettings": {
         "grid": false,
         "gridType": "rectangular",
-        "gridWidth": 32,
-        "gridHeight": 32,
+        "gridWidth": 16,
+        "gridHeight": 16,
         "gridOffsetX": 0,
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.6040838749988867,
+        "zoomFactor": 0.6244537826599993,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -9184,14 +10062,14 @@
       "instances": [
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 736,
           "layer": "",
           "name": "Bg_bl",
           "persistentUuid": "4be856a1-bfba-4cd5-9535-cc49b12e1748",
-          "width": 0,
-          "x": -296,
-          "y": -173,
+          "width": 1348,
+          "x": -8,
+          "y": -6,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -9202,27 +10080,12 @@
           "customSize": false,
           "height": 0,
           "layer": "",
-          "name": "over",
-          "persistentUuid": "3ac56bb5-f1a8-4507-8fd0-ef0127ba7d73",
+          "name": "cont",
+          "persistentUuid": "c163bc83-7916-4ded-adfb-1e4831e512fd",
           "width": 0,
-          "x": 450,
-          "y": -70,
+          "x": 439,
+          "y": 305,
           "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 128,
-          "layer": "",
-          "name": "retry",
-          "persistentUuid": "74c02c02-4967-4332-80ff-7f75ef538141",
-          "width": 113,
-          "x": 500,
-          "y": 316,
-          "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -9233,11 +10096,11 @@
           "height": 0,
           "layer": "",
           "name": "exit",
-          "persistentUuid": "9367f7d3-4452-4fda-8bd6-e024362b8840",
+          "persistentUuid": "1f35f69c-2f8f-472c-975d-794cb9065738",
           "width": 0,
-          "x": 670,
-          "y": 309,
-          "zOrder": 4,
+          "x": 742,
+          "y": 305,
+          "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -9252,28 +10115,11 @@
           "name": "Bg_bl",
           "rightMargin": 0,
           "tags": "",
-          "texture": "background_bl.jpg",
+          "texture": "2830.jpg",
           "tiled": false,
           "topMargin": 0,
           "type": "PanelSpriteObject::PanelSprite",
           "width": 1920,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "bottomMargin": 0,
-          "height": 400,
-          "leftMargin": 0,
-          "name": "over",
-          "rightMargin": 0,
-          "tags": "",
-          "texture": "over.png",
-          "tiled": false,
-          "topMargin": 0,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 400,
           "variables": [],
           "effects": [],
           "behaviors": []
@@ -9302,26 +10148,9 @@
         },
         {
           "assetStoreId": "",
-          "bottomMargin": 0,
-          "height": 90,
-          "leftMargin": 0,
-          "name": "retry",
-          "rightMargin": 0,
-          "tags": "",
-          "texture": "retry.png",
-          "tiled": false,
-          "topMargin": 0,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 90,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "bold": false,
+          "bold": true,
           "italic": false,
-          "name": "NewText",
+          "name": "cont",
           "smoothed": true,
           "tags": "",
           "type": "TextObject::Text",
@@ -9329,32 +10158,37 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "Text",
-          "font": "561d75b195f4dfcbdf0c38511984c83680574032d6b8c3c6a436a4fd32094320_DotGothic16-Regular.ttf",
+          "string": "CONTINUE",
+          "font": "f66c77b4a9335111fb8db2dc84354aeb1fc92eb0db7c7302e849c4d421eec02c_CaesarDressing-Regular.ttf",
           "textAlignment": "left",
-          "characterSize": 20,
+          "characterSize": 60,
           "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
+            "b": 26,
+            "g": 221,
+            "r": 14
           }
         },
         {
           "assetStoreId": "",
-          "bottomMargin": 0,
-          "height": 150,
-          "leftMargin": 0,
+          "bold": true,
+          "italic": false,
           "name": "exit",
-          "rightMargin": 0,
+          "smoothed": true,
           "tags": "",
-          "texture": "exit.png",
-          "tiled": false,
-          "topMargin": 0,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 150,
+          "type": "TextObject::Text",
+          "underlined": false,
           "variables": [],
           "effects": [],
-          "behaviors": []
+          "behaviors": [],
+          "string": "EXIT",
+          "font": "f66c77b4a9335111fb8db2dc84354aeb1fc92eb0db7c7302e849c4d421eec02c_CaesarDressing-Regular.ttf",
+          "textAlignment": "left",
+          "characterSize": 60,
+          "color": {
+            "b": 27,
+            "g": 2,
+            "r": 208
+          }
         }
       ],
       "events": [
@@ -9366,7 +10200,7 @@
                 "value": "SourisSurObjet"
               },
               "parameters": [
-                "retry",
+                "cont",
                 "",
                 "",
                 ""
