@@ -3116,6 +3116,420 @@
         "name": "2830.jpg",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_walk/frame_00_delay-0.1s.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_walk\\frame_00_delay-0.1s.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_walk/frame_01_delay-0.1s.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_walk\\frame_01_delay-0.1s.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_walk/frame_02_delay-0.1s.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_walk\\frame_02_delay-0.1s.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_walk/frame_03_delay-0.1s.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_walk\\frame_03_delay-0.1s.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_walk/frame_04_delay-0.1s.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_walk\\frame_04_delay-0.1s.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_walk/frame_05_delay-0.1s.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_walk\\frame_05_delay-0.1s.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_walk/frame_06_delay-0.1s.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_walk\\frame_06_delay-0.1s.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_walk/frame_07_delay-0.1s.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_walk\\frame_07_delay-0.1s.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_walk/frame_08_delay-0.1s.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_walk\\frame_08_delay-0.1s.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_walk/frame_09_delay-0.1s.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_walk\\frame_09_delay-0.1s.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_walk/frame_10_delay-0.1s.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_walk\\frame_10_delay-0.1s.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_walk/frame_11_delay-0.1s.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_walk\\frame_11_delay-0.1s.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_walk/frame_12_delay-0.1s.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_walk\\frame_12_delay-0.1s.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_attack/frame_00_delay-0.1s.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_attack\\frame_00_delay-0.1s.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_attack/frame_01_delay-0.1s.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_attack\\frame_01_delay-0.1s.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_attack/frame_02_delay-0.1s.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_attack\\frame_02_delay-0.1s.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_attack/frame_03_delay-0.1s.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_attack\\frame_03_delay-0.1s.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_attack/frame_04_delay-0.1s.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_attack\\frame_04_delay-0.1s.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_attack/frame_05_delay-0.1s.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_attack\\frame_05_delay-0.1s.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_attack/frame_06_delay-0.1s.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_attack\\frame_06_delay-0.1s.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_attack/frame_07_delay-0.1s.gif.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_attack\\frame_07_delay-0.1s.gif.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_attack/frame_08_delay-0.1s.gif.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_attack\\frame_08_delay-0.1s.gif.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_attack/frame_09_delay-0.1s.gif.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_attack\\frame_09_delay-0.1s.gif.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_attack/frame_10_delay-0.1s.gif.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_attack\\frame_10_delay-0.1s.gif.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_attack/frame_11_delay-0.1s.gif.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_attack\\frame_11_delay-0.1s.gif.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_attack/frame_12_delay-0.1s.gif.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_attack\\frame_12_delay-0.1s.gif.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_attack/frame_13_delay-0.1s.gif.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_attack\\frame_13_delay-0.1s.gif.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_attack/frame_14_delay-0.1s.gif.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_attack\\frame_14_delay-0.1s.gif.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_attack/frame_15_delay-0.1s.gif.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_attack\\frame_15_delay-0.1s.gif.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_attack/frame_16_delay-0.1s.gif.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_attack\\frame_16_delay-0.1s.gif.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_attack/frame_17_delay-0.1s.gif.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_attack\\frame_17_delay-0.1s.gif.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_dead/frame_00_delay-0.1s.gif.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_dead\\frame_00_delay-0.1s.gif.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_dead/frame_01_delay-0.1s.gif.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_dead\\frame_01_delay-0.1s.gif.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_dead/frame_02_delay-0.1s.gif.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_dead\\frame_02_delay-0.1s.gif.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_dead/frame_03_delay-0.1s.gif.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_dead\\frame_03_delay-0.1s.gif.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_dead/frame_04_delay-0.1s.gif.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_dead\\frame_04_delay-0.1s.gif.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_dead/frame_05_delay-0.1s.gif.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_dead\\frame_05_delay-0.1s.gif.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_dead/frame_06_delay-0.1s.gif.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_dead\\frame_06_delay-0.1s.gif.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_dead/frame_07_delay-0.1s.gif.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_dead\\frame_07_delay-0.1s.gif.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_dead/frame_08_delay-0.1s.gif.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_dead\\frame_08_delay-0.1s.gif.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_dead/frame_09_delay-0.1s.gif.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_dead\\frame_09_delay-0.1s.gif.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_dead/frame_10_delay-0.1s.gif.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_dead\\frame_10_delay-0.1s.gif.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_dead/frame_11_delay-0.1s.gif.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_dead\\frame_11_delay-0.1s.gif.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_dead/frame_12_delay-0.1s.gif.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_dead\\frame_12_delay-0.1s.gif.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_dead/frame_13_delay-0.1s.gif.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_dead\\frame_13_delay-0.1s.gif.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "skeleton/skeleton_dead/frame_14_delay-0.1s.gif.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "skeleton\\skeleton_dead\\frame_14_delay-0.1s.gif.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -3495,7 +3909,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.40879235292913935,
+        "zoomFactor": 0.8202891598751312,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -3591,8 +4005,8 @@
           "name": "player",
           "persistentUuid": "574db88b-fd3c-48db-b148-75958eba1d60",
           "width": 0,
-          "x": 82,
-          "y": 495,
+          "x": 79,
+          "y": 545,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -3741,8 +4155,8 @@
           "name": "NewTiledSprite",
           "persistentUuid": "180830d4-99a5-484e-adeb-492224ac33b3",
           "width": 268,
-          "x": 357,
-          "y": 320,
+          "x": 358,
+          "y": 317,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -3966,8 +4380,8 @@
           "name": "NewLight",
           "persistentUuid": "e2b0ff56-c667-4d5a-ad70-591c203936fd",
           "width": 300,
-          "x": 89,
-          "y": 497,
+          "x": -44,
+          "y": 484,
           "zOrder": 25,
           "numberProperties": [],
           "stringProperties": [],
@@ -4467,7 +4881,7 @@
           "persistentUuid": "a6e0974a-9722-4b9b-8d59-ea4fbd0ab948",
           "width": 36,
           "x": 275,
-          "y": 468,
+          "y": 471,
           "zOrder": 50,
           "numberProperties": [],
           "stringProperties": [],
@@ -4989,11 +5403,41 @@
           "height": 429,
           "layer": "view",
           "name": "windowBuy",
-          "persistentUuid": "c7b0e8fa-326c-4486-bf9b-93b0e54a4d79",
+          "persistentUuid": "44fb65da-5f31-4650-81e1-729c8597dfb4",
           "width": 1121,
-          "x": 80,
-          "y": 93,
+          "x": 250,
+          "y": -233,
           "zOrder": 79,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 53,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "0394f13c-2dd5-493b-b124-f09ddbb8c259",
+          "width": 225,
+          "x": -30,
+          "y": 402,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 53,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "f6245e65-b4ed-457d-8580-d9f94962bb7b",
+          "width": 225,
+          "x": -30,
+          "y": 455,
+          "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -7925,6 +8369,836 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "NewSprite44",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "skeleton",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "walk",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_walk\\frame_00_delay-0.1s.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_walk\\frame_01_delay-0.1s.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_walk\\frame_02_delay-0.1s.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_walk\\frame_03_delay-0.1s.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_walk\\frame_04_delay-0.1s.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_walk\\frame_05_delay-0.1s.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_walk\\frame_06_delay-0.1s.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_walk\\frame_07_delay-0.1s.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_walk\\frame_08_delay-0.1s.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_walk\\frame_09_delay-0.1s.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_walk\\frame_10_delay-0.1s.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_walk\\frame_11_delay-0.1s.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_walk\\frame_12_delay-0.1s.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "attack",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_attack\\frame_00_delay-0.1s.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_attack\\frame_01_delay-0.1s.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_attack\\frame_02_delay-0.1s.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_attack\\frame_03_delay-0.1s.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_attack\\frame_04_delay-0.1s.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_attack\\frame_05_delay-0.1s.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_attack\\frame_06_delay-0.1s.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_attack\\frame_07_delay-0.1s.gif.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_attack\\frame_08_delay-0.1s.gif.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_attack\\frame_09_delay-0.1s.gif.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_attack\\frame_10_delay-0.1s.gif.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_attack\\frame_11_delay-0.1s.gif.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_attack\\frame_12_delay-0.1s.gif.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_attack\\frame_13_delay-0.1s.gif.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_attack\\frame_14_delay-0.1s.gif.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_attack\\frame_15_delay-0.1s.gif.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_attack\\frame_16_delay-0.1s.gif.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_attack\\frame_17_delay-0.1s.gif.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "dead",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_dead\\frame_00_delay-0.1s.gif.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_dead\\frame_01_delay-0.1s.gif.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_dead\\frame_02_delay-0.1s.gif.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_dead\\frame_03_delay-0.1s.gif.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_dead\\frame_04_delay-0.1s.gif.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_dead\\frame_05_delay-0.1s.gif.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_dead\\frame_06_delay-0.1s.gif.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_dead\\frame_07_delay-0.1s.gif.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_dead\\frame_08_delay-0.1s.gif.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_dead\\frame_09_delay-0.1s.gif.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_dead\\frame_10_delay-0.1s.gif.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_dead\\frame_11_delay-0.1s.gif.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_dead\\frame_12_delay-0.1s.gif.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_dead\\frame_13_delay-0.1s.gif.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "skeleton\\skeleton_dead\\frame_14_delay-0.1s.gif.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
