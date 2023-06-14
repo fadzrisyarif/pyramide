@@ -3530,6 +3530,816 @@
         "name": "skeleton\\skeleton_dead\\frame_14_delay-0.1s.gif.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/walk.png\"}",
+        "name": "walk",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/walk2.png\"}",
+        "name": "walk2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/walk3.png\"}",
+        "name": "walk3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/walk4.png\"}",
+        "name": "walk4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/walk5.png\"}",
+        "name": "walk5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/walk6.png\"}",
+        "name": "walk6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/walk7.png\"}",
+        "name": "walk7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/walk8.png\"}",
+        "name": "walk8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/walk9.png\"}",
+        "name": "walk9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/walk10.png\"}",
+        "name": "walk10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/walk11.png\"}",
+        "name": "walk11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/walk12.png\"}",
+        "name": "walk12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/walk13.png\"}",
+        "name": "walk13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walk14",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walk15",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walk16",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walk17",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walk18",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walk19",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walk20",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walk21",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walk22",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walk23",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walk24",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walk25",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walk26",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walk27",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walk28",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walk29",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walk30",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walk31",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk32.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walk32",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk33.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walk33",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk34.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walk34",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk35.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walk35",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk36.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walk36",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk37.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walk37",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk38.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walk38",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walk39.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walk39",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dead10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dead10",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dead11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dead11",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dead12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dead12",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dead13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dead13",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dead14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dead14",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dead15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dead15",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dead16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dead16",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dead17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dead17",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dead18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dead18",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dead19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dead19",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dead20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dead20",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dead21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dead21",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dead22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dead22",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dead23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dead23",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/dead24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dead24",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack8",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack9",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack10",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack11",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack12",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack13",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack14",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack15",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack16",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack17",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack18",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack19",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack20",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack21",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack22",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack23",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack24",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack25",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack26",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack27",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack28",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack29",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack30",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack31",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack32.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack32",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack33.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack33",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack34.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack34",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack35.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack35",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack36.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack36",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -3909,7 +4719,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.8202891598751312,
+        "zoomFactor": 1.1428718828365463,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -4005,8 +4815,8 @@
           "name": "player",
           "persistentUuid": "574db88b-fd3c-48db-b148-75958eba1d60",
           "width": 0,
-          "x": 79,
-          "y": 545,
+          "x": 1400,
+          "y": 259,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -5368,21 +6178,6 @@
           "initialVariables": []
         },
         {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "tengkorak",
-          "persistentUuid": "80cbea8e-f7d1-489d-b245-6632e6b4a979",
-          "width": 0,
-          "x": 2081,
-          "y": 243,
-          "zOrder": 56,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
           "angle": 179,
           "customSize": false,
           "height": 0,
@@ -5405,8 +6200,8 @@
           "name": "windowBuy",
           "persistentUuid": "44fb65da-5f31-4650-81e1-729c8597dfb4",
           "width": 1121,
-          "x": 250,
-          "y": -233,
+          "x": -270,
+          "y": 29,
           "zOrder": 79,
           "numberProperties": [],
           "stringProperties": [],
@@ -5438,6 +6233,51 @@
           "x": -30,
           "y": 455,
           "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "skeleton",
+          "persistentUuid": "c07a2ee6-b500-4177-bffd-cb68ba6e2ab7",
+          "width": 0,
+          "x": 1618,
+          "y": 242,
+          "zOrder": 80,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "name": "batas",
+          "persistentUuid": "e32356b2-59f4-44ee-ba3f-ca5a37930a5f",
+          "width": 46,
+          "x": 1536,
+          "y": 240,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 66,
+          "layer": "",
+          "name": "batas",
+          "persistentUuid": "f84f3493-118f-4628-a4f7-0139fb0726ce",
+          "width": 49,
+          "x": 2278,
+          "y": 203,
+          "zOrder": 55,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8397,7 +9237,28 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "acceleration": 200,
+              "canGoDownFromJumpthru": true,
+              "canGrabPlatforms": false,
+              "canGrabWithoutMoving": true,
+              "deceleration": 200,
+              "gravity": 1000,
+              "ignoreDefaultControls": true,
+              "jumpSpeed": 600,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 50,
+              "slopeMaxAngle": 60,
+              "useLegacyTrajectory": false,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
               "name": "walk",
@@ -8405,11 +9266,12 @@
               "directions": [
                 {
                   "looping": true,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_walk\\frame_00_delay-0.1s.png",
+                      "image": "walk27",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8426,7 +9288,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_walk\\frame_01_delay-0.1s.png",
+                      "image": "walk28",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8443,7 +9305,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_walk\\frame_02_delay-0.1s.png",
+                      "image": "walk29",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8460,7 +9322,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_walk\\frame_03_delay-0.1s.png",
+                      "image": "walk30",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8477,7 +9339,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_walk\\frame_04_delay-0.1s.png",
+                      "image": "walk31",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8494,7 +9356,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_walk\\frame_05_delay-0.1s.png",
+                      "image": "walk32",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8511,7 +9373,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_walk\\frame_06_delay-0.1s.png",
+                      "image": "walk33",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8528,7 +9390,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_walk\\frame_07_delay-0.1s.png",
+                      "image": "walk34",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8545,7 +9407,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_walk\\frame_08_delay-0.1s.png",
+                      "image": "walk35",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8562,7 +9424,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_walk\\frame_09_delay-0.1s.png",
+                      "image": "walk36",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8579,7 +9441,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_walk\\frame_10_delay-0.1s.png",
+                      "image": "walk37",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8596,7 +9458,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_walk\\frame_11_delay-0.1s.png",
+                      "image": "walk38",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8613,7 +9475,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_walk\\frame_12_delay-0.1s.png",
+                      "image": "walk39",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8638,11 +9500,12 @@
               "directions": [
                 {
                   "looping": true,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_attack\\frame_00_delay-0.1s.png",
+                      "image": "attack19",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8659,7 +9522,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_attack\\frame_01_delay-0.1s.png",
+                      "image": "attack20",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8676,7 +9539,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_attack\\frame_02_delay-0.1s.png",
+                      "image": "attack21",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8693,7 +9556,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_attack\\frame_03_delay-0.1s.png",
+                      "image": "attack22",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8710,7 +9573,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_attack\\frame_04_delay-0.1s.png",
+                      "image": "attack23",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8727,7 +9590,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_attack\\frame_05_delay-0.1s.png",
+                      "image": "attack24",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8744,7 +9607,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_attack\\frame_06_delay-0.1s.png",
+                      "image": "attack25",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8761,7 +9624,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_attack\\frame_07_delay-0.1s.gif.png",
+                      "image": "attack26",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8778,7 +9641,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_attack\\frame_08_delay-0.1s.gif.png",
+                      "image": "attack27",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8795,7 +9658,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_attack\\frame_09_delay-0.1s.gif.png",
+                      "image": "attack28",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8812,7 +9675,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_attack\\frame_10_delay-0.1s.gif.png",
+                      "image": "attack29",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8829,7 +9692,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_attack\\frame_11_delay-0.1s.gif.png",
+                      "image": "attack30",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8846,7 +9709,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_attack\\frame_12_delay-0.1s.gif.png",
+                      "image": "attack31",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8863,7 +9726,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_attack\\frame_13_delay-0.1s.gif.png",
+                      "image": "attack32",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8880,7 +9743,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_attack\\frame_14_delay-0.1s.gif.png",
+                      "image": "attack33",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8897,7 +9760,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_attack\\frame_15_delay-0.1s.gif.png",
+                      "image": "attack34",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8914,7 +9777,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_attack\\frame_16_delay-0.1s.gif.png",
+                      "image": "attack35",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8931,7 +9794,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_attack\\frame_17_delay-0.1s.gif.png",
+                      "image": "attack36",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8956,11 +9819,12 @@
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_dead\\frame_00_delay-0.1s.gif.png",
+                      "image": "dead10",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8977,7 +9841,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_dead\\frame_01_delay-0.1s.gif.png",
+                      "image": "dead11",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8994,7 +9858,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_dead\\frame_02_delay-0.1s.gif.png",
+                      "image": "dead12",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -9011,7 +9875,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_dead\\frame_03_delay-0.1s.gif.png",
+                      "image": "dead13",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -9028,7 +9892,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_dead\\frame_04_delay-0.1s.gif.png",
+                      "image": "dead14",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -9045,7 +9909,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_dead\\frame_05_delay-0.1s.gif.png",
+                      "image": "dead15",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -9062,7 +9926,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_dead\\frame_06_delay-0.1s.gif.png",
+                      "image": "dead16",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -9079,7 +9943,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_dead\\frame_07_delay-0.1s.gif.png",
+                      "image": "dead17",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -9096,7 +9960,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_dead\\frame_08_delay-0.1s.gif.png",
+                      "image": "dead18",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -9113,7 +9977,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_dead\\frame_09_delay-0.1s.gif.png",
+                      "image": "dead19",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -9130,7 +9994,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_dead\\frame_10_delay-0.1s.gif.png",
+                      "image": "dead20",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -9147,7 +10011,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_dead\\frame_11_delay-0.1s.gif.png",
+                      "image": "dead21",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -9164,7 +10028,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_dead\\frame_12_delay-0.1s.gif.png",
+                      "image": "dead22",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -9181,7 +10045,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_dead\\frame_13_delay-0.1s.gif.png",
+                      "image": "dead23",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -9198,7 +10062,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "skeleton\\skeleton_dead\\frame_14_delay-0.1s.gif.png",
+                      "image": "dead24",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -10651,6 +11515,159 @@
                   "parameters": [
                     "tengkorak",
                     "no"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "AnimationName"
+              },
+              "parameters": [
+                "skeleton",
+                "\"walk\""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "FlippedX"
+                  },
+                  "parameters": [
+                    "skeleton"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::SimulateControl"
+                  },
+                  "parameters": [
+                    "skeleton",
+                    "PlatformerObject",
+                    "\"Right\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "FlippedX"
+                  },
+                  "parameters": [
+                    "skeleton"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::SimulateControl"
+                  },
+                  "parameters": [
+                    "skeleton",
+                    "PlatformerObject",
+                    "\"Left\""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionPoint"
+              },
+              "parameters": [
+                "batas",
+                "skeleton.PointX(\"btsCheck\")",
+                "skeleton.PointY(\"btsCheck\")"
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "FlippedX"
+                  },
+                  "parameters": [
+                    "tengkorak"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "FlipX"
+                  },
+                  "parameters": [
+                    "skeleton",
+                    "no"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionPoint"
+              },
+              "parameters": [
+                "batas",
+                "skeleton.PointX(\"btsCheck\")",
+                "skeleton.PointY(\"btsCheck\")"
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "FlippedX"
+                  },
+                  "parameters": [
+                    "tengkorak"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "FlipX"
+                  },
+                  "parameters": [
+                    "skeleton",
+                    "yes"
                   ]
                 }
               ]
