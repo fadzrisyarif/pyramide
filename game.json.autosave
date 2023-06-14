@@ -4719,7 +4719,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.1428718828365463,
+        "zoomFactor": 1.0695262128039253,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -6245,8 +6245,8 @@
           "name": "skeleton",
           "persistentUuid": "c07a2ee6-b500-4177-bffd-cb68ba6e2ab7",
           "width": 0,
-          "x": 1618,
-          "y": 242,
+          "x": 1628,
+          "y": 215,
           "zOrder": 80,
           "numberProperties": [],
           "stringProperties": [],
@@ -9499,7 +9499,7 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": true,
+                  "looping": false,
                   "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
@@ -11730,6 +11730,152 @@
                 "life",
                 "+",
                 "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "skeleton",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "player",
+                ">",
+                "skeleton.X()"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreX"
+              },
+              "parameters": [
+                "player",
+                "=",
+                "player.X()+30"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "player",
+                "health",
+                "-",
+                "2.5"
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteObject::Width"
+              },
+              "parameters": [
+                "HealthBar",
+                "=",
+                "clamp(player.Variable(health)/player.Variable(maxhealth)*250,0,250)"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "skeleton",
+                    "\"attack\""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "skeleton",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "player",
+                "<",
+                "skeleton.X()"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "skeleton",
+                "\"attack\""
+              ]
+            },
+            {
+              "type": {
+                "value": "MettreX"
+              },
+              "parameters": [
+                "player",
+                "=",
+                "player.X()-30"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "player",
+                "health",
+                "-",
+                "2.5"
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteObject::Width"
+              },
+              "parameters": [
+                "HealthBar",
+                "=",
+                "clamp(player.Variable(health)/player.Variable(maxhealth)*250,0,250)"
               ]
             }
           ]
