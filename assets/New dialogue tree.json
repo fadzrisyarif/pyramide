@@ -1,0 +1,22 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "<< nametag alex >> \nwhat an exotic creature!\n<< nametag lumina >>\nhey that's rude! i am lumina a desert fairy.\n<< nametag alex  >>\nyou even can talk and have name!? wonderful.\n<< nametag lumina >>\nof course i have a name. by the way what is your purpose in coming to this sacred pyramid ? stealing artifact? you have no difference than the others.\n<< nametag alex >>\nreally? well you'll see about that.\n<< nametag lumina >>\nhow arrogant. you will face a few obstacle along this journey, are you sure?\n<< nametag alex >>\nyes of course.\n<< nametag lumina >>\nokay i'll follow along.",
+		"position": {
+			"x": 247,
+			"y": 245
+		},
+		"colorID": 1
+	},
+	{
+		"title": "Node",
+		"tags": "",
+		"body": "Empty Text",
+		"position": {
+			"x": 518,
+			"y": 274
+		},
+		"colorID": 0
+	}
+]
